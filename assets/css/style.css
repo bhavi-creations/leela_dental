@@ -346,7 +346,7 @@ textarea:-ms-input-placeholder {
 }
 
 .bg-cover {
-  background-position: center center;
+ background: linear-gradient(to left,lightpink ,light red);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -1350,17 +1350,17 @@ select {
   line-height: 24px;
 }
 
-.btn-primary {
+/* .btn-primary {
   background-color: #009024;
   border-color: #009024;
   color: #ffffff;
-}
+} */
 
-.btn-primary:hover {
+/* .btn-primary:hover {
   background-color: #009024;
   border-color: #009024;
   color: #ffffff;
-}
+} */
 
 .btn-secondary {
   background-color: #240090;
@@ -2393,7 +2393,7 @@ select {
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 575px), only screen and (max-width: 767px) {
   .header-bottom-wrapper {
-    padding: 20px 30px;
+    padding: 0px 30px;
   }
 }
 
@@ -3447,7 +3447,7 @@ select {
 @media only screen and (max-width: 575px) {
   .slider-content .title {
     font-size: 30px;
-    margin-top: 15px;
+    margin-top: 77px;
   }
 }
 
@@ -3868,7 +3868,9 @@ select {
 }
 
 .features-text {
-  border-left: 2px solid #009024;
+  border-left: 2px solid #e60887
+
+  ;
   padding-left: 30px;
   margin-left: 60px;
 }
@@ -4369,7 +4371,8 @@ select {
 /*  04. About CSS
 /*----------------------------------------*/
 .about-area {
-  background-color: #EDF1FC;
+  /* background-color: #5c6c9f  ; */
+  background-color: rgb(155 177 248 / 23%);
   position: relative;
   z-index: 1;
 }
@@ -5281,7 +5284,9 @@ select {
 .service-area::before {
   content: "";
   position: absolute;
-  background-color: #EEFBFA;
+  background-color:  #6b639e ;
+
+
   top: 0;
   left: 0;
   width: 100%;
@@ -9645,7 +9650,7 @@ select {
 }
 
 .back-to-top {
-  background-color: #009024;
+  background-color: #e60887  ;
   width: 40px;
   height: 40px;
   text-align: center;

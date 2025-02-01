@@ -38,10 +38,10 @@
   left: 50%;
   margin-top: -50%;
   margin-left: -50%;
-  -webkit-animation: ytp-spinner-linspin 1568.2353ms linear infinite;
+  /* -webkit-animation: ytp-spinner-linspin 1568.2353ms linear infinite;
   -moz-animation: ytp-spinner-linspin 1568.2353ms linear infinite;
   -o-animation: ytp-spinner-linspin 1568.2353ms linear infinite;
-  animation: ytp-spinner-linspin 1568.2353ms linear infinite;
+  animation: ytp-spinner-linspin 1568.2353ms linear infinite; */
 }
 
 .preloader .loader .ytp-spinner .ytp-spinner-container .ytp-spinner-rotator {
