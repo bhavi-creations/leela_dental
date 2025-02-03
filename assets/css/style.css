@@ -2382,14 +2382,14 @@ select {
       -ms-flex-align: center;
           align-items: center;
   background-color: #ffffff;
-  padding: 25px 30px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
+  padding: 0px 25px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-bottom-wrapper {
-    padding: 25px;
+    padding: 0px 25px;
   }
 }
 
@@ -2433,7 +2433,7 @@ select {
 }
 
 .header-bottom.sticky .header-bottom-wrapper {
-  padding: 10px 0;
+  padding: 0px 0;
   background: none;
   border-radius: 0;
 }
@@ -2510,7 +2510,7 @@ select {
 
 .header-primary-menu .nav-menu li a {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 900;
   font-family: "Quicksand", sans-serif;
   color: #190F39;
   text-transform: capitalize;
@@ -2520,15 +2520,16 @@ select {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-primary-menu .nav-menu li a {
     font-size: 16px;
+    font-weight: 900 ;
   }
 }
 
 .header-primary-menu .nav-menu li a.active {
-  color: #009024;
+  color: #e60887;
 }
 
 .header-primary-menu .nav-menu li:hover > a {
-  color: #009024;
+  color: #e60887;
 }
 
 .header-primary-menu .nav-menu li:hover .sub-menu {
@@ -5202,7 +5203,7 @@ select {
 }
 
 .team-content .team-info ul li i {
-  color: #009024;
+  color: #e60887;
   margin-right: 5px;
   position: relative;
   top: 2px;
@@ -7623,36 +7624,20 @@ select {
 /*  04. Footer CSS
 /*----------------------------------------*/
 .footer-area {
-  background-color: #240090;
+  background-color: #5c6c9fb5;
   position: relative;
   z-index: 1;
   overflow: hidden;
 }
 
-.footer-area::before {
-  content: "";
-  position: absolute;
-  background-image: url(../images/footer-bg.png);
-  width: 100%;
-  height: 100%;
-  left: 0;
-  bottom: 0;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-position: center top;
-  z-index: -1;
-}
-
+ 
 @media only screen and (max-width: 767px) {
   .footer-area::before {
     display: none;
   }
 }
 
-.footer-widget-area {
-  padding-top: 70px;
-  padding-bottom: 65px;
-}
+ 
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-widget-area {
@@ -7674,10 +7659,7 @@ select {
     padding-right: 0;
   }
 }
-
-.footer-widget {
-  margin-top: 30px;
-}
+ 
 
 .footer-widget .title {
   font-size: 35px;
@@ -7850,7 +7832,7 @@ select {
 .footer-2-area::before {
   content: "";
   position: absolute;
-  background-image: url(../images/footer-bg.png);
+  /* background-image: url(../images/footer-bg.png); */
   width: 100%;
   height: 100%;
   left: 0;
@@ -9230,26 +9212,7 @@ select {
 /*----------------------------------------*/
 /*  04. Footer CSS
 /*----------------------------------------*/
-.footer-area {
-  background-color: #240090;
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-}
-
-.footer-area::before {
-  content: "";
-  position: absolute;
-  background-image: url(../images/footer-bg.png);
-  width: 100%;
-  height: 100%;
-  left: 0;
-  bottom: 0;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-position: center top;
-  z-index: -1;
-}
+ 
 
 @media only screen and (max-width: 767px) {
   .footer-area::before {
@@ -9258,8 +9221,8 @@ select {
 }
 
 .footer-widget-area {
-  padding-top: 70px;
-  padding-bottom: 65px;
+ 
+  padding-bottom: 50px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -9283,15 +9246,13 @@ select {
   }
 }
 
-.footer-widget {
-  margin-top: 30px;
-}
+ 
 
 .footer-widget .title {
   font-size: 35px;
   font-weight: 700;
   color: #ffffff;
-  margin-bottom: 55px;
+  margin-bottom: 25px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -9316,7 +9277,7 @@ select {
 }
 
 .footer-widget .footer-link li {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -9369,7 +9330,7 @@ select {
 }
 
 .footer-widget .footer-link li:hover a {
-  color: #009024;
+  color: #e60887;
   padding-left: 10px;
 }
 
@@ -9395,7 +9356,7 @@ select {
 
 .footer-widget .footer-info li i {
   font-size: 18px;
-  color: #009024;
+  color: #000000;
   margin-right: 5px;
   position: relative;
   top: 2px;
@@ -9458,7 +9419,7 @@ select {
 .footer-2-area::before {
   content: "";
   position: absolute;
-  background-image: url(../images/footer-bg.png);
+  /* background-image: url(../images/footer-bg.png); */
   width: 100%;
   height: 100%;
   left: 0;
@@ -9712,3 +9673,8 @@ select {
   background-color: #213B7B;
   color: #ffffff;
 }
+
+
+
+
+ 

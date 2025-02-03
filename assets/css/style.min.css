@@ -2369,7 +2369,7 @@ only screen and (max-width: 767px) {
 only screen and (max-width: 575px),
 only screen and (max-width: 767px) {
     .header-bottom-wrapper {
-        padding: 20px 30px
+        /* padding: 20px 30px */
     }
 }
 
