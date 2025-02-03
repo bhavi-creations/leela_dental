@@ -7537,6 +7537,9 @@ select {
   .page-banner-area {
     height: 400px;
   }
+  .page-banner-title .title{
+    margin-top: 80px;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {

@@ -21,7 +21,7 @@
                                  <li>
                                      <i class="ri-map-pin-add-line "></i>
 
-                                     S.P office opposite road near RMC ground kakinada
+                                     D.NO: 2-18-9/1, opposite to old SP Office Road Near RMC Ground Madhavnagar,Kakinada-533003
 
 
                                  </li>

@@ -311,128 +311,319 @@
 
        <!-- Team Content Wrapper Start -->
        <div class="team-content-wrapper">
-         <div class="row">
-           <div class="col-lg-4 col-md-4 col-sm-6">
-             <div class="team-item">
-               <!-- Team Img Start -->
-               <div class="team-img">
-                 <img src="assets/images/team/team-1.jpg" alt="" />
-               </div>
-               <!-- Team Img End -->
+         <div class="team-content-wrapper">
+           <div class="custom-slide-container swiper">
+             <div class="custom-slide-content   ">
+               <div class="custom-card-wrapper swiper-wrapper py-5">
 
-               <!-- Team Content Start -->
-               <div class="team-content text-center">
-                 <ul class="social">
-                   <li>
-                     <a href="#"><i class="ri-facebook-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-twitter-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-linkedin-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-instagram-fill"></i></a>
-                   </li>
-                 </ul>
-                 <h3 class="name">
-                   <a href="about.php">Dr. Victoria Jensen</a>
-                 </h3>
-                 <h5 class="designation">Oral Surgery</h5>
-                 <div class="team-info">
-                   <ul>
-                     <li>
-                       <i class="ri-mail-unread-fill"></i>
-                       <span>info@example.com</span>
-                     </li>
-                     <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                   </ul>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html"> Dr.K.V.Krishnam Raju</a>
+                         </h3>
+                         <h5 class="designation">Teeth Denture & implants specialist</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
+
+                 </div>
+
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">Dr.Y.Sunanda</a>
+                         </h3>
+                         <h5 class="designation">ROOT Canal specialist</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
+                 </div>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-2.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">Dr.Masapu Anupama</a>
+                         </h3>
+                         <h5 class="designation">Gums &Surgery specialist</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
+                 </div>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-3.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">Dr. CH.KIran </a>
+                         </h3>
+                         <h5 class="designation">clips specialist</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
+                 </div>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+
+                       <div class="team-img">
+                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       </div>
+
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">Dr.Ganesh </a>
+                         </h3>
+                         <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+
+                     </div>
+                   </div>
+                 </div>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">Dr Sahithi MDS</a>
+                         </h3>
+                         <h5 class="designation">CLIPS SPECIALIST</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
+                 </div>
+                 <div class="custom-card custom_card_bg_three swiper-slide">
+
+                   <div>
+                     <div class="team-item">
+                       <!-- Team Img Start -->
+                       <div class="team-img">
+                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       </div>
+                       <!-- Team Img End -->
+
+                       <!-- Team Content Start -->
+                       <div class="team-content text-center">
+                         <ul class="social">
+                           <li>
+                             <a href="#"><i class="ri-facebook-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-twitter-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-linkedin-fill"></i></a>
+                           </li>
+                           <li>
+                             <a href="#"><i class="ri-instagram-fill"></i></a>
+                           </li>
+                         </ul>
+                         <h3 class="name">
+                           <a href="doctor.html">DR.HARINI</a>
+                         </h3>
+                         <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
+                         <div class="team-info">
+                           <ul>
+                             <li>
+                               <i class="ri-mail-unread-fill"></i>
+                               <span>info@example.com</span>
+                             </li>
+                             <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+                           </ul>
+                         </div>
+                       </div>
+                       <!-- Team Content End -->
+                     </div>
+                   </div>
                  </div>
                </div>
-               <!-- Team Content End -->
-             </div>
-           </div>
-           <div class="col-lg-4 col-md-4 col-sm-6">
-             <div class="team-item">
-               <!-- Team Img Start -->
-               <div class="team-img">
-                 <img src="assets/images/team/team-2.jpg" alt="" />
-               </div>
-               <!-- Team Img End -->
-
-               <!-- Team Content Start -->
-               <div class="team-content text-center">
-                 <ul class="social">
-                   <li>
-                     <a href="#"><i class="ri-facebook-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-twitter-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-linkedin-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-instagram-fill"></i></a>
-                   </li>
-                 </ul>
-                 <h3 class="name">
-                   <a href="about.php">Dr. Victoria Jensen</a>
-                 </h3>
-                 <h5 class="designation">Oral Surgery</h5>
-                 <div class="team-info">
-                   <ul>
-                     <li>
-                       <i class="ri-mail-unread-fill"></i>
-                       <span>info@example.com</span>
-                     </li>
-                     <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                   </ul>
-                 </div>
-               </div>
-               <!-- Team Content End -->
-             </div>
-           </div>
-           <div class="col-lg-4 col-md-4 col-sm-6">
-             <div class="team-item">
-               <!-- Team Img Start -->
-               <div class="team-img">
-                 <img src="assets/images/team/team-3.jpg" alt="" />
-               </div>
-               <!-- Team Img End -->
-
-               <!-- Team Content Start -->
-               <div class="team-content text-center">
-                 <ul class="social">
-                   <li>
-                     <a href="#"><i class="ri-facebook-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-twitter-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-linkedin-fill"></i></a>
-                   </li>
-                   <li>
-                     <a href="#"><i class="ri-instagram-fill"></i></a>
-                   </li>
-                 </ul>
-                 <h3 class="name">
-                   <a href="about.php">Dr. Victoria Jensen</a>
-                 </h3>
-                 <h5 class="designation">Oral Surgery</h5>
-                 <div class="team-info">
-                   <ul>
-                     <li>
-                       <i class="ri-mail-unread-fill"></i>
-                       <span>info@example.com</span>
-                     </li>
-                     <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                   </ul>
-                 </div>
-               </div>
-               <!-- Team Content End -->
              </div>
            </div>
          </div>
@@ -442,6 +633,47 @@
    </div>
  </div>
  <!-- Team Section End -->
+
+
+ <!-- slider script  -->
+ <script>
+    var swiper = new Swiper(".custom-slide-content", {
+      slidesPerView: 3,
+      spaceBetween: 25,
+      loop: true,
+      centerslide: 'true',
+      fade: 'true',
+      grabCursor: 'true',
+      pagination: {
+        el: ".custom-swiper-pagination",
+        clickable: true,
+        dynamicBullets: true,
+      },
+      autoplay: {
+        delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+        disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+      },
+      navigation: {
+        nextEl: ".swiper-button-next.custom-swiper-navBtn",
+        prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+      },
+
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+        },
+        520: {
+          slidesPerView: 2,
+        },
+        950: {
+          slidesPerView: 3,
+        },
+      },
+    });
+  </script>
+
+
+<!-- slider script end  -->
 
  <!-- Service Section Start -->
  <div class="section service-area section-padding">
