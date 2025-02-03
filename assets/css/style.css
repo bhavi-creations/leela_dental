@@ -5529,11 +5529,13 @@ select {
 }
 
 .service-content .service-icon-wrapper .read-more:hover {
-  color: #009024;
+  color:#d853a2
+
+  ;
 }
 
 .service-content .service-icon-wrapper .read-more:hover::before {
-  background-color: #009024;
+  background-color: #d853a2;
 }
 
 .service-btn {
@@ -5542,7 +5544,9 @@ select {
 
 .service-btn .btn {
   padding: 0 50px;
-  background-color: #240090;
+  background-color: #d853a2
+
+  ;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
