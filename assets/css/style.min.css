@@ -142,7 +142,7 @@ a:focus,
 
 a:hover {
     text-decoration: none;
-    color: inherit
+    color: inherit;
 }
 
 ul,
@@ -2354,14 +2354,14 @@ only screen and (max-width: 767px) {
     -ms-flex-align: center;
     align-items: center;
     background-color: #ffffff;
-    padding: 25px 30px;
+    /* padding: 25px 30px; */
     border-top-left-radius: 50px;
     border-top-right-radius: 50px
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .header-bottom-wrapper {
-        padding: 25px
+        /* padding: 2px */
     }
 }
 
@@ -2390,7 +2390,7 @@ only screen and (max-width: 767px) {
 }
 
 .header-bottom-wrapper .header-btn .btn:hover {
-    background-color: #240090;
+    /* background-color: #240090; */
     color: #ffffff
 }
 
@@ -2502,13 +2502,13 @@ only screen and (max-width: 767px) {
     }
 }
 
-.header-primary-menu .nav-menu li a.active {
-    color: #009024
+/* .header-primary-menu .nav-menu li a.active {
+    color: #fc22fd
 }
 
 .header-primary-menu .nav-menu li:hover>a {
-    color: #009024
-}
+    color:#fc22fd
+} */
 
 .header-primary-menu .nav-menu li:hover .sub-menu {
     opacity: 1;
@@ -2546,7 +2546,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     background-color: #ffffff;
     -webkit-box-shadow: 2px 2px 20px rgba(17, 22, 30, 0.1);
     box-shadow: 2px 2px 20px rgba(17, 22, 30, 0.1);
-    border-top: 2px solid #009024;
+    /* border-top: 2px solid #009024; */
     padding: 6px 0;
     z-index: 9;
     opacity: 0;
@@ -2647,9 +2647,9 @@ only screen and (max-width: 767px) {
     align-items: center
 }
 
-.header-right .header-btn {
+/* .header-right .header-btn {
     margin-left: 50px
-}
+} */
 
 @media only screen and (min-width: 1200px) and (max-width: 1499px),
 only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5096,12 +5096,12 @@ only screen and (max-width: 767px) {
 }
 
 .team-content .social:hover {
-    background-color: #009024;
+    /* background-color: #009024; */
     border-color: transparent
 }
 
 .team-content .social:hover li a {
-    background-color: #ffffff;
+    background-color:red;
     color: #009024
 }
 

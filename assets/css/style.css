@@ -225,7 +225,7 @@ textarea:-ms-input-placeholder {
   font-size: 24px;
   font-weight: 500;
   margin-bottom: 20px;
-  color: #009024;
+  color: #f341a7;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
 }
@@ -1213,7 +1213,9 @@ select {
   display: inline-block;
   position: relative;
   overflow: hidden;
-  background-color: #009024;
+  background-color:#d853a2
+
+  ;
   border-color: transparent;
   color: #ffffff;
   border-radius: 50px;
@@ -1681,7 +1683,7 @@ select {
   border-color: #9f3484;
 }
 
-.btn-css3 {
+/* .btn-css3 {
   background-color: #0277BD;
   border-color: #0277BD;
   color: #ffffff;
@@ -1696,7 +1698,7 @@ select {
   background-color: #E44D26;
   border-color: #E44D26;
   color: #ffffff;
-}
+} */
 
 .btn-html5:hover {
   background-color: #d6411b;
@@ -2171,7 +2173,7 @@ select {
 .header-top-info ul i {
   font-size: 16px;
   margin-right: 8px;
-  color: #009024;
+  color:#fc22fd;
   position: relative;
   top: 2px;
 }
@@ -2197,14 +2199,14 @@ select {
   width: 30px;
   height: 30px;
   line-height: 30px;
-  background-color: #799DF8;
+  /* background-color: #799DF8; */
   color: #ffffff;
-  border-radius: 50%;
+  /* border-radius: 50%;   */
   text-align: center;
 }
 
 .social li:hover a {
-  background-color: #009024;
+  /* background-color: #009024; */
   color: #ffffff;
 }
 
@@ -2413,7 +2415,7 @@ select {
 }
 
 .header-bottom-wrapper .header-btn .btn:hover {
-  background-color: #240090;
+  background-color: #df57f1;
   color: #ffffff;
 }
 
@@ -3040,7 +3042,7 @@ select {
 }
 
 .info-social .social li a:hover {
-  background-color: #0AD7F8;
+  /* background-color: #0AD7F8; */
   color: #ffffff;
 }
 
@@ -3976,7 +3978,7 @@ select {
 
 .features-item .features-item-wrapper i {
   font-size: 60px;
-  color: #009024;
+  color: #e7008a;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (max-width: 575px), only screen and (max-width: 767px) {
@@ -3994,6 +3996,7 @@ select {
 .features-item .features-item-wrapper .title {
   font-size: 20px;
   font-weight: 700;
+  margin-top: 30px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5056,7 +5059,9 @@ select {
 
 .team-content .social {
   display: inline-block;
-  border: 1px solid #009024;
+  border: 1px solid #a880b9
+
+  ;
   background-color: #E1FFE8;
   padding: 15px;
   border-radius: 50px;
@@ -5080,7 +5085,9 @@ select {
 }
 
 .team-content .social:hover {
-  background-color: #009024;
+  background-color: #d853a2
+
+  ;
   border-color: transparent;
 }
 
@@ -5109,7 +5116,7 @@ select {
   height: 30px;
   line-height: 30px;
   color: #ffffff;
-  background-color: #240090;
+  background-color: #e60887 ;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
@@ -5391,7 +5398,7 @@ select {
 .service-content i {
   width: 70px;
   height: 70px;
-  background-color: #009024;
+  background-color: #df1598;
   color: #ffffff;
   text-align: center;
   line-height: 70px;
@@ -5436,7 +5443,9 @@ select {
 }
 
 .service-content i:hover {
-  background-color: #240090;
+  background-color: #d853a2
+
+  ;
   color: #ffffff;
 }
 
@@ -5643,7 +5652,7 @@ select {
 }
 
 .service-2-btn .btn:hover {
-  background-color: #0AD7F8;
+  background-color: red;
   color: #ffffff;
 }
 
@@ -5721,7 +5730,7 @@ select {
   position: absolute;
   width: 55%;
   height: 100%;
-  background-color: #240090;
+  background-color: #a880b9 ;
   right: 0;
   top: 0;
   z-index: -1;
@@ -5873,7 +5882,8 @@ select {
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  background-color: #009024;
+  /* background-color: #009024; */
+  background: linear-gradient(to right, #d9529e, #71547d);
   padding: 45px 40px;
   border-radius: 4px;
 }
