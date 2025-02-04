@@ -134,14 +134,37 @@
               <ul class="nav-menu">
                 <li><a class="active" href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li>
-                  <a class="" href="services.php">Services</a>
-                  <ul class="sub-menu">
-                    <li><a href="service1.php">Service 1</a></li>
-                    <li><a href="service2.php">Service 2</a></li>
-                    <li><a href="service3.php">Service 3</a></li>
-                  </ul>
-                </li>
+
+
+
+                 <li class="">
+                  <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Services
+                  </a>
+                  <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:700px;">
+                    <div class="row  ">
+
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop" href="implants.php"> Implants</a></li>
+                        <li><a class="dropdown-item services_drop" href="sterilization.php"> Sterilization</a></li>
+                        <li><a class="dropdown-item services_drop" href="bridges.php"> Bridges</a></li>
+                        <li><a class="dropdown-item services_drop" href="Rootcanal.php"> Rootcanal</a></li>
+                        <li><a class="dropdown-item services_drop" href="Clips-braces.php"> Clips or Braces</a></a></li>
+                        <li><a class="dropdown-item services_drop" href="Tooth-aligners.php"> Tooth Aligners</li>
+                        <li><a class="dropdown-item services_drop" href="Lasers.php"> Lasers</a></li>
+
+
+                      </div>
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop" href="Cosmetic-treatment.php"> Cosmetic Treatment</a></li>
+                        <li><a class="dropdown-item services_drop" href="Teeth-whitening.php"> Teeth Whitening</a></li>
+                        <li><a class="dropdown-item services_drop" href="Maxillofacial-surger.php"> Maxillofacial Surgery</a></li>
+                        <li><a class="dropdown-item services_drop" href="Gum-surgery.php"> Gum Surgery</a></li>
+                        <li><a class="dropdown-item services_drop" href="Dental-CT-Scan.php"> Dental CT Scan</a></li>
+                        <li><a class="dropdown-item services_drop" href="3D-X-Ray-php">3D X-Ray</a></li>
+                        <li><a class="dropdown-item services_drop" href="Teeth-jewellery.php"> Teeth Jewellery</a></li>
+                      </div>
+                </li> -->
 
 
                 <li><a href="blog.php">Blog</a></li>
@@ -224,14 +247,14 @@
             <li><a href="about.php">About</a></li>
 
             <li>
-                  <a class=" " href="services.php">Services</a>
-                  <ul class="sub-menu">
-                    <li><a href="service1.php">Service 1</a></li>
-                    <li><a href="service2.php">Service 2</a></li>
-                    <li><a href="service3.php">Service 3</a></li>
-                  </ul>
-                </li>
-              <a href="blog.php">Blog</a>
+              <a class=" " href="services.php">Services</a>
+              <ul class="sub-menu">
+                <li><a href="service1.php">Service 1</a></li>
+                <li><a href="service2.php">Service 2</a></li>
+                <li><a href="service3.php">Service 3</a></li>
+              </ul>
+            </li>
+            <a href="blog.php">Blog</a>
 
             </li>
 

@@ -92,31 +92,31 @@
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Implants</a>
+                                     <a href="implants.php">  Implants</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">   Sterilization</a>
+                                     <a href="sterilization.php">   Sterilization</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#"> Bridges</a>
+                                     <a href="bridges.php"> Bridges</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Rootcanal</a>
+                                     <a href="Rootcanal.php">  Rootcanal</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">   Clips or Braces</a>
+                                     <a href="Clips-braces.php">   Clips or Braces</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Tooth Aligners</a>
+                                     <a href="Tooth-aligners.php">  Tooth Aligners</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">   Lasers</a>
+                                     <a href="Lasers.php">   Lasers</a>
                                  </li>
                              </ul>
                          </div>
@@ -129,31 +129,31 @@
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Cosmetic Treatment</a>
+                                     <a href="Cosmetic-treatment.php">  Cosmetic Treatment</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Teeth Whitening</a>
+                                     <a href="Teeth-whitening.php">  Teeth Whitening</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Maxillofacial Surgery</a>
+                                     <a href="Maxillofacial-surger">  Maxillofacial Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">  Gum Surgery</a>
+                                     <a href="Gum-surgery.php">  Gum Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#"> Dental CT Scan  </a>
+                                     <a href="Dental-CT-Scan.php"> Dental CT Scan  </a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">3D X-Ray</a>
+                                     <a href="3D-X-Ray-php">3D X-Ray</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="#">   Teeth Jewellery</a>
+                                     <a href="Teeth-jewellery.php">   Teeth Jewellery</a>
                                  </li>
                              </ul>
                          </div>
