@@ -40,6 +40,11 @@
 
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
+
+  <!-- animation  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+
 </head>
 
 <body>
@@ -137,39 +142,52 @@
 
 
 
-                 <li class="">
-                  <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Services
-                  </a>
-                  <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:700px;">
-                    <div class="row  ">
-
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="implants.php"> Implants</a></li>
-                        <li><a class="dropdown-item services_drop" href="sterilization.php"> Sterilization</a></li>
-                        <li><a class="dropdown-item services_drop" href="bridges.php"> Bridges</a></li>
-                        <li><a class="dropdown-item services_drop" href="Rootcanal.php"> Rootcanal</a></li>
-                        <li><a class="dropdown-item services_drop" href="Clips-braces.php"> Clips or Braces</a></a></li>
-                        <li><a class="dropdown-item services_drop" href="Tooth-aligners.php"> Tooth Aligners</li>
-                        <li><a class="dropdown-item services_drop" href="Lasers.php"> Lasers</a></li>
-
+                <li class="dropdown ">
+                  <a href="services.php" id="servicesDropdown">Services</a>
+                  <ul class="sub-menu text-center">
+                    <div class="sub-menu-container">
+                      <div class="column">
+                        <li><a href="implants.php">Implants</a></li>
+                        <li><a href="sterilization.php">Sterilization</a></li>
+                        <li><a href="bridges.php">Bridges</a></li>
+                        <li><a href="Rootcanal.php">Root Canal</a></li>
+                        <li><a href="Clips-braces.php">Clips or Braces</a></li>
 
                       </div>
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="Cosmetic-treatment.php"> Cosmetic Treatment</a></li>
-                        <li><a class="dropdown-item services_drop" href="Teeth-whitening.php"> Teeth Whitening</a></li>
-                        <li><a class="dropdown-item services_drop" href="Maxillofacial-surger.php"> Maxillofacial Surgery</a></li>
-                        <li><a class="dropdown-item services_drop" href="Gum-surgery.php"> Gum Surgery</a></li>
-                        <li><a class="dropdown-item services_drop" href="Dental-CT-Scan.php"> Dental CT Scan</a></li>
-                        <li><a class="dropdown-item services_drop" href="3D-X-Ray-php">3D X-Ray</a></li>
-                        <li><a class="dropdown-item services_drop" href="Teeth-jewellery.php"> Teeth Jewellery</a></li>
+                      <div class="column">
+                        <li><a href="tooth-aligners.php">Tooth Aligners</a></li>
+                        <li><a href="Lasers.php">Lasers</a></li>
+                        <li><a href="Cosmetic-treatment.php">Cosmetic Treatment</a></li>
+                        <li><a href="Teeth-whitening.php">Teeth Whitening</a></li>
+                        <li><a href="maxillofacial-surger.php">Maxillofacial Surgery</a></li>
                       </div>
-                </li> -->
+                      <div class="column">
+
+                
+                        <li><a href="Gum-surgery.php">Gum Surgery</a></li>
+                        <li><a href="Dental-CT-Scan.php">Dental CT Scan</a></li>
+                        <li><a href="x-Ray.php">3D X-Ray</a></li>
+                        <li><a href="Teeth-jewellery.php">Teeth Jewellery</a></li>
+                      </div>
+                    </div>
+                  </ul>
+                </li>
 
 
                 <li><a href="blog.php">Blog</a></li>
+
+
+
                 <li><a href="contact.php">Contact</a></li>
+
+
+
+
+
               </ul>
+
+              </ul>
+
             </div>
 
             <div class="header-btn d-none d-lg-block">
@@ -246,15 +264,34 @@
             </li>
             <li><a href="about.php">About</a></li>
 
-            <li>
-              <a class=" " href="services.php">Services</a>
+            <li class="dropdown">
+              <a href="services.php" id="servicesDropdown">Services</a>
               <ul class="sub-menu">
-                <li><a href="service1.php">Service 1</a></li>
-                <li><a href="service2.php">Service 2</a></li>
-                <li><a href="service3.php">Service 3</a></li>
+                <div class="sub-menu-container">
+                  <div class="column">
+                    <li><a href="implants.php">Implants</a></li>
+                    <li><a href="sterilization.php">Sterilization</a></li>
+                    <li><a href="bridges.php">Bridges</a></li>
+                    <li><a href="Rootcanal.php">Root Canal</a></li>
+                    <li><a href="Clips-braces.php">Clips or Braces</a></li>
+                    <li><a href="tooth-aligners.php">Tooth Aligners</a></li>
+                    <li><a href="Lasers.php">Lasers</a></li>
+                  </div>
+                  <div class="column">
+                    <li><a href="Cosmetic-treatment.php">Cosmetic Treatment</a></li>
+                    <li><a href="Teeth-whitening.php">Teeth Whitening</a></li>
+                    <li><a href="maxillofacial-surger.php">Maxillofacial Surgery</a></li>
+                    <li><a href="Gum-surgery.php">Gum Surgery</a></li>
+                    <li><a href="Dental-CT-Scan.php">Dental CT Scan</a></li>
+                    <li><a href="x-Ray.php">3D X-Ray</a></li>
+                    <li><a href="Teeth-jewellery.php">Teeth Jewellery</a></li>
+                  </div>
+                </div>
               </ul>
             </li>
-            <a href="blog.php">Blog</a>
+
+
+            <li><a href="blog.php">Blog</a></li>
 
             </li>
 
@@ -265,3 +302,18 @@
       </div>
     </div>
     <!-- Mobile Menu End -->
+
+
+
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const servicesDropdown = document.getElementById("servicesDropdown");
+
+        // Allow clicking on "Services"
+        // to redirect to services.php
+        servicesDropdown.addEventListener("click", function(event) {
+          window.location.href = "services.php";
+        });
+      });
+    </script>

@@ -3884,10 +3884,12 @@ fieldset:disabled .btn {
 .dropstart,
 .dropup {
     position: relative
+    
 }
 
 .dropdown-toggle {
     white-space: nowrap
+ 
 }
 
 .dropdown-toggle::after {

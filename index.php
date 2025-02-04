@@ -132,13 +132,10 @@
            <div class="col-lg-5 col-md-5">
              <div class="features-text">
                <p>
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit
-                 Aenean et pellentes lacus. varius natoque penatibus et
-                 magnis dis parturient montes, nascetur ridiculus mus
-                 Curabitur sed venenatis massa,
+               At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr. Dr.K.V.Krishnam Raju  . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
                </p>
                <h3 class="name">
-                 Dr. Shauna Cusumano.<span>Founder</span>
+               Dr.K.V.Krishnam Raju<span>Founder</span>
                </h3>
              </div>
            </div>
@@ -166,14 +163,14 @@
                </div>
              </div>
            </div>
-           <div class="col">
+           <!-- <div class="col">
              <div class="features-item">
                <div class="features-item-wrapper">
                  <i class="flaticon-ambulance"></i>
                  <h4 class="title">Emergency Help Available</h4>
                </div>
              </div>
-           </div>
+           </div> -->
            <div class="col">
              <div class="features-item">
                <div class="features-item-wrapper">
@@ -219,18 +216,10 @@
            <!-- About Text Start -->
            <div class="about-text">
              <h2 class="title">
-               Fully Dedicated to Your Medical Dental Health.
+             Welcome to Leela Dental Hopsital 
              </h2>
              <p>
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Proin non sem <br />
-               lectus varius dapibus id blandit lacus. Sed odio est,
-               <br /><br />
-               Lorem ipsum dolor s amet, consectetur adipiscing elit. Fusce
-               ullamcorper, eros in lacinia ultrices, massa risus venenatis
-               arcu, ut eleifend ipsum nulla id lorem. Sed scelerisque et
-               justo id tincidunt. Fusce eu lorem at tortor vulputate
-               tempus eget nec purus.
+             At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
              </p>
            </div>
            <!-- About Text End -->
@@ -712,7 +701,7 @@
                    </h3>
                    <p>
                      Implants replace missing parts, restoring function and aesthetics.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./implants.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -734,7 +723,7 @@
                      <a href="services.php">Sterilization</a>
                    </h3>
                    <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./sterilization.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -753,10 +742,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php">Bridges</a>
+                     <a href="./services.php">Bridges</a>
                    </h3>
                    <p>Bridges replace missing teeth, restoring function and appearance.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./bridges.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -775,10 +764,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php">Rootcanal</a>
+                     <a href="./services.php">Rootcanal</a>
                    </h3>
                    <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./rootcanal.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -797,11 +786,11 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php"> Clips or Braces</a>
+                     <a href="./services.php"> Clips or Braces</a>
                    </h3>
                    <p>
                      Braces straighten teeth, improving alignment and oral health.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./clips-braces.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -820,10 +809,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php"> Tooth Aligners</a>
+                     <a href="./services.php"> Tooth Aligners</a>
                    </h3>
                    <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./tooth-aligners.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -842,10 +831,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php"> Lasers</a>
+                     <a href=""> Lasers</a>
                    </h3>
                    <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
-                   <a class="read-more" href="#">Know More</a>
+                   <a class="read-more" href="./lasers.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -864,7 +853,7 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php">Cosmetic Treatment</a>
+                     <a href="./cosmetic-treatment.php">Cosmetic Treatment</a>
                    </h3>
                    <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
                    <a class="read-more" href="#">Know More</a>
@@ -891,7 +880,7 @@
  <!-- Service Section End -->
 
  <!--  Appointment Section Start -->
- <div class="section appointment-area">
+ <div class="section appointment-area py-5">
    <div class="container">
      <!--  Appointment Wrapper Start -->
      <div class="appointment-wrapper">
@@ -934,9 +923,17 @@
 
              <!--  Appointment Form Inner Start -->
              <div class="appointment-form-inner">
-               <form id="contact-form" action="assets/contact.php" method="post">
+
+
+
+
+
+
+
+             
+               <form id="contact-form" action="appointmentform.php" method="post">
                  <div class="row">
-                   <div class="col-sm-6">
+                   <!-- <div class="col-sm-6">
                      <div class="single-form">
                        <select>
                          <option value="0">Select Services</option>
@@ -959,7 +956,7 @@
                          <option value="5">Doctor 05</option>
                        </select>
                      </div>
-                   </div>
+                   </div> -->
                    <div class="col-sm-6">
                      <div class="single-form">
                        <input type="text" placeholder="Your Name" />

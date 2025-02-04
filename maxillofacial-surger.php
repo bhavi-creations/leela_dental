@@ -1,16 +1,18 @@
 <?php include "./header.php"; ?>
 
+
+
 <div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/services.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <!--  Page Banner Title Start -->
                 <div class="page-banner-title text-center">
-                    <h2 class="title"> Teeth Jewellery</h2>
+                    <h2 class="title">Maxillofacial Surger</h2>
                     <!--  Page Banner Breadcrumb Start -->
                     <ul class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page"> Teeth-jewellery</li>
+                        <li class="breadcrumb-item active" aria-current="page">Maxillofacial Surger</li>
                     </ul>
                     <!--  Page Banner Breadcrumb End -->
                 </div>
@@ -19,7 +21,6 @@
         </div>
     </div>
 </div>
-
 
 <section class="my-5">
     <div class="container">
@@ -31,7 +32,7 @@
 <section class="mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6">
+            <div class="col-6">
                 <p>
                 Maxillofacial surgery is a specialized branch of surgery that focuses on the diagnosis, treatment, and surgical management of conditions affecting the face, jaw, neck, and mouth. This type of surgery plays a critical role in restoring both the function and appearance of the facial structures, addressing everything from congenital defects to traumatic injuries or serious infections.
 
@@ -41,11 +42,10 @@
 
 </p>
             </div>
-            <div class="col-12 col-md-6"></div>
+            <div class="col-6"></div>
         </div>
 
     </div>
 </section>
-
 
 <?php include "./footer.php"; ?>

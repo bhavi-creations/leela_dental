@@ -544,7 +544,7 @@ only screen and (max-width: 767px) {
 .nav-tabs .nav-item .nav-link {
     margin: 0 0 -1px;
     border: none;
-    padding: 15px 20px;
+    /* padding: 15px 20px; */
     position: relative;
     border-right: 1px solid #eeeeee;
     border-bottom: 1px solid #eeeeee;
