@@ -9686,77 +9686,40 @@ select {
 
 
 
-/* chat gpt  */
 
-.navbar {
-  display: flex;
-  justify-content: center;  /* Centers items horizontally */
-  align-items: center;      /* Vertically aligns items */
-  width: 100%;
-}
-
-/* Styling for the dropdown to ensure it's in the center */
-.dropdown {
-  position: relative;  /* Makes sure the dropdown menu is placed correctly */
-}
-
-/* Centering the dropdown menu */
 .sub-menu {
   position: absolute;
-  top: 100%;  /* Positions the menu directly under the dropdown */
-  left: 50%;  /* Centers the submenu horizontally */
-  transform: translateX(-50%);  /* Adjusts the position to truly center the submenu */
-  min-width: 650px;  /* Optional: Controls the width of the dropdown */
-  display: none;  /* Makes sure the dropdown menu is hidden by default */
-  background-color: white;  /* Optional: background color */
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Optional: shadow for dropdown */
-  z-index: 1;  /* Ensures the dropdown is above other content */
-  padding: 10px 0;  /* Optional: Adds padding around the dropdown */
+  top: calc(100% - 15px); /* Moves the menu 15px up */
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 650px; 
+  display: none; 
+  background-color: white; 
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); 
+  z-index: 1;
+  padding: 10px 0;
+  border-top: 2px solid #000; /* Adds a border at the top */
 }
 
-/* Showing the dropdown menu when hovering over the main link */
+/* Ensuring the dropdown remains visible when hovered */
 .dropdown:hover .sub-menu {
   display: block;
 }
 
-/* Make sure the columns inside the dropdown are styled properly */
+/* Sub-menu container adjustments */
 .sub-menu-container {
   display: flex;
-  justify-content: space-around; /* Distribute columns evenly */
+  justify-content: space-around;
   width: 100%;
- 
 }
 
-.column {
-  list-style: none;
-  margin-top: -15px !important;
-  padding: 0;
-  width: 30%;  /* Ensures columns take up 30% of the dropdown width */
-  margin: 0 10px; /* Optional: Adjust spacing between columns */
-}
-
-.column li {
-  padding: 10px;
-}
-
-.column li a {
-  text-decoration: none;
-  color: #333;
-  display: block;
-  white-space: normal;  /* Allow text to wrap */
-  word-wrap: break-word; /* Break long words to fit */
-  overflow-wrap: break-word; /* Additional handling for very long words */
-}
-
-.column li a:hover {
-  background-color: #f1f1f1;  /* Optional: hover effect */
-}
-
-.services_rootcanal{
-  margin-top: 500px !important;
-}
-
-
-.services_bottom{
-  margin: 20px !important;
+/* Adjusting the sub-menu's top border */
+.sub-menu::before {
+  content: "";
+  position: absolute;
+  top: -15px; /* Moves the top border 15px higher */
+  left: 0;
+  right: 0;
+  height: 15px;
+  background: transparent; /* Keeps background transparent */
 }
