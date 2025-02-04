@@ -47,8 +47,9 @@
 
                 </p>
             </div>
-            <div class="col-12 col-md-6 animate__animated animate__fadeInLeft"></div>
-        </div>
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
+                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            </div>
 
     </div>
 </section>

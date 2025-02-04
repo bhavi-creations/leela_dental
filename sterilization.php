@@ -21,7 +21,7 @@
 
 <section class="my-5">
     <div class="container">
-        <h1 class="text-center services_rootcanal">Maxillofacial Surger treatment</h1>
+        <h1 class="text-center services_rootcanal">Sterilization treatment</h1>
         <p class="text-center">Restoring Function and Aesthetic Harmony
         Advanced Treatment for Facial Injuries, Deformities, and Disorders </p>
     </div>
@@ -39,8 +39,9 @@
 
 </p>
             </div>
-            <div class="col-12 col-md-6"></div>
-        </div>
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
+                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            </div>
 
     </div>
 </section>

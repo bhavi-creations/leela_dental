@@ -32,7 +32,7 @@
 <section class="mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-6">
+            <div class="col-12 col-md-6">
                 <p>
                 Maxillofacial surgery is a specialized branch of surgery that focuses on the diagnosis, treatment, and surgical management of conditions affecting the face, jaw, neck, and mouth. This type of surgery plays a critical role in restoring both the function and appearance of the facial structures, addressing everything from congenital defects to traumatic injuries or serious infections.
 
@@ -42,8 +42,9 @@
 
 </p>
             </div>
-            <div class="col-6"></div>
-        </div>
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
+                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            </div>
 
     </div>
 </section>

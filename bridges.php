@@ -43,14 +43,8 @@
 
                 </p>
             </div>
-            <div class="col-12 col-md-6 animate__animated animate__fadeInLeft">
-            <p >
-                The primary purpose of a dental bridge is to fill the gap left by a missing tooth, restoring the ability to chew and speak properly. It also helps prevent the surrounding teeth from shifting into the gap, which could lead to further dental issues. Bridges are made from durable materials such as porcelain, ceramic, or metal, designed to match the natural color of your teeth, ensuring that the bridge blends seamlessly with your smile.
-
-
-
-
-                </p>
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
+                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
             </div>
         </div>
 

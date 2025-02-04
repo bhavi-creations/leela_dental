@@ -9724,10 +9724,12 @@ select {
   display: flex;
   justify-content: space-around; /* Distribute columns evenly */
   width: 100%;
+ 
 }
 
 .column {
   list-style: none;
+  margin-top: -15px !important;
   padding: 0;
   width: 30%;  /* Ensures columns take up 30% of the dropdown width */
   margin: 0 10px; /* Optional: Adjust spacing between columns */
@@ -9752,4 +9754,9 @@ select {
 
 .services_rootcanal{
   margin-top: 500px !important;
+}
+
+
+.services_bottom{
+  margin: 20px !important;
 }

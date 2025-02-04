@@ -34,7 +34,7 @@
 <section class="mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-6">
+            <div class="col-12 col-md-6">
                 <p>
                     Dental implants are a modern and highly effective solution for replacing missing teeth. They consist of a titanium post that is surgically placed into the jawbone, acting as a replacement for the tooth root. Once the implant integrates with the bone (a process called osseointegration), a crown, bridge, or denture is placed on top to restore the appearance and function of a natural tooth.
 
@@ -46,8 +46,9 @@
 
                 </p>
             </div>
-            <div class="col-6"></div>
-        </div>
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
+                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            </div>
 
     </div>
 </section>
