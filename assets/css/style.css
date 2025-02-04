@@ -6765,7 +6765,8 @@ select {
   display: block;
   text-align: center;
   line-height: 35px;
-  color: #009024;
+  color: grey
+  ;
   font-size: 15px;
   background-color: #ffffff;
   -webkit-box-shadow: 0 0 50px rgba(84, 80, 80, 0.25);
@@ -6800,7 +6801,7 @@ select {
   font-weight: 500;
   text-transform: uppercase;
   font-family: "Quicksand", sans-serif;
-  color: #009024;
+  color: #eb1261;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px), only screen and (max-width: 575px) {
@@ -8242,7 +8243,7 @@ select {
     padding: 0 35px;
     line-height: 48px;
     font-size: 16px;
-    
+
   }
 }
 

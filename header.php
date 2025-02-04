@@ -75,10 +75,10 @@
             <!-- Header Info Start  -->
             <div class="header-top-info">
               <ul>
-                <li>
+                <!-- <li>
                   <i class="ri-map-pin-add-line"></i>
                   <span>S.P office opposite road near RMC ground kakinada</span>
-                </li>
+                </li> -->
                 <li>
                   <i class="ri-mail-unread-fill"></i>
                   <span>leeladentalcare123@gmail.com</span>
@@ -134,11 +134,8 @@
               <ul class="nav-menu">
                 <li><a class="active" href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-
- 
-
                 <li>
-                  <a class=" " href="services.php">Services</a>
+                  <a class="" href="services.php">Services</a>
                   <ul class="sub-menu">
                     <li><a href="service1.php">Service 1</a></li>
                     <li><a href="service2.php">Service 2</a></li>
@@ -149,10 +146,6 @@
 
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
-
-
-
-
               </ul>
             </div>
 
