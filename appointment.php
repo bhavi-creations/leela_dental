@@ -51,28 +51,28 @@
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="single-form">
-                                        <label>Email Address :</label>
-                                        <input name="email" id="email" type="email">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="single-form">
-                                        <label>Subject :</label>
-                                        <input type="text" name="subject">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="single-form">
-                                        <label>Number :</label>
+                                        <label>Phone :</label>
                                         <input type="text" name="number">
                                     </div>
                                 </div>
-                                <div class="col-lg-12">
+
+
+                                <div class="col-lg-6">
                                     <div class="single-form">
-                                        <label>Write a message :</label>
-                                        <textarea name="message" id="message"></textarea>
+                                        <label>Date :</label>
+                                        <input type="date" name="date">
                                     </div>
                                 </div>
+
+
+                                <div class="col-lg-6">
+                                    <div class="single-form">
+                                        <label>Write a message :</label>
+                                        <input  type="text" name="message" id="message">
+                                    </div>
+                                </div>
+
+
                                 <p class="form-message mt-3 alert-danger"></p>
                                 <div class="col-lg-12">
                                     <div class="single-form">

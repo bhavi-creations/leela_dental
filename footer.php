@@ -34,7 +34,7 @@
                                          <a href="https://www.facebook.com/Leelasuperspecialitydentalhospital/"> <img src="assets/images/icon/facebook.png" alt=""></a>
                                      </li>
                                      <li>
-                                         <a href="https://www.youtube.com/@Leeladentalcare">
+                                         <a href="https://www.youtube.com/@leeladentalcare123">
                                              <!-- <i class="ri-twitter-fill"></i>  -->
                                              <img src="assets/images/icon/youtube.png" alt="" class="img-fluid"></a>
                                      </li>

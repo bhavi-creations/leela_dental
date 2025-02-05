@@ -1,5 +1,5 @@
 <?php include "./header.php"; ?>
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/services.png);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/sub_services.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -42,8 +42,8 @@
 
 </p>
             </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
-                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight service_image ">
+                <img src="assets/images/services2/sterlization.png" alt="" class="img-fluid">
             </div>
 
     </div>

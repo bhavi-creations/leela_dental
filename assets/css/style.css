@@ -3555,12 +3555,12 @@ select {
 }
 
 .slider-content .btn-white {
-  background-color: #ffffff;
-  color: #009024;
+  background-color:#383689;
+  color: #d31b1b;
 }
 
 .slider-content .btn-white:hover {
-  background-color: #009024;
+  background-color: #e7058b  ;
   color: #ffffff;
 }
 
@@ -5302,7 +5302,7 @@ select {
   top: 0;
   left: 0;
   width: 100%;
-  height: 68.5%;
+  height: 86.5%;
   z-index: -1;
 }
 
@@ -9747,8 +9747,25 @@ select {
   
  }
 
+.service_image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px 0px;
+  border-radius: 80px !important;
+}
+
+.service_content{
+  padding: 50px;
+}
+
+.contact_btn{
+  color: white
 
 
 
-
-
+  ;
+}
+.service_section{
+  margin-top: -100px !important
+}

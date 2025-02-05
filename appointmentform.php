@@ -10,10 +10,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = $_POST['name'] ?? '';
     $phone = $_POST['number'] ?? '';
     $email = $_POST['email'] ?? '';
-    $date = $_POST['subject'] ?? '';
+    $date = $_POST['date'] ?? '';
     // $department = $_POST['department'] ?? '';
-    
+    $message = $_POST['date'] ?? '';
     $message = $_POST['message'] ?? '';
+    //   index php details 
+    // $name = $_POST['name'] ?? '';
+    // $phone = $_POST['number'] ?? '';
+    // $email = $_POST['email'] ?? '';
+    // $message = $_POST['date'] ?? '';
 
 
     echo $name;
@@ -31,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('manimalladi05@gmail.com', 'srinivasadentalkakinada.com'); // Your Gmail email and name
+        $mail->setFrom('manimalladi05@gmail.com', 'manimalladi05.com'); // Your Gmail email and name
         $mail->addAddress('manimalladi05@gmail.com', 'srinivasadentalkakinada.com'); // Recipient's email and name
 
 // Content
@@ -42,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <h1>New Appointment</h1>
             <p><strong>Name:</strong> $name</p>
             <p><strong>Phone:</strong> $phone</p>
-            <p><strong>Email:</strong> $email</p>
+             
             <p><strong>Date:</strong> $date</p>
             <p><strong>Message:</strong>$message</p>
         ";

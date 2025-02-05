@@ -109,7 +109,7 @@
                   </li>
 
                   <li>
-                    <a href="https://www.youtube.com/@Leeladentalcare">
+                    <a href="https://www.youtube.com/@leeladentalcare123">
                       <img src="assets/images/icon/youtube.png" alt="" class="img-fluid"></a>
                   </li>
 
@@ -238,7 +238,7 @@
         <!-- Header Info End -->
 
         <!-- Header Social Start -->
-        <div class="header-social">
+        <!-- <div class="header-social">
           <ul class="social">
             <li>
               <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -253,7 +253,7 @@
               <a href="#"><i class="ri-instagram-fill"></i></a>
             </li>
           </ul>
-        </div>
+        </div> -->
         <!-- Header Social End -->
 
         <div class="mobile-menu">

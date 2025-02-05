@@ -4,7 +4,7 @@
  <div class="section slider-area slider-active">
    <!-- Single Slider Start -->
    <div class="single-slider bg-cover d-flex align-items-center"
-     - style="background-image: url(assets/images/slider/slider-1.png)">
+     - style="background-image: url(assets/images/slider/Img\ \(3\).png)">
      <div class="container">
        <!-- Slider Content Start -->
        <div class="slider-content">
@@ -15,9 +15,10 @@
            High-Quality Dental Care
          </h2>
          <p data-animation="fadeInUp" data-delay="0.7s">
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-           non sem et lectus varius dapibus id blandit lacus. Sed odio est,
-           mattis ac cursus et, blandit id ex
+           Leela Dental Hospital offers comprehensive dental care with advanced technology and expert specialists to ensure healthy and beautiful smiles. We provide pain-free treatments, including root canals, dental implants, orthodontics, and cosmetic dentistry, in a hygienic and patient-friendly environment. Our mission is to deliver high-quality, affordable, and personalized dental solutions for patients of all ages.
+
+
+
          </p>
          <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
          <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
@@ -37,7 +38,7 @@
 
    <!-- Single Slider Start -->
    <div class="single-slider bg-cover d-flex align-items-center"
-     style="background-image: url(assets/images/slider/slider-1.png)">
+     style="background-image: url(assets/images/slider/Img\ \(3\).png)">
      <div class="container">
        <!-- Slider Content Start -->
        <div class="slider-content">
@@ -48,9 +49,9 @@
            High-Quality Dental Care
          </h2>
          <p data-animation="fadeInUp" data-delay="0.7s">
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-           non sem et lectus varius dapibus id blandit lacus. Sed odio est,
-           mattis ac cursus et, blandit id ex
+           Leela Dental Hospital is a trusted name in modern dentistry, offering a wide range of treatments from basic oral care to advanced dental procedures. Our expert team ensures precision, comfort, and long-lasting results, making every visit a positive experience.
+
+
          </p>
          <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
          <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
@@ -70,7 +71,7 @@
 
    <!-- Single Slider Start -->
    <div class="single-slider bg-cover d-flex align-items-center"
-     style="background-image: url(assets/images/slider/slider-1.png)">
+     style="background-image: url(assets/images/slider/Img\ \(3\).png)">
      <div class="container">
        <!-- Slider Content Start -->
        <div class="slider-content">
@@ -81,9 +82,7 @@
            High-Quality Dental Care
          </h2>
          <p data-animation="fadeInUp" data-delay="0.7s">
-           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-           non sem et lectus varius dapibus id blandit lacus. Sed odio est,
-           mattis ac cursus et, blandit id ex
+           We believe that good oral health leads to overall well-being, which is why we offer personalized treatments tailored to each patient’s needs. With cutting-edge technology and a compassionate approach, we help you achieve a bright and confident smile for life.
          </p>
          <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
          <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
@@ -123,19 +122,20 @@
                  Family.
                </h2>
                <p>
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                 Proin non sem lectus varius dapibus id blandit lacus. Sed
-                 odio est,
-               </p>
+                 Comprehensive Dental Care for a Healthy Smile</p>
+               <p>Advanced Technology & Expert Dental Specialists</p>
+               <p>Painless & Affordable Treatments for All Ages</p>
+               <p>Your Trusted Destination for Quality Dental Services,</p>
+
              </div>
            </div>
            <div class="col-lg-5 col-md-5">
              <div class="features-text">
                <p>
-               At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr. Dr.K.V.Krishnam Raju  . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+                 At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr. Dr.K.V.Krishnam Raju . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
                </p>
                <h3 class="name">
-               Dr.K.V.Krishnam Raju<span>Founder</span>
+                 Dr.K.V.Krishnam Raju<span>Founder</span>
                </h3>
              </div>
            </div>
@@ -159,7 +159,7 @@
              <div class="features-item">
                <div class="features-item-wrapper">
                  <i class="flaticon-medicine"></i>
-                 <h4 class="title">Trusted Medical Treatment</h4>
+                 <h4 class="title">Trusted Dental Treatment</h4>
                </div>
              </div>
            </div>
@@ -208,18 +208,18 @@
          <div class="col-lg-6 col-md-6">
            <!-- About Img Start -->
            <div class="about-img">
-             <img src="assets/images/team/team-1.png" alt="" />
+             <img src="assets/images/team/hospital.png" alt="" class="img-fluid" />
            </div>
            <!-- About Img End -->
          </div>
          <div class="col-lg-6 col-md-6">
            <!-- About Text Start -->
-           <div class="about-text">
+           <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
              <h2 class="title">
-             Welcome to Leela Dental Hopsital 
+               Welcome to Leela Dental Hopsital
              </h2>
              <p>
-             At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
+               At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
              </p>
            </div>
            <!-- About Text End -->
@@ -240,7 +240,7 @@
            <!-- Research Content Start -->
            <div class="research-content-wrapper">
              <div class="section-title research-title">
-               <h3 class="sub-title">Top Research</h3>
+               <!-- <h3 class="sub-title">Top Research</h3> -->
                <h2 class="title">Dr. Victoria Jensen</h2>
                <p>
                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -626,43 +626,43 @@
 
  <!-- slider script  -->
  <script>
-    var swiper = new Swiper(".custom-slide-content", {
-      slidesPerView: 3,
-      spaceBetween: 25,
-      loop: true,
-      centerslide: 'true',
-      fade: 'true',
-      grabCursor: 'true',
-      pagination: {
-        el: ".custom-swiper-pagination",
-        clickable: true,
-        dynamicBullets: true,
-      },
-      autoplay: {
-        delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
-        disableOnInteraction: false, // Keeps autoplay active even after manual swiping
-      },
-      navigation: {
-        nextEl: ".swiper-button-next.custom-swiper-navBtn",
-        prevEl: ".swiper-button-prev.custom-swiper-navBtn",
-      },
+   var swiper = new Swiper(".custom-slide-content", {
+     slidesPerView: 3,
+     spaceBetween: 25,
+     loop: true,
+     centerslide: 'true',
+     fade: 'true',
+     grabCursor: 'true',
+     pagination: {
+       el: ".custom-swiper-pagination",
+       clickable: true,
+       dynamicBullets: true,
+     },
+     autoplay: {
+       delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+       disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+     },
+     navigation: {
+       nextEl: ".swiper-button-next.custom-swiper-navBtn",
+       prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+     },
 
-      breakpoints: {
-        0: {
-          slidesPerView: 1,
-        },
-        520: {
-          slidesPerView: 2,
-        },
-        950: {
-          slidesPerView: 3,
-        },
-      },
-    });
-  </script>
+     breakpoints: {
+       0: {
+         slidesPerView: 1,
+       },
+       520: {
+         slidesPerView: 2,
+       },
+       950: {
+         slidesPerView: 3,
+       },
+     },
+   });
+ </script>
 
 
-<!-- slider script end  -->
+ <!-- slider script end  -->
 
  <!-- Service Section Start -->
  <div class="section service-area section-padding">
@@ -869,7 +869,7 @@
        <!-- Service Button start -->
        <div class="row justify-content-center">
          <div class="service-btn text-center">
-           <a class="btn" href="">View All Services</a>
+           <a class="btn" href="services.php">View All Services</a>
          </div>
        </div>
        <!-- Service Button End -->
@@ -891,11 +891,11 @@
              <div class="section-title appointment-main-title">
                <h3 class="sub-title">Appointment</h3>
                <h2 class="title">Make An Appointment</h2>
-               <p>
+               <!-- <p>
                  Lorem ipsum dolor sit amet, consectetur adipiscing egestas
                  Phasellus rutrum ante a tortor efficitur, quis tempor
                  tellus. Nunc pulvinar elit vitae sagittis tristique.
-               </p>
+               </p> -->
              </div>
              <!--  Appointment Title End -->
 
@@ -914,6 +914,7 @@
                <div class="appointment-title">
                  <h3 class="title">Book An Appointment</h3>
                  <span>Please Call Us To Ensure</span>
+                 <h3 class="contact_btn "><i class="ri-phone-fill"></i>+91-91006 86678</h3>
                </div>
                <div class="appointment-icon">
                  <i class="ri-phone-fill"></i>
@@ -930,54 +931,31 @@
 
 
 
-             
-               <form id="contact-form" action="appointmentform.php" method="post">
+
+               <!-- <form id="contact-form" action="appointmentform.php" method="post">
                  <div class="row">
-                   <!-- <div class="col-sm-6">
-                     <div class="single-form">
-                       <select>
-                         <option value="0">Select Services</option>
-                         <option value="1">Services 01</option>
-                         <option value="2">Services 02</option>
-                         <option value="3">Services 03</option>
-                         <option value="4">Services 04</option>
-                         <option value="5">Services 05</option>
-                       </select>
-                     </div>
-                   </div>
+
                    <div class="col-sm-6">
                      <div class="single-form">
-                       <select>
-                         <option value="0">Choose Doctor</option>
-                         <option value="1">Doctor 01</option>
-                         <option value="2">Doctor 02</option>
-                         <option value="3">Doctor 03</option>
-                         <option value="4">Doctor 04</option>
-                         <option value="5">Doctor 05</option>
-                       </select>
-                     </div>
-                   </div> -->
-                   <div class="col-sm-6">
-                     <div class="single-form">
-                       <input type="text" placeholder="Your Name" />
+                       <input type="text" placeholder="Your Name" name="name" />
                        <i class="flaticon-user"></i>
                      </div>
                    </div>
                    <div class="col-sm-6">
                      <div class="single-form">
-                       <input type="email" placeholder="Email Address" />
+                       <input type="email" placeholder="Email Address" name="email" />
                        <i class="flaticon-message"></i>
                      </div>
                    </div>
                    <div class="col-sm-6">
                      <div class="single-form">
-                       <input type="text" placeholder="Your Phone" />
+                       <input type="text" placeholder="Your Phone" name="number" />
                        <i class="flaticon-phone-call"></i>
                      </div>
                    </div>
                    <div class="col-sm-6">
                      <div class="single-form">
-                       <input type="text" id="datepicker" placeholder="Select Date & Time" />
+                       <input type="text" id="datepicker" placeholder="Select Date & Time" name="date" />
                      </div>
                    </div>
                    <div class="col-sm-12">
@@ -990,7 +968,59 @@
                      </button>
                    </div>
                  </div>
+               </form> -->
+
+               <form action="appointmentform.php" method="post" role="form" class="php-email-form"
+                 data-aos-delay="100">
+                 <div class="row">
+                 <div class="col-sm-6">
+                     <div class="single-form">
+                       <input type="text" placeholder="Your Name" name="name" />
+                       <i class="flaticon-user"></i>
+                     </div>
+                   </div>
+                   <div class="col-sm-6">
+                     <div class="single-form">
+                       <input type="text" placeholder="Your Phone" name="number" />
+                       <i class="flaticon-phone-call"></i>
+                     </div>
+                   </div>
+
+
+                   <div class="col-lg-6">
+                     <div class="single-form">
+                       <label></label>
+                       <input type="date" name="date" placeholder="Date ">
+                     </div>
+                   </div>
+
+
+                   <div class="col-lg-6">
+                     <div class="single-form">
+                       <label> </label>
+                       <input type="text" name="message" id="message" placeholder="Write a message">
+                     </div>
+                   </div>
+
+
+                   <p class="form-message mt-3 alert-danger"></p>
+                   <div class="col-lg-12">
+                     <div class="single-form">
+                       <button class="btn" type="submit"> Make Appointment</button>
+                     </div>
+                   </div>
+                 </div>
                </form>
+
+
+
+
+
+
+
+
+
+
              </div>
              <!--  Appointment Form Inner End -->
            </div>
@@ -1013,10 +1043,7 @@
            <!--  Result Title Start -->
            <div class="section-title result-title text-center">
              <h2 class="title">The Best Possible Results</h2>
-             <p>
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Nulla, tempor et ex consequat, dignissim finibus enim.
-             </p>
+
            </div>
            <!--  Result Title End -->
          </div>
@@ -1036,18 +1063,14 @@
                <div class="result-content text-center">
                  <h2 class="title">Before</h2>
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                   lectus varius dapibus id blandit lacus.
-                 </p>
+                   ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
                </div>
              </div>
              <div class="col-lg-6 col-md-6 col-sm-6">
                <div class="result-content text-center">
                  <h2 class="title">After</h2>
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                   lectus varius dapibus id blandit lacus.
-                 </p>
+                   avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
                </div>
              </div>
            </div>
@@ -1086,14 +1109,14 @@
                    <i class="flaticon-right-quotation-mark"></i>
                  </div>
                  <div class="testimonial-client">
-                   <h3 class="name">Marie Adkins</h3>
+                   <h3 class="name">
+                     K.V.RAMESH</h3>
                    <span>Dental patient</span>
                  </div>
                </div>
                <div class="testimonial-text">
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur Phasellus rutrum
-                   ante a tortor efficitur quis tempor tellus mollis.
+                   I visited Leela dental clinic for my dental procedure they guided me so well for the treatment plan procedure was stress free has been very helpful and responsible throughout the year and I strongly recommended this clinic
                  </p>
                </div>
              </div>
@@ -1106,14 +1129,15 @@
                    <i class="flaticon-right-quotation-mark"></i>
                  </div>
                  <div class="testimonial-client">
-                   <h3 class="name">Marie Adkins</h3>
+                   <h3 class="name">
+                     Srinu Koripuri</h3>
                    <span>Dental patient</span>
                  </div>
                </div>
                <div class="testimonial-text">
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur Phasellus rutrum
-                   ante a tortor efficitur quis tempor tellus mollis.
+                   I am so grateful to have found Dr krishnam Raju and his wonderful staff.after struggling with various teeth issues for years ,i am convinced that that I am really looking better now receiving the very best,state of the art care that I have ever experienced anywhere.dr krishnam raju is amazing and he is the best dentist in kakinada
+
                  </p>
                </div>
              </div>
@@ -1126,14 +1150,15 @@
                    <i class="flaticon-right-quotation-mark"></i>
                  </div>
                  <div class="testimonial-client">
-                   <h3 class="name">Marie Adkins</h3>
+                   <h3 class="name">
+                     Ravi Shankar</h3>
                    <span>Dental patient</span>
                  </div>
                </div>
                <div class="testimonial-text">
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur Phasellus rutrum
-                   ante a tortor efficitur quis tempor tellus mollis.
+                   My mom got the root canal treatment recently here. Satisfied with the treatment and the overall process. Next steps at each visit are communicated clearly.
+
                  </p>
                </div>
              </div>
@@ -1146,14 +1171,17 @@
                    <i class="flaticon-right-quotation-mark"></i>
                  </div>
                  <div class="testimonial-client">
-                   <h3 class="name">Marie Adkins</h3>
+                   <h3 class="name">
+                     murali gajula</h3>
                    <span>Dental patient</span>
                  </div>
                </div>
                <div class="testimonial-text">
                  <p>
-                   Lorem ipsum dolor sit amet, consectetur Phasellus rutrum
-                   ante a tortor efficitur quis tempor tellus mollis.
+                   Excellent treatment
+                   Wonderful equipment
+                   Many thanks to Dr.Bhavana for excellent treatment and care as well as nice guidance
+                   Reception staff were also supportive and helpful.nice manners.
                  </p>
                </div>
              </div>
@@ -1167,13 +1195,13 @@
  <!--  Testimonial Area End -->
 
  <!--  Blog Area Start -->
- <div class="section blog-area section-padding">
-   <div class="container">
-     <!--  Blog Wrapper Start -->
+ <!-- <div class="section blog-area section-padding"> -->
+ <!-- <div class="container">
+    
      <div class="blog-wrapper">
        <div class="row justify-content-center">
          <div class="col-lg-10">
-           <!--  Blog Title Start -->
+           
            <div class="section-title blog-title text-center">
              <h2 class="title">Our Latest Blog & News</h2>
              <p>
@@ -1181,22 +1209,22 @@
                Nulla, tempor et ex consequat, dignissim finibus enim.
              </p>
            </div>
-           <!--  Blog Title End -->
+      
          </div>
        </div>
 
-       <!--  Blog Content Wrapper Start -->
-       <div class="blog-content-wrapper">
+   
+       <!-- <div class="blog-content-wrapper">
          <div class="row">
            <div class="col-lg-4 col-md-6">
              <div class="blog-item">
-               <!--  Blog Img Start -->
+             
                <div class="blog-img">
                  <a href="blog-details.html"><img src="assets/images/blog/blog-1.jpg" alt="" /></a>
                </div>
-               <!--  Blog Img End -->
+              
 
-               <!--  Blog Content Start -->
+          
                <div class="blog-content">
                  <ul class="blog-meta">
                    <li>
@@ -1215,18 +1243,18 @@
                  </p>
                  <a class="btn" href="blog-details.html">Read More</a>
                </div>
-               <!--  Blog Content End -->
+            
              </div>
            </div>
            <div class="col-lg-4 col-md-6">
              <div class="blog-item">
-               <!--  Blog Img Start -->
+           
                <div class="blog-img">
                  <a href="blog-details.html"><img src="assets/images/blog/blog-2.jpg" alt="" /></a>
                </div>
-               <!--  Blog Img End -->
+    
 
-               <!--  Blog Content Start -->
+ 
                <div class="blog-content">
                  <ul class="blog-meta">
                    <li>
@@ -1245,18 +1273,18 @@
                  </p>
                  <a class="btn" href="blog-details.html">Read More</a>
                </div>
-               <!--  Blog Content End -->
+           
              </div>
            </div>
            <div class="col-lg-4 col-md-6">
              <div class="blog-item">
-               <!--  Blog Img Start -->
+           
                <div class="blog-img">
                  <a href="blog-details.html"><img src="assets/images/blog/blog-3.jpg" alt="" /></a>
                </div>
-               <!--  Blog Img End -->
+             
 
-               <!--  Blog Content Start -->
+ 
                <div class="blog-content">
                  <ul class="blog-meta">
                    <li>
@@ -1275,16 +1303,16 @@
                  </p>
                  <a class="btn" href="blog-details.html">Read More</a>
                </div>
-               <!--  Blog Content End -->
+              
              </div>
            </div>
          </div>
        </div>
-       <!--  Blog Content Wrapper End -->
+     
      </div>
-     <!--  Blog Wrapper End -->
-   </div>
- </div>
+    
+   </div> 
+ </div>-->
  <!--  Blog Area End -->
 
  <!--  Subscribe Area Start -->

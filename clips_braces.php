@@ -47,8 +47,8 @@
 
                 </p> -->
             </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
-                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight service_image ">
+                <img src="assets/images/services2/clips.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
             </div>
         </div>
 
