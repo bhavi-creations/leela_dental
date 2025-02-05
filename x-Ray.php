@@ -22,7 +22,7 @@
 
 
 <section class="my-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <h1 class="text-center services_rootcanal">3D X-Ray treatment</h1>
         <p class="text-center">Gain accurate, detailed views of your teeth, jaw, and surrounding structures with state-of-the-art 3D X-ray technology.
 

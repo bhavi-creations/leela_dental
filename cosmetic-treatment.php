@@ -21,7 +21,7 @@
 </div>
 
 <section class="my-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <h1 class="text-center services_rootcanal">
         Cosmetic-Treatment </h1>
         <p class="text-center"> Enhance Your Smile with Personalized Care

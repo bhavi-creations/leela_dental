@@ -21,10 +21,10 @@
 </div>
 
 <section class="my-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <h1 class="text-center services_rootcanal">
         Bridges Treatment </h1>
-        <p class="text-center"> Restoring Missing Teeth for a Complete Smile
+        <p class="text-center" style="gap:10px;"> Restoring Missing Teeth for a Complete Smile
         Durable Solutions to Enhance Function and Aesthetics</p>
     </div>
 </section>

@@ -25,7 +25,7 @@
 
 
 <section class="my-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <h1 class="text-center services_rootcanal">
         Dental CT Scan</h1>
         <p class="text-center"> Advanced Imaging for Precise Diagnosis

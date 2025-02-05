@@ -9733,3 +9733,19 @@ select {
   flex-direction: column;
   justify-content: center;
 }
+@media (max-width:1600px){
+.services_rootcanal{
+   margin-top: 500px !important;
+}
+}
+ @media (max-width:1200px) {
+  .services_rootcanal{
+    margin-top: 430px !important;
+ }
+  
+ }
+ /* @media (max-width:1600px) {
+  .services_rootcanal{
+    margin-top: 500px !important;
+ }
+ } */

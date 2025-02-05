@@ -22,7 +22,7 @@
 
 
 <section class="my-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <h1 class="text-center services_rootcanal">Teeth Jewellery treatment</h1>
         <p class="text-center">Enhance your smile with stylish, non-invasive tooth gems that add a unique and glamorous look.
 </p>

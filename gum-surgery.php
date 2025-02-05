@@ -31,7 +31,7 @@
     </div>
 </section>
 <section class="mt-5">
-    <div class="container">
+    <div class="container services_rootcanal">
         <div class="row">
             <div class="col-12 col-md-6  animate__animated animate__fadeInRight">
                 <p>
