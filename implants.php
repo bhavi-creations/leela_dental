@@ -24,14 +24,14 @@
 
 
 
-<section class="my-5">
+<section class="implents_content ">
     <div class="container">
         <h1 class="text-center services_rootcanal">Implants Surger treatment</h1>
         <p class="text-center"> A Permanent Solution for Missing Teeth
             Restore Your Smile and Confidence with Advanced Implant Technology </p>
     </div>
 </section>
-<section class="mt-5">
+<section class="mt-5 ">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-6">

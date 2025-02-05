@@ -24,8 +24,8 @@
 <section class="my-5">
     <div class="container">
         <h1 class="text-center services_rootcanal">Teeth Jewellery treatment</h1>
-        <p class="text-center">Restoring Function and Aesthetic Harmony
-        Advanced Treatment for Facial Injuries, Deformities, and Disorders </p>
+        <p class="text-center">Enhance your smile with stylish, non-invasive tooth gems that add a unique and glamorous look.
+</p>
     </div>
 </section>
 <section class="mt-5">
@@ -33,11 +33,13 @@
         <div class="row">
             <div class="col-12 col-md-6">
                 <p>
-                Maxillofacial surgery is a specialized branch of surgery that focuses on the diagnosis, treatment, and surgical management of conditions affecting the face, jaw, neck, and mouth. This type of surgery plays a critical role in restoring both the function and appearance of the facial structures, addressing everything from congenital defects to traumatic injuries or serious infections.
+                Teeth jewellery is a cosmetic dental accessory that adds a touch of sparkle to your smile. These tiny, decorative gems or crystals are bonded to the tooth surface, creating a stylish and unique look without any invasive procedures.
+
 
 </p>
                 <p>
-                One of the key areas of maxillofacial surgery is the treatment of facial trauma. Injuries to the face, whether from accidents, sports, or other incidents, can cause fractures of the jaw, cheekbones, or facial bones. These injuries can result in pain, difficulty eating or speaking, and aesthetic concerns. Maxillofacial surgeons are trained to repair these fractures, ensuring proper alignment of the facial bones and restoring normal function.
+                Made from high-quality materials like crystals, gold, or diamonds, tooth jewellery is safe, painless, and does not harm the natural tooth structure. It is a popular trend among individuals looking to express their personality with a dazzling smile.
+
 
 </p>
             </div>

@@ -35,11 +35,13 @@
         <div class="row">
             <div class="col-12 col-md-6  animate__animated animate__fadeInRight">
                 <p>
-                    Maxillofacial surgery is a specialized branch of surgery that focuses on the diagnosis, treatment, and surgical management of conditions affecting the face, jaw, neck, and mouth. This type of surgery plays a critical role in restoring both the function and appearance of the facial structures, addressing everything from congenital defects to traumatic injuries or serious infections.
+                Gum surgery is a specialized dental procedure used to treat gum disease, gum recession, and other periodontal conditions that affect oral health. It helps restore and reshape gum tissue, preventing further damage and improving both function and aesthetics.
+
 
                 </p>
                 <p>
-                    One of the key areas of maxillofacial surgery is the treatment of facial trauma. Injuries to the face, whether from accidents, sports, or other incidents, can cause fractures of the jaw, cheekbones, or facial bones. These injuries can result in pain, difficulty eating or speaking, and aesthetic concerns. Maxillofacial surgeons are trained to repair these fractures, ensuring proper alignment of the facial bones and restoring normal function.
+                This treatment is often necessary for individuals with advanced gum disease (periodontitis), receding gums, excessive gum tissue, or bone loss caused by infections. By addressing these concerns, gum surgery reduces the risk of tooth loss and enhances overall dental health.
+
 
                 </p>
             </div>

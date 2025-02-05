@@ -9723,3 +9723,13 @@ select {
   height: 15px;
   background: transparent; /* Keeps background transparent */
 }
+
+.implents_content{
+  margin-top: 650px !important;
+}
+
+.service_images{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

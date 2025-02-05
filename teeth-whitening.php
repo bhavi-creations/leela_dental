@@ -23,8 +23,8 @@
 <section class="my-5">
     <div class="container">
         <h1 class="text-center services_rootcanal">Teeth Whitening treatment</h1>
-        <p class="text-center">Restoring Function and Aesthetic Harmony
-        Advanced Treatment for Facial Injuries, Deformities, and Disorders </p>
+        <p class="text-center">Achieve a radiant, stain-free smile with safe and effective teeth whitening treatments.
+</p>
     </div>
 </section>
 <section class="mt-5">
@@ -32,11 +32,13 @@
         <div class="row">
             <div class="col-12 col-md-6">
                 <p>
-                Maxillofacial surgery is a specialized branch of surgery that focuses on the diagnosis, treatment, and surgical management of conditions affecting the face, jaw, neck, and mouth. This type of surgery plays a critical role in restoring both the function and appearance of the facial structures, addressing everything from congenital defects to traumatic injuries or serious infections.
+                Teeth whitening is a popular cosmetic dental treatment designed to remove stains and discoloration, restoring the natural brightness of teeth. Over time, factors like coffee, tea, smoking, and aging can cause teeth to lose their whiteness, making professional whitening an effective solution.
+
 
 </p>
                 <p>
-                One of the key areas of maxillofacial surgery is the treatment of facial trauma. Injuries to the face, whether from accidents, sports, or other incidents, can cause fractures of the jaw, cheekbones, or facial bones. These injuries can result in pain, difficulty eating or speaking, and aesthetic concerns. Maxillofacial surgeons are trained to repair these fractures, ensuring proper alignment of the facial bones and restoring normal function.
+                This procedure uses safe bleaching agents to break down stains and lighten the enamel without damaging the tooth structure. It is available in various forms, including in-office treatments and take-home whitening kits, offering noticeable results in a short time.
+
 
 </p>
             </div>

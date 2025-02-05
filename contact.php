@@ -107,7 +107,7 @@
                                         <i class="ri-mail-fill"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p>leeladentalandwomenshealthcare@gmail.com</p>
+                                    <p>leeladentalcare123@gmail.com</p>
                                          
                                     </div>
                                 </div>

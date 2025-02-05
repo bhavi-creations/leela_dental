@@ -37,12 +37,14 @@
         <div class="row">
             <div class="col-12 col-md-6  animate__animated animate__fadeInRight">
                 <p>
-                Laser treatment in dentistry is an advanced and highly effective method that uses focused light energy to perform a wide range of dental procedures with precision and minimal discomfort. This innovative approach has revolutionized the field by providing a more comfortable and efficient alternative to traditional dental tools. The laser's energy is absorbed by the tissues in the mouth, allowing dentists to treat both soft and hard tissues more precisely and with less invasiveness.
+                A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy.
+
 
 
                 </p>
                 <p>
-                The laser works by emitting a beam of light that can cut, shape, or remove tissues in the mouth. It can be used for a variety of dental procedures, such as treating gum disease, reshaping gums, and even performing surgeries on soft tissues. In many cases, lasers can perform treatments without the need for stitches, reducing the risk of infection and promoting faster healing times. For instance, in gum surgery, lasers can target affected areas without the need for traditional scalpels, resulting in less pain and quicker recovery for the patient.
+                This advanced imaging technique is commonly used for dental implant planning, root canal evaluation, wisdom tooth extraction, orthodontic treatment, and diagnosing jaw disorders or oral pathologies. It helps in detecting hidden infections, bone abnormalities, and nerve positions, ensuring safe and effective treatment.
+
 
 
                 </p>
