@@ -241,7 +241,7 @@
            <div class="research-content-wrapper">
              <div class="section-title research-title">
                <!-- <h3 class="sub-title">Top Research</h3> -->
-               <h2 class="title">Dr.K.V.Krishnam Raju </h2>
+               <h2 class="title">Dr.Y.Sunanda </h2>
                <p>
                Teeth Denture & implants specialist
                </p>
@@ -249,7 +249,7 @@
              <div class="research-content">
                <h4 class="title">Biography</h4>
                <p>
-               Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual.               </p>
+               Dr.Y.Sunanda is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.Y.Sunanda is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual.               </p>
              </div>
            </div>
            <!-- Research Content End -->
