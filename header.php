@@ -150,24 +150,24 @@
                         <li><a href="implants.php">Implants</a></li>
                         <li><a href="sterilization.php">Sterilization</a></li>
                         <li><a href="bridges.php">Bridges</a></li>
-                        <li><a href="Rootcanal.php">Root Canal</a></li>
-                        <li><a href="Clips-braces.php">Clips or Braces</a></li>
+                        <li><a href="rootcanal.php">Root Canal</a></li>
+                        <li><a href="clips_braces.php">Clips or Braces</a></li>
 
                       </div>
                       <div class="column">
-                        <li><a href="tooth-aligners.php">Tooth Aligners</a></li>
-                        <li><a href="Lasers.php">Lasers</a></li>
-                        <li><a href="Cosmetic-treatment.php">Cosmetic Treatment</a></li>
-                        <li><a href="Teeth-whitening.php">Teeth Whitening</a></li>
-                        <li><a href="maxillofacial-surger.php">Maxillofacial Surgery</a></li>
+                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
+                        <li><a href="lasers.php">Lasers</a></li>
+                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
+                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
+                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
                       </div>
                       <div class="column">
 
                 
-                        <li><a href="Gum-surgery.php">Gum Surgery</a></li>
-                        <li><a href="Dental-CT-Scan.php">Dental CT Scan</a></li>
-                        <li><a href="x-Ray.php">3D X-Ray</a></li>
-                        <li><a href="Teeth-jewellery.php">Teeth Jewellery</a></li>
+                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
+                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
+                        <li><a href="ray.php">3D X-Ray</a></li>
+                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
                       </div>
                     </div>
                   </ul>
@@ -272,19 +272,19 @@
                     <li><a href="implants.php">Implants</a></li>
                     <li><a href="sterilization.php">Sterilization</a></li>
                     <li><a href="bridges.php">Bridges</a></li>
-                    <li><a href="Rootcanal.php">Root Canal</a></li>
-                    <li><a href="Clips-braces.php">Clips or Braces</a></li>
-                    <li><a href="tooth-aligners.php">Tooth Aligners</a></li>
-                    <li><a href="Lasers.php">Lasers</a></li>
+                    <li><a href="rootcanal.php">Root Canal</a></li>
+                    <li><a href="clips_braces.php">Clips or Braces</a></li>
+                    <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
+                    <li><a href="lasers.php">Lasers</a></li>
                   </div>
                   <div class="column">
-                    <li><a href="Cosmetic-treatment.php">Cosmetic Treatment</a></li>
-                    <li><a href="Teeth-whitening.php">Teeth Whitening</a></li>
-                    <li><a href="maxillofacial-surger.php">Maxillofacial Surgery</a></li>
-                    <li><a href="Gum-surgery.php">Gum Surgery</a></li>
-                    <li><a href="Dental-CT-Scan.php">Dental CT Scan</a></li>
-                    <li><a href="x-Ray.php">3D X-Ray</a></li>
-                    <li><a href="Teeth-jewellery.php">Teeth Jewellery</a></li>
+                    <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
+                    <li><a href="teeth_whitening">Teeth Whitening</a></li>
+                    <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
+                    <li><a href="gum_surgery.php">Gum Surgery</a></li>
+                    <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
+                    <li><a href="ray.php">3D X-Ray</a></li>
+                    <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
                   </div>
                 </div>
               </ul>

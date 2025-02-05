@@ -790,7 +790,7 @@
                    </h3>
                    <p>
                      Braces straighten teeth, improving alignment and oral health.</p>
-                   <a class="read-more" href="./clips-braces.php">Know More</a>
+                   <a class="read-more" href="./clips_braces.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -812,7 +812,7 @@
                      <a href="./services.php"> Tooth Aligners</a>
                    </h3>
                    <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
-                   <a class="read-more" href="./tooth-aligners.php">Know More</a>
+                   <a class="read-more" href="./tooth_aligners.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -853,7 +853,7 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./cosmetic-treatment.php">Cosmetic Treatment</a>
+                     <a href="./cosmetic_treatment.php">Cosmetic Treatment</a>
                    </h3>
                    <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
                    <a class="read-more" href="#">Know More</a>

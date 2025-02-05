@@ -9733,6 +9733,8 @@ select {
   flex-direction: column;
   justify-content: center;
 }
+
+
 @media (max-width:1600px){
 .services_rootcanal{
    margin-top: 500px !important;
@@ -9744,8 +9746,9 @@ select {
  }
   
  }
- /* @media (max-width:1600px) {
-  .services_rootcanal{
-    margin-top: 500px !important;
- }
- } */
+
+
+
+
+
+

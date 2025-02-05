@@ -104,19 +104,19 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Rootcanal.php">  Rootcanal</a>
+                                     <a href="rootcanal.php">  Rootcanal</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Clips-braces.php">   Clips or Braces</a>
+                                     <a href="clips_braces.php">   Clips or Braces</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Tooth-aligners.php">  Tooth Aligners</a>
+                                     <a href="tooth_aligners.php.php">  Tooth Aligners</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Lasers.php">   Lasers</a>
+                                     <a href="lasers.php">   Lasers</a>
                                  </li>
                              </ul>
                          </div>
@@ -129,23 +129,23 @@
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Cosmetic-treatment.php">  Cosmetic Treatment</a>
+                                     <a href="cosmetic_treatment.php">  Cosmetic Treatment</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Teeth-whitening.php">  Teeth Whitening</a>
+                                     <a href="teeth_whitening.php">  Teeth Whitening</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Maxillofacial-surger">  Maxillofacial Surgery</a>
+                                     <a href="maxillofacial_surger.php">  Maxillofacial Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Gum-surgery.php">  Gum Surgery</a>
+                                     <a href="gum_surgery.php">  Gum Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Dental-CT-Scan.php"> Dental CT Scan  </a>
+                                     <a href="x-ray.php"> Dental CT Scan  </a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -153,7 +153,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="Teeth-jewellery.php">   Teeth Jewellery</a>
+                                     <a href="teeth_jewellery.php">   Teeth Jewellery</a>
                                  </li>
                              </ul>
                          </div>
