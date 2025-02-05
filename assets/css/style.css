@@ -9724,9 +9724,9 @@ select {
   background: transparent; /* Keeps background transparent */
 }
 
-.implents_content{
+/* .implents_content{
   margin-top: 650px !important;
-}
+} */
 
 .service_images{
   display: flex;
