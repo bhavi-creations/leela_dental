@@ -26,7 +26,7 @@
         Enhancing Healing and Aesthetic Results with Advanced Technology</p>
     </div>
 </section>
-<section class="mt-5">
+<!-- <section class="mt-5">
     <div class="container">
         <div class="row">
             <div class="  col-12 col-md-6 services animate__animated animate__fadeInRight">
@@ -43,17 +43,47 @@
 
                 </p>
             </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight 
-            
-            
-            
-            ">
+            <div class="col-md-6 col-12 animate__animated animate__FadeInRight  ">
                 <img src="assets/images/services2/laser.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
             </div>
         </div>
 
     </div>
-</section>
+</section> -->
 
+
+<section>
+    <div class="section about-area section-padding">
+        <div class="container">
+            <div class="about-wrapper">
+
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
+
+                        <div class="about-img service_image">
+                        <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
+                        <img src="assets/images/services2/laser.png" alt="" class="img-fluid" >
+
+                        </div>
+
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+
+                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
+                            <p>
+                            Laser treatment in dentistry is an advanced and highly effective method that uses focused light energy to perform a wide range of dental procedures with precision and minimal discomfort. This innovative approach has revolutionized the field by providing a more comfortable and efficient alternative to traditional dental tools. The laser's energy is absorbed by the tissues in the mouth, allowing dentists to treat both soft and hard tissues more precisely and with less invasiveness.
+                            </p>
+                            <p>
+                            The laser works by emitting a beam of light that can cut, shape, or remove tissues in the mouth. It can be used for a variety of dental procedures, such as treating gum disease, reshaping gums, and even performing surgeries on soft tissues. In many cases, lasers can perform treatments without the need for stitches, reducing the risk of infection and promoting faster healing times. For instance, in gum surgery, lasers can target affected areas without the need for traditional scalpels, resulting in less pain and quicker recovery for the patient.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include "./footer.php"; ?>
