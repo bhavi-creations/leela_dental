@@ -1027,7 +1027,7 @@
  <!--  Appointment Section End -->
 
  <!--  Result Area Start -->
- <div class="section result-area section-padding-02">
+ <div class="section result-area section-padding-02 mt-3">
    <div class="container">
      <div class="result-wrapper">
        <div class="row justify-content-center">

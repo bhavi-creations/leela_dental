@@ -271,6 +271,7 @@ textarea:-ms-input-placeholder {
 @media only screen and (max-width: 575px) {
   .section-title .title {
     font-size: 22px;
+ 
   }
 }
 
@@ -9841,12 +9842,12 @@ select {
    margin-top: 500px !important;
 }
 }
- @media (max-width:1200px) {
+ /* @media (max-width:1200px) {
   .services_rootcanal{
     margin-top: 430px !important;
  }
   
- }
+ } */
 
 .service_image {
   display: flex;
@@ -9867,9 +9868,9 @@ select {
 
   ;
 }
-.service_section{
+/* .service_section{
   margin-top: -100px !important
-}
+} */
 
 /* .main_content{
   color: green !important;
@@ -9947,3 +9948,9 @@ select {
   height: 50px;
   margin-left: 5px; 
 }
+
+/* .service_doctor{
+  margin-top: 200px !important;
+} */
+
+.

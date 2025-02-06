@@ -118,14 +118,14 @@
                         <div class="col-lg-8">
                             <div class="section-title text-center">
 
-                                <h2 class="title">Our Best Dental Services</h2>
+                                <h2 class="title  ">Our Best Dental Services</h2>
                             </div>
                         </div>
                         <!-- Section Title End -->
                     </div>
 
                     <!-- Service Content Wrapper Start -->
-                    <div class="service-content-wrapper">
+                    <div class="service-content-wrapper ">
                         <div class="row">
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
