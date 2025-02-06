@@ -298,28 +298,28 @@ textarea:-ms-input-placeholder {
 
 /*--Section Spacing--*/
 .section-padding {
-  padding-top: 130px;
-  padding-bottom: 130px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .section-padding {
-    padding-top: 90px;
-    padding-bottom: 90px;
-  }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-padding {
     padding-top: 70px;
     padding-bottom: 70px;
   }
 }
 
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section-padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+
 @media only screen and (max-width: 767px) {
   .section-padding {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 }
 
@@ -329,19 +329,25 @@ textarea:-ms-input-placeholder {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-padding-02 {
-    padding-top: 90px;
+    padding-top: 70px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-padding-02 {
-    padding-top: 70px;
+    padding-top: 50px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .section-padding-02 {
-    padding-top: 60px;
+    padding-top: 40px;
+  }
+}
+
+@media (min-width:1200px) {
+  .section-padding-02{
+    padding-top: 20px;
   }
 }
 
@@ -3381,8 +3387,8 @@ select {
 .slider-content .sub-title {
   font-size: 24px;
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  color: #D1D9EF;
+  font-weight: 600;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -3460,7 +3466,8 @@ select {
 
 .slider-content p {
   font-size: 20px;
-  color: #D1D9EF;
+  color: #ffffff;
+  font-weight: 400;
   margin-top: 40px;
   padding-right: 40%;
 }
@@ -3505,7 +3512,7 @@ select {
   height: 55px;
   line-height: 53px;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   margin-top: 30px;
   margin-right: 25px;
 }
@@ -3550,12 +3557,12 @@ select {
 }
 
 .slider-content .btn:hover {
-  background-color: #ffffff;
-  color: #009024;
+  background-color: #7b66ad;
+  color: #e11341;
 }
 
 .slider-content .btn-white {
-  background-color:#383689;
+  background-color:#7b66ad;
   color: #d31b1b;
 }
 
@@ -9768,4 +9775,175 @@ select {
 }
 .service_section{
   margin-top: -100px !important
+}
+
+
+.name{
+  margin-top: 10px;
+}
+.privacy_content{
+  margin:60px 0px ;
+}
+
+
+
+
+.sub-menu {
+  position: absolute;
+  top: calc(100% - 15px); /* Moves the menu 15px up */
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 650px; 
+  display: none; 
+  background-color: white; 
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); 
+  z-index: 1;
+  padding: 10px 0;
+  border-top: 2px solid #000; /* Adds a border at the top */
+}
+
+/* Ensuring the dropdown remains visible when hovered */
+.dropdown:hover .sub-menu {
+  display: block;
+}
+
+/* Sub-menu container adjustments */
+.sub-menu-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+/* Adjusting the sub-menu's top border */
+.sub-menu::before {
+  content: "";
+  position: absolute;
+  top: -15px; /* Moves the top border 15px higher */
+  left: 0;
+  right: 0;
+  height: 15px;
+  background: transparent; /* Keeps background transparent */
+}
+
+/* .implents_content{
+  margin-top: 650px !important;
+} */
+
+.service_images{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+@media (max-width:1600px){
+.services_rootcanal{
+   margin-top: 500px !important;
+}
+}
+ @media (max-width:1200px) {
+  .services_rootcanal{
+    margin-top: 430px !important;
+ }
+  
+ }
+
+.service_image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px 0px;
+  border-radius: 80px !important;
+}
+
+.service_content{
+  padding: 50px;
+}
+
+.contact_btn{
+  color: white
+
+
+
+  ;
+}
+.service_section{
+  margin-top: -100px !important
+}
+
+/* .main_content{
+  color: green !important;
+} */
+
+
+@media (max-width: 768px) {
+  .single-line-menu {
+      display: flex;
+      overflow-x: auto;
+      white-space: nowrap;
+      padding: 10px 0;
+      background: #fff;
+      border-top: 1px solid #ddd;
+  }
+
+  .single-line-menu .sub-menu-container {
+      display: flex;
+      flex-wrap: nowrap;
+      gap: 15px;
+      padding: 5px;
+  }
+
+  .single-line-menu li {
+      list-style: none;
+      padding: 8px 12px;
+      background: #f8f9fa;
+      border-radius: 5px;
+      flex-shrink: 0; /* Prevents items from shrinking */
+  }
+
+  .single-line-menu li:hover {
+      background: #e0e0e0;
+  }
+
+  .single-line-menu a {
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+      font-weight: bold;
+      display: block;
+  }
+}
+
+
+.footer_content{
+  background: linear-gradient(to Left,#e446b4,#b92a7e,#d74097,#e446b4);
+}
+
+
+/* copy in chat gpt */
+
+
+
+
+.footer-area-bottom .row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+
+
+
+
+/* .footer-widget__copyright-info p {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #ffffff;
+} */
+
+.brand_image {
+  width: 50px;
+  height: 50px;
+  margin-left: 5px; 
 }

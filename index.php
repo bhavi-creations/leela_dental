@@ -14,9 +14,8 @@
          <h2 class="title" data-animation="fadeInUp" data-delay="0.5s">
            High-Quality Dental Care
          </h2>
-         <p data-animation="fadeInUp" data-delay="0.7s">
+         <p data-animation="fadeInUp" data-delay="0.7s ">
            Leela Dental Hospital offers comprehensive dental care with advanced technology and expert specialists to ensure healthy and beautiful smiles. We provide pain-free treatments, including root canals, dental implants, orthodontics, and cosmetic dentistry, in a hygienic and patient-friendly environment. Our mission is to deliver high-quality, affordable, and personalized dental solutions for patients of all ages.
-
 
 
          </p>
@@ -116,7 +115,7 @@
        <div class="features-content">
          <div class="row">
            <div class="col-lg-7 col-md-7">
-             <div class="features-title">
+             <div class="features-title ">
                <h2 class="title">
                  Caring For The Health And Well Being Of You And Your
                  Family.
@@ -132,10 +131,10 @@
            <div class="col-lg-5 col-md-5">
              <div class="features-text">
                <p>
-                 At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr. Dr.K.V.Krishnam Raju . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+                 At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder,Dr.Y.Sunanda . With years of experience and a passion for improving oral health, Dr.Y.Sunanda has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
                </p>
                <h3 class="name">
-                 Dr.K.V.Krishnam Raju<span>Founder</span>
+               Dr.Y.Sunanda<span>Founder</span>
                </h3>
              </div>
            </div>
@@ -243,13 +242,13 @@
                <!-- <h3 class="sub-title">Top Research</h3> -->
                <h2 class="title">Dr.Y.Sunanda </h2>
                <p>
-               Teeth Denture & implants specialist
+                 Teeth Denture & implants specialist
                </p>
              </div>
              <div class="research-content">
                <h4 class="title">Biography</h4>
                <p>
-               Dr.Y.Sunanda is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.Y.Sunanda is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual.               </p>
+                 Dr.Y.Sunanda is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.Y.Sunanda is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
              </div>
            </div>
            <!-- Research Content End -->
@@ -308,8 +307,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -322,19 +321,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html"> Dr.K.V.Krishnam Raju</a>
                          </h3>
                          <h5 class="designation">Teeth Denture & implants specialist</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -354,8 +353,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -368,19 +367,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">Dr.Y.Sunanda</a>
                          </h3>
                          <h5 class="designation">ROOT Canal specialist</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -398,8 +397,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -412,19 +411,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">Dr.Masapu Anupama</a>
                          </h3>
                          <h5 class="designation">Gums &Surgery specialist</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -442,8 +441,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -456,19 +455,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">Dr. CH.KIran </a>
                          </h3>
                          <h5 class="designation">clips specialist</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -484,8 +483,8 @@
                          <img src="assets/images/team/team-1.jpg" alt="" />
                        </div>
 
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -498,19 +497,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">Dr.Ganesh </a>
                          </h3>
                          <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
 
@@ -528,8 +527,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -542,19 +541,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">Dr Sahithi MDS</a>
                          </h3>
                          <h5 class="designation">CLIPS SPECIALIST</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -572,8 +571,8 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center">
-                         <ul class="social">
+                       <div class="team-content text-center mt-5">
+                         <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
                            </li>
@@ -586,19 +585,19 @@
                            <li>
                              <a href="#"><i class="ri-instagram-fill"></i></a>
                            </li>
-                         </ul>
+                         </ul> -->
                          <h3 class="name">
                            <a href="doctor.html">DR.HARINI</a>
                          </h3>
                          <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
                          <div class="team-info">
-                           <ul>
+                           <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
                                <span>info@example.com</span>
                              </li>
                              <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                           </ul>
+                           </ul> -->
                          </div>
                        </div>
                        <!-- Team Content End -->
@@ -681,7 +680,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-1.jpg" alt="" />
+                 <img src="assets/images/services/implents.png" alt="" class="img-fluid" />
                </div>
                <!-- Service Img End -->
 
@@ -694,7 +693,7 @@
                    </h3>
                    <p>
                      Implants replace missing parts, restoring function and aesthetics.</p>
-                   <a class="read-more" href="./implants.php">Know More</a>
+                   <a class="read-more" href="implants.php">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -704,7 +703,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-2.jpg" alt="" />
+                 <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -713,10 +712,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="services.php">Sterilization</a>
+                     <a href="sterilization.php">Sterilization</a>
                    </h3>
                    <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                   <a class="read-more" href="./sterilization.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -726,7 +725,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-3.jpg" alt="" />
+                 <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -735,10 +734,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./services.php">Bridges</a>
+                     <a href="bridges.php">Bridges</a>
                    </h3>
                    <p>Bridges replace missing teeth, restoring function and appearance.</p>
-                   <a class="read-more" href="./bridges.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -748,7 +747,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-4.jpg" alt="" />
+                 <img src="assets/images/services/rootcanal.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -757,10 +756,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./services.php">Rootcanal</a>
+                     <a href="rootcanal.php">Rootcanal</a>
                    </h3>
                    <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
-                   <a class="read-more" href="./rootcanal.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -770,7 +769,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-5.jpg" alt="" />
+                 <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -779,11 +778,11 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./services.php"> Clips or Braces</a>
+                     <a href="clips_braces.php"> Clips or Braces</a>
                    </h3>
                    <p>
                      Braces straighten teeth, improving alignment and oral health.</p>
-                   <a class="read-more" href="./clips_braces.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -793,7 +792,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-6.jpg" alt="" />
+                 <img src="assets/images/services/aligers.png" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -802,10 +801,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./services.php"> Tooth Aligners</a>
+                     <a href="tooth_aligners.php"> Tooth Aligners</a>
                    </h3>
                    <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
-                   <a class="read-more" href="./tooth_aligners.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -815,7 +814,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-7.jpg" alt="" />
+                 <img src="assets/images/services/laser.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -824,10 +823,10 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href=""> Lasers</a>
+                     <a href="lasers.php"> Lasers</a>
                    </h3>
                    <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
-                   <a class="read-more" href="./lasers.php">Know More</a>
+                   <a class="read-more" href="#">Know More</a>
                  </div>
                </div>
                <!-- Service Content End -->
@@ -837,7 +836,7 @@
              <div class="service-item">
                <!-- Service Img Start -->
                <div class="service-img">
-                 <img src="assets/images/services/service-8.jpg" alt="" />
+                 <img src="assets/images/services/cosmatic.png" class="img-fluid" alt="" />
                </div>
                <!-- Service Img End -->
 
@@ -846,7 +845,7 @@
                  <i class="flaticon-surgery-room"></i>
                  <div class="service-icon-wrapper">
                    <h3 class="title">
-                     <a href="./cosmetic_treatment.php">Cosmetic Treatment</a>
+                     <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
                    </h3>
                    <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
                    <a class="read-more" href="#">Know More</a>
@@ -966,7 +965,7 @@
                <form action="appointmentform.php" method="post" role="form" class="php-email-form"
                  data-aos-delay="100">
                  <div class="row">
-                 <div class="col-sm-6">
+                   <div class="col-sm-6">
                      <div class="single-form">
                        <input type="text" placeholder="Your Name" name="name" />
                        <i class="flaticon-user"></i>

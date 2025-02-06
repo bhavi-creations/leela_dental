@@ -71,9 +71,10 @@
                                 Clips and braces, commonly known as orthodontic braces, are an effective and widely used treatment option for correcting misaligned teeth, bite issues, and other dental irregularities. They play a crucial role in improving both the function and appearance of your smile by gradually shifting teeth into the correct position over time. This treatment is typically recommended for children, teens, and adults who have concerns about crooked teeth, overbites, underbites, or other orthodontic issues.
 
                             </p>
-                            <!-- <p>
-             The primary purpose of a dental bridge is to fill the gap left by a missing tooth, restoring the ability to chew and speak properly. It also helps prevent the surrounding teeth from shifting into the gap, which could lead to further dental issues. Bridges are made from durable materials such as porcelain, ceramic, or metal, designed to match the natural color of your teeth, ensuring that the bridge blends seamlessly with your smile.
-             </p> -->
+                            <p>
+                            Traditional braces consist of metal brackets attached to the front surface of the teeth, connected by a wire and secured with small elastic bands (clips). These components work together to apply gentle pressure on the teeth, gradually moving them into proper alignment. The treatment plan is customized based on the patient's specific needs and can take anywhere from several months to a few years, depending on the complexity of the case.
+
+</p>
                         </div>
 
                     </div>

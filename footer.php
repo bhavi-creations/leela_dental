@@ -169,7 +169,7 @@
      <!-- Footer Widget Area End -->
 
      <!-- Footer Copyright Area Start -->
-     <div class="footer-area-bottom theme-bg" style="background-color: #000a2d">
+     <div class="footer-area-bottom theme-bg  footer_content" >
          <div class="container">
              <div class="row pt-4">
 

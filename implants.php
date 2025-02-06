@@ -2,7 +2,7 @@
 
 
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/services.png);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/3.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -24,7 +24,7 @@
 
 
 
-<section class="implents_content ">
+<section class="implents_content my-5 ">
     <div class="container services_rootcanal">
         <h1 class="text-center">Implants Surger treatment</h1>
         <p class="text-center"> A Permanent Solution for Missing Teeth

@@ -32,7 +32,7 @@
         Revolutionizing Treatment Planning with 3D Imaging Technology </p>
     </div>
 </section>
-<section class="mt-5">
+<!-- <section class="mt-5">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-6  animate__animated animate__fadeInRight">
@@ -54,7 +54,7 @@
             </div>
 
     </div>
-</section>
+</section> -->
 
 <section>
     <div class="section about-area section-padding">

@@ -131,7 +131,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-1.jpg" alt="" />
+                                        <img src="assets/images/services/implents.png" alt="" class="img-fluid" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -140,7 +140,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="services.php">Implants</a>
+                                                <a href="implants.php">Implants</a>
                                             </h3>
                                             <p>
                                                 Implants replace missing parts, restoring function and aesthetics.</p>
@@ -154,7 +154,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-2.jpg" alt="" />
+                                        <img src="assets/images/services/sterlization.png"  class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -166,7 +166,7 @@
                                                 <a href="sterilization.php">Sterilization</a>
                                             </h3>
                                             <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="sterilization.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -176,7 +176,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-3.jpg" alt="" />
+                                        <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -188,7 +188,7 @@
                                                 <a href="bridges.php">Bridges</a>
                                             </h3>
                                             <p>Bridges replace missing teeth, restoring function and appearance.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="bridges.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -198,7 +198,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-4.jpg" alt="" />
+                                        <img src="assets/images/services/rootcanal.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -210,7 +210,7 @@
                                                 <a href="rootcanal.php">Rootcanal</a>
                                             </h3>
                                             <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="rootcanal.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -220,7 +220,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-5.jpg" alt="" />
+                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -233,7 +233,7 @@
                                             </h3>
                                             <p>
                                                 Braces straighten teeth, improving alignment and oral health.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="clips_braces.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -243,7 +243,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-6.jpg" alt="" />
+                                        <img src="assets/images/services/aligers.png" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -255,7 +255,7 @@
                                                 <a href="tooth_aligners.php"> Tooth Aligners</a>
                                             </h3>
                                             <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="tooth_aligners.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -265,7 +265,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-7.jpg" alt="" />
+                                        <img src="assets/images/services/laser.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -277,7 +277,7 @@
                                                 <a href="lasers.php"> Lasers</a>
                                             </h3>
                                             <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="lasers.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -287,7 +287,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-8.jpg" alt="" />
+                                        <img src="assets/images/services/cosmatic.png" class="img-fluid"  alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -299,7 +299,7 @@
                                                 <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
                                             </h3>
                                             <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <a class="read-more" href="cosmetic_treatment.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -310,7 +310,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-3.jpg" alt="" />
+                                        <img src="assets/images/services/whitening.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -321,7 +321,7 @@
                                             <h3 class="title">
                                                 <a href="teeth_whitening.php">Teeth whitening</a>
                                             </h3>
-                                            <p>Bridges replace missing teeth, restoring function and appearance.</p>
+                                            <p>Brightens teeth by removing stains safely.</p>
                                             <a class="read-more" href="teeth_whitening.php">Know More</a>
                                         </div>
                                     </div>
@@ -332,7 +332,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-4.jpg" alt="" />
+                                        <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -343,7 +343,7 @@
                                             <h3 class="title">
                                                 <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
                                             </h3>
-                                            <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
+                                            <p>Surgical treatment for jaw, face, and mouth.</p>
                                             <a class="read-more" href="maxillofacial_surger.php">Know More</a>
                                         </div>
                                     </div>
@@ -354,7 +354,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-5.jpg" alt="" />
+                                        <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -366,7 +366,7 @@
                                                 <a href="gum_surgery.php"> Gum surgery</a>
                                             </h3>
                                             <p>
-                                                Braces straighten teeth, improving alignment and oral health.</p>
+                                            Treats gum disease and reshapes tissue.</p>
                                             <a class="read-more" href="gum_surgery.php">Know More</a>
                                         </div>
                                     </div>
@@ -377,7 +377,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-6.jpg" alt="" />
+                                        <img src="assets/images/services/ct_scan.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -388,7 +388,7 @@
                                             <h3 class="title">
                                                 <a href="dental_ct_scan.php">  Dental CT Scan</a>
                                             </h3>
-                                            <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
+                                            <p>3D imaging for detailed dental diagnosis.</p>
                                             <a class="read-more" href="dental_ct_scan.php">Know More</a>
                                         </div>
                                     </div>
@@ -399,7 +399,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-7.jpg" alt="" />
+                                        <img src="assets/images/services/x_ray.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -410,8 +410,8 @@
                                             <h3 class="title">
                                                 <a href="ray.php"> 3D X-ray</a>
                                             </h3>
-                                            <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
-                                            <a class="read-more" href="#">Know More</a>
+                                            <p>Detailed imaging for accurate dental diagnosis.</p>
+                                            <a class="read-more" href="ray.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -421,7 +421,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/service-8.jpg" alt="" />
+                                        <img src="assets/images/services/jewellwery.png" class="" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -432,24 +432,13 @@
                                             <h3 class="title">
                                                 <a href="teeth_jewellery.php">Teeth jewellery </a>
                                             </h3>
-                                            <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
+                                            <p>Decorative gems applied to teeth safely.</p>
                                             <a class="read-more" href="teeth_jewellery.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
                                 </div>
                             </div>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
                         
                         </div>
                     </div>
