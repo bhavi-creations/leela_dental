@@ -68,7 +68,7 @@
                                 <div class="col-lg-6">
                                     <div class="single-form">
                                         <label>Write a message :</label>
-                                        <input  type="text" name="message" id="message">
+                                        <input type="text" name="message" id="message">
                                     </div>
                                 </div>
 
@@ -100,19 +100,17 @@
                                         <i class="ri-map-pin-fill"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p>S.P office opposite road, <br>near RMC ground kakinada</p>
-                                    </div>
+                                    D.NO: 2-18-9/1, opposite to old SP Office Road Near RMC Ground Madhavnagar,Kakinada-533003                                    </div>
                                 </div>
                             </li>
-                            <br>
                             <li>
                                 <div class="single-info">
                                     <div class="info-icon">
                                         <i class="ri-mail-fill"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p>leeladentalcare123@gmail.com</p>
-
+                                    <p>leeladentalcare123@gmail.com</p>
+                                         
                                     </div>
                                 </div>
                             </li>
@@ -131,9 +129,7 @@
                     </div>
                     <!--  Contact Info End -->
                     <!--  Contact Map Start -->
-                    <div class="contact-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d4135.043051429366!2d82.23027846937303!3d16.961447026145862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a382814c71abf81%3A0xe2ceca2bc87008ab!2sD%2C%20No.%202-18-9%2F1%2C%20opposite%20to%20SP%20OFFICE%20ROAD%2C%20near%20RMC%20GROUND%2C%20Madhav%20Nagar%2C%20Dwaraka%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533001!3m2!1d16.9753224!2d82.24061119999999!5e0!3m2!1sen!2sin!4v1738581300683!5m2!1sen!2sin"></iframe>
-                    </div>
+                    
                     <!--  Contact Map End -->
                 </div>
             </div>
@@ -141,4 +137,15 @@
         <!--  Contact Wrapper End -->
     </div>
 </div>
+
+
+<section >
+    <div class="container ">
+        <div class="row">
+            <div class="appointment_map" >
+                <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d4135.043051429366!2d82.23027846937303!3d16.961447026145862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a382814c71abf81%3A0xe2ceca2bc87008ab!2sD%2C%20No.%202-18-9%2F1%2C%20opposite%20to%20SP%20OFFICE%20ROAD%2C%20near%20RMC%20GROUND%2C%20Madhav%20Nagar%2C%20Dwaraka%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533001!3m2!1d16.9753224!2d82.24061119999999!5e0!3m2!1sen!2sin!4v1738581300683!5m2!1sen!2sin"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include 'footer.php'; ?>

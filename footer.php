@@ -54,7 +54,7 @@
 
                      <div class="col-lg-2 col-md-3 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
-                         <div class="footer-widget">
+                         <div class="footer-widget ">
                              <h3 class="title">Links</h3>
                              <ul class="footer-link">
                              <li>
@@ -75,7 +75,7 @@
                                      <a href="contact.php">Contact Us</a>
                                  </li>
                                  <li>
-                                     <i class="ri-check-line"></i>
+                                     <i class="ri-check-line footer_appoinment"></i>
                                      <a href="appointment.php">Appointments</a>
                                  </li>
                                 
@@ -87,7 +87,7 @@
 
                      <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
-                         <div class="footer-widget">
+                         <div class="footer-widget ">
                              <h3 class="title">Services</h3>
                              <ul class="footer-link">
                                  <li>
@@ -124,7 +124,7 @@
                      </div>
                      <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
-                         <div class="footer-widget">
+                         <div class="footer-widget ">
                              <h3 class="title">Services</h3>
                              <ul class="footer-link">
                                  <li>

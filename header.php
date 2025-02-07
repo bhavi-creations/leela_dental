@@ -255,37 +255,80 @@
           </ul>
         </div> -->
         <!-- Header Social End -->
+        <!-- <ul class="nav-menu">
+                <li><a class="active" href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
 
+
+
+                <li class="dropdown ">
+                  <a href="services.php" id="servicesDropdown">Services</a>
+                  <ul class="sub-menu text-center">
+                    <div class="sub-menu-container">
+                      <div class="column">
+                        <li><a href="implants.php">Implants</a></li>
+                        <li><a href="sterilization.php">Sterilization</a></li>
+                        <li><a href="bridges.php">Bridges</a></li>
+                        <li><a href="rootcanal.php">Root Canal</a></li>
+                        <li><a href="clips_braces.php">Clips or Braces</a></li>
+                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
+                        <li><a href="lasers.php">Lasers</a></li>
+                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
+                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
+                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
+                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
+                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
+                        <li><a href="ray.php">3D X-Ray</a></li>
+                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
+                      </div>
+                    </div>
+                  </ul>
+                </li>
+
+
+                <li><a href="blog.php">Blog</a></li>
+
+
+
+                <li><a href="contact.php">Contact</a></li>
+
+
+
+
+
+              </ul> -->
         <div class="mobile-menu">
-    <ul class="nav-menu">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>
-        <li class="dropdown">
-            <a href="services.php" id="servicesDropdown">Services</a>
-            <ul class="sub-menu single-line-menu" id="servicesMenu">
-                <div class="sub-menu-container">
-                    <li><a href="implants.php">Implants</a></li>
-                    <li><a href="sterilization.php">Sterilization</a></li>
-                    <li><a href="bridges.php">Bridges</a></li>
-                    <li><a href="rootcanal.php">Root Canal</a></li>
-                    <li><a href="clips_braces.php">Clips or Braces</a></li>
-                    <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
-                    <li><a href="lasers.php">Lasers</a></li>
-                    <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
-                    <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
-                    <li><a href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
-                    <li><a href="gum_surgery.php">Gum Surgery</a></li>
-                    <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
-                    <li><a href="ray.php">3D X-Ray</a></li>
-                    <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                </div>
-            </ul>
-        </li>
-        <li><a href="blog.php">Blog</a></li>
-        <li><a href="contact.php">Contact</a></li>
-        <li><a href="appointment.php">Appointment</a></li>
-    </ul>
-</div>
+          <ul class="nav-menu">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li class="dropdown ">
+                  <a href="services.php" id="servicesDropdown">Services</a>
+                  <ul class="sub-menu text-center">
+                    <div class="sub-menu-container">
+                      <div class="column">
+                        <li><a href="implants.php">Implants</a></li>
+                        <li><a href="sterilization.php">Sterilization</a></li>
+                        <li><a href="bridges.php">Bridges</a></li>
+                        <li><a href="rootcanal.php">Root Canal</a></li>
+                        <li><a href="clips_braces.php">Clips or Braces</a></li>
+                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
+                        <li><a href="lasers.php">Lasers</a></li>
+                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
+                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
+                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
+                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
+                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
+                        <li><a href="ray.php">3D X-Ray</a></li>
+                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
+                      </div>
+                    </div>
+                  </ul>
+                </li>
+            <li><a href="blog.php">Blog</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="appointment.php">Appointment</a></li>
+          </ul>
+        </div>
 
 
 
@@ -304,13 +347,12 @@
 
 
 
-<script>
-  document.getElementById("servicesDropdown").addEventListener("click", function (event) {
-    event.preventDefault();
-    document.getElementById("servicesMenu").classList.toggle("active");
-});
-
-</script>
+        <script>
+          document.getElementById("servicesDropdown").addEventListener("click", function(event) {
+            event.preventDefault();
+            document.getElementById("servicesMenu").classList.toggle("active");
+          });
+        </script>
       </div>
     </div>
     <!-- Mobile Menu End -->

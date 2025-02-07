@@ -1,5 +1,5 @@
 <?php include "./header.php"; ?>
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/sub_services.png);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/sterilization.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

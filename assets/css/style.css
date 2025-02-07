@@ -299,28 +299,28 @@ textarea:-ms-input-placeholder {
 
 /*--Section Spacing--*/
 .section-padding {
-  padding-top: 60px;
+  padding-top: 150px;
   padding-bottom: 60px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .section-padding {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-padding {
     padding-top: 70px;
     padding-bottom: 70px;
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .section-padding {
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-}
-
 @media only screen and (max-width: 767px) {
   .section-padding {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 60px;
+    padding-bottom: 6 0px;
   }
 }
 
@@ -348,7 +348,7 @@ textarea:-ms-input-placeholder {
 
 @media (min-width:1200px) {
   .section-padding-02{
-    padding-top: 20px;
+    padding-top: 100px;
   }
 }
 
@@ -2166,7 +2166,8 @@ select {
   display: inline-block;
   font-size: 16px;
   margin-right: 50px;
-  color: #D1D9EF;
+  color:#ffffff;
+  font-weight: 400;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3558,18 +3559,19 @@ select {
 }
 
 .slider-content .btn:hover {
-  background-color: #7b66ad;
+  background-color:#ffffff;
   color: #e11341;
 }
 
 .slider-content .btn-white {
   background-color:#7b66ad;
-  color: #d31b1b;
+  color: #ffffff;
 }
 
 .slider-content .btn-white:hover {
-  background-color: #e7058b  ;
-  color: #ffffff;
+  background-color: light pink ;
+  color:#e11341 
+  ;
 }
 
 .slider-image {
@@ -7633,7 +7635,8 @@ select {
 }
 
 .page-banner-title .breadcrumb .breadcrumb-item.active {
-  color: #0AD7F8;
+  color: #f80a6b;
+  font-weight: 500;
 }
 
 /*----------------------------------------*/
@@ -9145,6 +9148,9 @@ select {
 
 .contact-info {
   padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .contact-info ul li .single-info {
@@ -9177,6 +9183,18 @@ select {
 
 .contact-map {
   margin-top: 50px;
+}
+
+
+.appointment_map{
+margin-top: 30PX;
+margin-bottom: 100PX;
+
+}
+
+.appointment_map iframe{
+  width: 95%;
+  height: 440px;
 }
 
 .contact-map iframe {
@@ -9295,7 +9313,7 @@ select {
 }
 
 .footer-widget .footer-link li {
-  margin-bottom: 10px;
+  margin-bottom: 4px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -9315,9 +9333,16 @@ select {
 }
 
 .footer-widget .footer-link li a {
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 400;
   color: #E5ECFF;
+ 
+}
+@media (min-width:768px) and (max-width:991px) {
+  .footer-widget .footer-link li a {
+    padding-left: 10px !important;
+  }
+  
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -9953,4 +9978,13 @@ select {
   margin-top: 200px !important;
 } */
 
-.
+.footer_appoinment{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+/* .appointment_map{
+padding: 40px;
+margin-top: -80px !important;
+} */
