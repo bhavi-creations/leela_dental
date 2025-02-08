@@ -39,7 +39,8 @@
                         </div>
                         <!--  Contact Tilte End -->
                         <!--  Contact Form Start -->
-                        <form id="contact-form" action="assets/contact.php" method="post">
+                        <form  action="contactform.php" method="post" role="form" class="php-email-form"
+                        data-aos-delay="100">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="single-form">
@@ -56,19 +57,19 @@
                                 <div class="col-lg-6">
                                     <div class="single-form">
                                         <label>Subject :</label>
-                                        <input type="text">
+                                        <input type="text" name="subject">
                                     </div>
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="single-form">
                                         <label>Number :</label>
-                                        <input type="text">
+                                        <input type="text" name="number">
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="single-form">
                                         <label>Write a message :</label>
-                                        <textarea name="message" id="message"></textarea>
+                                        <textarea name="message" id="message" name="meassage"></textarea>
                                     </div>
                                 </div>
                                 <p class="form-message mt-3 alert-danger"></p>

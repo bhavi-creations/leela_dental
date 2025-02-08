@@ -54,7 +54,7 @@
 
                      <div class="col-lg-2 col-md-3 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
-                         <div class="footer-widget ">
+                         <div class="footer-widget footer_links">
                              <h3 class="title">Links</h3>
                              <ul class="footer-link">
                              <li>

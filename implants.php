@@ -2,7 +2,7 @@
 
 
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/implents.png);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/impletns.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

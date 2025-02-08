@@ -120,7 +120,7 @@
                  Caring For The Health And Well Being Of You And Your
                  Family.
                </h2>
-               <p>
+               <p >
                  Comprehensive Dental Care for a Healthy Smile</p>
                <p>Advanced Technology & Expert Dental Specialists</p>
                <p>Painless & Affordable Treatments for All Ages</p>

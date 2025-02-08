@@ -1,7 +1,7 @@
 <?php include "./header.php"; ?>
 
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/gum_surgery.png);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/gum_surgery.PNG);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

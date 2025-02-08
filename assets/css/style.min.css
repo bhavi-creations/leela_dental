@@ -7760,6 +7760,9 @@ only screen and (max-width: 767px) {
         padding-left: 0;
         padding-right: 0
     }
+    .footer-widget{
+        margin-left: 50px !important;
+    } 
 }
 
 .footer-widget {
