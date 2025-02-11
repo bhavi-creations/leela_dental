@@ -51,7 +51,7 @@
         <div class="container">
             <div class="about-wrapper">
                 <div class="container implants_content">
-                    <h1 class="text-center ">Laser treatment</h1>
+                    <h1 class="text-center ">Laser Equipment</h1>
                     <p class="text-center"> Precision and Comfort for Dental Care
                         Enhancing Healing and Aesthetic Results with Advanced Technology</p>
                 </div>
@@ -69,11 +69,21 @@
 
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
-                                Laser treatment in dentistry is an advanced and highly effective method that uses focused light energy to perform a wide range of dental procedures with precision and minimal discomfort. This innovative approach has revolutionized the field by providing a more comfortable and efficient alternative to traditional dental tools. The laser's energy is absorbed by the tissues in the mouth, allowing dentists to treat both soft and hard tissues more precisely and with less invasiveness.
-                            </p>
+                            Laser technology has revolutionized dental procedures, offering patients more comfort, precision, and faster recovery times. Dental lasers are used for a variety of treatments, from soft tissue management to hard tissue procedures, providing benefits that traditional tools cannot match. At Leela Dental, we use the latest in laser technology to ensure that our patients receive the most effective and cutting-edge care.
+
+</p>
                             <p>
-                                The laser works by emitting a beam of light that can cut, shape, or remove tissues in the mouth. It can be used for a variety of dental procedures, such as treating gum disease, reshaping gums, and even performing surgeries on soft tissues. In many cases, lasers can perform treatments without the need for stitches, reducing the risk of infection and promoting faster healing times. For instance, in gum surgery, lasers can target affected areas without the need for traditional scalpels, resulting in less pain and quicker recovery for the patient.
-                            </p>
+                           <strong> Types of Laser Equipment Used</strong> 
+                            <br>
+                          <strong>1.  Diode Lasers </strong>Diode lasers are versatile and commonly used for soft tissue procedures, such as gum reshaping, soft tissue removal, and treating gum disease.
+                        <br>
+                        
+                        <strong>       2.CO2 Lasers CO2 </strong>lasers are typically used for more precise surgical procedures involving soft tissue. 
+                    <br>
+                    <strong>      3.   Erbium Lasers</strong> Erbium lasers are used for both soft and hard tissue procedures. These lasers are effective in removing tooth decay, reshaping gums, and treating issues related to dental cavities
+                             <br>
+                  <strong>     4.      YAG Lasers </strong>YAG lasers are widely used for their versatility in treating both soft and hard tissues. They are especially effective in treating deeper tissues and can be used in procedures like periodontal treatment and gum surgery.      
+                </p>
                         </div>
 
                     </div>

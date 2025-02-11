@@ -54,7 +54,7 @@
             <div class="about-wrapper">
                 <div class="container implants_content ">
                     <h1 class="text-center">
-                        Dental CT Scan</h1>
+                        Dental CT Scan Equipment</h1>
                     <p class="text-center"> Advanced Imaging for Precise Diagnosis
                         Revolutionizing Treatment Planning with 3D Imaging Technology </p>
                 </div>
@@ -72,7 +72,10 @@
 
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
-                                A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy.
+                                <!-- A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy. -->
+                                At Leela Dental, we utilize the latest Dental CT Scan (Cone Beam Computed Tomography) technology to offer the most advanced imaging solutions available. This revolutionary technology allows us to obtain highly detailed, three-dimensional images of the teeth, jaw, and surrounding structures, facilitating accurate diagnoses and the development of tailored treatment plans.
+
+
                             </p>
                             <p>
                                 This advanced imaging technique is commonly used for dental implant planning, root canal evaluation, wisdom tooth extraction, orthodontic treatment, and diagnosing jaw disorders or oral pathologies. It helps in detecting hidden infections, bone abnormalities, and nerve positions, ensuring safe and effective treatment.

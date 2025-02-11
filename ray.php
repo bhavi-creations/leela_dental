@@ -23,7 +23,7 @@
 
 <section class="my-5">
     <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">3D X-Ray treatment</h1>
+        <h1 class="text-center services_rootcanal">3D X-Ray Equipment</h1>
         <p class="text-center">Gain accurate, detailed views of your teeth, jaw, and surrounding structures with state-of-the-art 3D X-ray technology.
 
 </p>
@@ -66,8 +66,13 @@
 
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
-                            3D X-ray, also known as Cone Beam Computed Tomography (CBCT), is an advanced imaging technology used in dentistry to provide detailed three-dimensional views of the teeth, jawbone, and surrounding structures. Unlike traditional two-dimensional X-rays, 3D X-rays offer a more comprehensive assessment, allowing dentists to accurately diagnose complex dental conditions, plan surgeries, and design precise treatment approaches. This technology is particularly beneficial for procedures such as dental implants, root canal treatments, orthodontics, and maxillofacial surgeries, as it provides clear and high-resolution images with minimal radiation exposure.
+                            In modern dentistry, accurate diagnostics play a crucial role in planning and delivering effective treatments. Traditional 2D X-rays have long been used to diagnose dental issues, but advancements in imaging technology have led to the development of 3D X-Ray equipment. At Leela Dental, we utilize the latest 3D X-ray technology to provide highly detailed and precise images that allow for more accurate diagnoses and treatment planning.
 
+
+</p>
+<p>
+<strong>What is 3D X-Ray in Dentistry?</strong>
+3D X-ray imaging, also known as Cone Beam Computed Tomography (CBCT), is an advanced imaging technique that produces three-dimensional images of the teeth, jaw, and surrounding structures. Unlike traditional 2D X-rays, which can only show a flat image of the area, 3D X-rays create detailed cross-sectional images, providing a more comprehensive view.
 </p>
                             
                         </div>

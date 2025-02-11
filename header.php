@@ -85,13 +85,7 @@
                     <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                     <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
                     <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
-                    <li class="dropdown-submenu">
-                      <a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a>
-                      <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="gum_surgery_advanced.php">Advanced Gum Surgery</a></li>
-                        <li><a class="dropdown-item" href="gum_surgery_laser.php">Laser Gum Surgery</a></li>
-                      </ul>
-                    </li>
+                    <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
                     <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                     <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
                   </ul>
