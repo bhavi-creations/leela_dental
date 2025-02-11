@@ -24,6 +24,9 @@
   margin: 0;
   padding: 0;
 }
+body {
+  padding-top: 127px; /* Adjust based on navbar height */
+}
 
 body {
   font-size: 18px;
@@ -9325,23 +9328,24 @@ margin-bottom: 100PX;
 @media only screen and (max-width: 575px), only screen and (max-width: 767px) {
   .footer-widget .title {
     font-size: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    margin-top:20px;
   }
 }
 
 .footer-widget .footer-link li {
-  margin-bottom: 4px;
+  margin-bottom: -6px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-widget .footer-link li {
-    margin-bottom: 10px;
+    margin-bottom: -2px;
   }
 }
 
 @media only screen and (max-width: 575px), only screen and (max-width: 767px) {
   .footer-widget .footer-link li {
-    margin-bottom: 8px;
+    margin-bottom: -2px;
   }
 }
 
@@ -9404,12 +9408,12 @@ margin-bottom: 100PX;
   font-size: 16px;
   font-weight: 400;
   color: #E5ECFF;
-  margin-bottom: 15px;
+  margin-bottom: 2px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-widget .footer-info li {
-    font-size: 14px;
+    font-size: 10px;
     margin-bottom: 10px;
   }
 }
@@ -9815,7 +9819,8 @@ margin-bottom: 100PX;
   margin-top: 10px;
 }
 .privacy_content{
-  margin:60px 0px ;
+  
+margin-top: 100px !important;
 }
 
 
@@ -10240,3 +10245,10 @@ background-color: #94beeb;
   left: 100%;
   top: 0;
 }
+
+.icons{
+  width: 18px;
+
+}
+
+

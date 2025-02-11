@@ -7,7 +7,7 @@
              <div class="footer-wrapper">
                  <div class="row">
 
-                     <div class="col-lg-4 col-md-3 col-sm-6 widget-col">
+                     <div class="col-lg-4 col-md-6 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
                          <div class="footer-widget">
                              <!-- <h3 class="title">Quick Contact</h3> -->
@@ -15,9 +15,13 @@
                                  <img src="assets/images/brand/footer_bg.png" alt="" class="img-fluid" style="border-radius: 5px;">
 
                                  <li class="footer_detail"><i class="ri-phone-fill"></i> +91-7674824667,9493782298 </li>
-                                 <li class="footer_detail"> <i class="bi bi-telephone-fill"> </i> +91-0884-2378237 </li>
-                                
-                                 
+                                 <!-- <li class="footer_detail"> <i class="bi bi-telephone-fill"> </i> +91-0884-2378237 </li> -->
+                                 <li class="footer_detail"> <img src="assets/images/icon/telephone.png" alt="" class="img-fluid icons"> &nbsp;</i> +91-0884-2378237 </li>
+
+
+
+                         
+
                                  <li>
                                      <i class="ri-mail-unread-fill"></i> leeladentalcare123@gmail.com
                                  </li>
@@ -31,7 +35,7 @@
 
 
                                  <!-- <div class="header-social"> -->
-                                 <ul class="social text-center justify-content-center">
+                                 <ul class="social ">
                                      <li>
                                          <!-- <i class="ri-facebook-fill"></i> -->
                                          <a href="https://www.facebook.com/Leelasuperspecialitydentalhospital/"> <img src="assets/images/icon/facebook.png" alt=""></a>
@@ -55,19 +59,19 @@
                      </div>
 
 
-                     <div class="col-lg-2 col-md-3 col-sm-6 widget-col">
+                     <div class="col-lg-2 col-md-6 col-6 widget-col">
                          <!-- Footer Widget Start -->
                          <div class="footer-widget footer_links">
                              <h3 class="title">Links</h3>
                              <ul class="footer-link">
-                             <li>
-                                     <i class="ri-check-line"></i> <a href="index.php">  Home</a>
+                                 <li>
+                                     <i class="ri-check-line"></i> <a href="index.php"> Home</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i> <a href="about.php">Abouts Us</a>
                                  </li>
                                  <li>
-                                     <i class="ri-check-line"></i> <a href="services.php">  Services</a>
+                                     <i class="ri-check-line"></i> <a href="services.php"> Services</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -81,29 +85,67 @@
                                      <i class="ri-check-line footer_appoinment"></i>
                                      <a href="appointment.php">Appointments</a>
                                  </li>
-                                
+
                              </ul>
                          </div>
                          <!-- Footer Widget End -->
                      </div>
 
+                     <div class="col-lg-3 col-md-6 col-6 widget-col">
+                         <!-- Footer Widget Start -->
+                         <div class="footer-widget ">
+                             <h3 class="title">Cosmatic </h3>
+                             <ul class="footer-link">
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="teeth_whitening.php"> Teeth Whitening</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="veeners.php"> Dental Veneers</a>
+                                 </li>
 
-                     <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
+
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="composite_filler.php"> Composit Filler</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="teeth_jewellery.php"> Teeth Jewellery</a>
+                                 </li>
+                                 </li>
+
+
+                                 <!-- <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="x-ray.php"> Dental CT Scan  </a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="3D-X-Ray-php">3D X-Ray</a>
+                                 </li> -->
+
+                             </ul>
+                         </div>
+                         <!-- Footer Widget End -->
+                     </div>
+                     <div class="col-lg-3 col-md-3 col-12 widget-col">
                          <!-- Footer Widget Start -->
                          <div class="footer-widget ">
                              <h3 class="title">Dental </h3>
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="implants.php">  Implants</a>
+                                     <a href="implants.php"> Implants</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="rootcanal.php">  Rootcanal</a>
+                                     <a href="rootcanal.php"> Rootcanal</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="tooth_aligners.php">  Tooth Aligners</a>
+                                     <a href="tooth_aligners.php"> Tooth Aligners</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -111,15 +153,15 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="gum_surgery.php">  Gum Surgery</a>
+                                     <a href="gum_surgery.php"> Gum Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="maxillofacial_surger.php">  Maxillofacial Surgery</a>
+                                     <a href="maxillofacial_surger.php"> Maxillofacial Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="lasers.php">   Lasers</a>
+                                     <a href="lasers.php"> Lasers</a>
                                  </li>
                                  <!-- <li>
                                      <i class="ri-check-line"></i>
@@ -131,50 +173,13 @@
                                      <i class="ri-check-line"></i>
                                      <a href="clips_braces.php">   Clips or Braces</a>
                                  </li> -->
-                              
-                                 
-                             </ul>
-                         </div>
-                         <!-- Footer Widget End -->
-                     </div>
-                     <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
-                         <!-- Footer Widget Start -->
-                         <div class="footer-widget ">
-                             <h3 class="title">Cosmatic </h3>
-                             <ul class="footer-link">
-                                  <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="teeth_whitening.php">  Teeth Whitening</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="veeners.php"> Dental Veneers</a>
-                                 </li>
 
-                                 
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="composit_filler.php"> Composit Filler</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="teeth_jewellery.php">   Teeth Jewellery</a>
-                                 </li></li>
-                                 
-                                
-                                 <!-- <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="x-ray.php"> Dental CT Scan  </a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="3D-X-Ray-php">3D X-Ray</a>
-                                 </li> -->
-                                
+
                              </ul>
                          </div>
                          <!-- Footer Widget End -->
                      </div>
+
 
 
                  </div>
@@ -185,7 +190,7 @@
      <!-- Footer Widget Area End -->
 
      <!-- Footer Copyright Area Start -->
-     <div class="footer-area-bottom theme-bg  footer_content" >
+     <div class="footer-area-bottom theme-bg  footer_content">
          <div class="container">
              <div class="row pt-4">
 
@@ -240,13 +245,13 @@
 
 
 
-  <!-- whats app  -->
+ <!-- whats app  -->
 
 
-  <a href="https://api.whatsapp.com/send?phone=917674824667" style="color: #fff;" class="whatsapp-link"
-    target="_blank">
-    <i class="fa-brands fa-whatsapp"></i>
-  </a>  
+ <a href="https://api.whatsapp.com/send?phone=917674824667" style="color: #fff;" class="whatsapp-link"
+     target="_blank">
+     <i class="fa-brands fa-whatsapp"></i>
+ </a>
  <!-- Back To Top End -->
  </div>
 
@@ -303,12 +308,12 @@
 
 
 
-<!-- 
+ <!-- 
  <li class="dropdown">
                   <a href="services.php">Services</a>
                   <ul class="sub-menu">
                     <!-- Dental Services -->
-                    <!-- <li class="dropdown">
+ <!-- <li class="dropdown">
                       <a href="#">Dental Services</a>
                       <ul class="sub-sub-menu">
                         <li><a href="implants.php">Implants</a></li>
@@ -322,8 +327,8 @@
                       </ul>
                     </li> -->
 
-                    <!-- Cosmetic Services -->
-                    <!-- <li class="dropdown">
+ <!-- Cosmetic Services -->
+ <!-- <li class="dropdown">
                       <a href="#">Cosmetic Services</a>
                       <ul class="sub-sub-menu">
                         <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
@@ -336,7 +341,7 @@
                   </ul>
                 </li> -->
 
-                <!-- <li class="dropdown">
+ <!-- <li class="dropdown">
                   <a href="equipment.php">Equipment</a>
                   <ul class="sub-menu">
                     <li><a href="dental_ct_scan.php">Dental CT-Scan</a></li>

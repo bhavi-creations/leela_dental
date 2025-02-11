@@ -222,7 +222,7 @@ $result = $stmt->get_result();
   </script> 
 </header> -->
 
-<main>
+<main class="blogs_content">
   <!-- Filter Buttons -->
   <div class="container">
     <div class="filter_buttons redirect_section mt-5">
