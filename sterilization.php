@@ -19,14 +19,7 @@
     </div>
 </div>
 
-<section >
-    <div class="container implants_content ">
-        <h1 class="text-center ">Sterilization treatment</h1>
-        <p class="text-center">Effective sterilization practices eliminate bacteria and viruses, ensuring a clean and safe environment for every dental procedure.
 
-</p>
-    </div>
-</section>
 <!-- <section class="mt-5">
     <div class="container">
         <div class="row">
@@ -52,7 +45,12 @@
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
+            <div class="container implants_content ">
+        <h1 class="text-center ">Sterilization treatment</h1>
+        <p class="text-center">Effective sterilization practices eliminate bacteria and viruses, ensuring a clean and safe environment for every dental procedure.
 
+</p>
+    </div>
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
 

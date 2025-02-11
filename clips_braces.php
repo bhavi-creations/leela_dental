@@ -21,14 +21,7 @@
     </div>
 </div>
 
-<section >
-    <div class="container implants_content">
-        <h1 class="text-center ">
-            Clips-Braces Treatment </h1>
-        <p class="text-center"> Transform Your Smile with Effective Orthodontics
-            Achieving Perfect Alignment and Enhanced Confidence Through Braces</p>
-    </div>
-</section>
+
 <!-- <section class="mt-5">
     <div class="container services_bottom">
         <div class="row">
@@ -56,6 +49,13 @@
         <div class="container">
             <div class="about-wrapper">
 
+                <div class="container implants_content">
+                    <h1 class="text-center ">
+                        Clips-Braces Treatment </h1>
+                    <p class="text-center"> Transform Your Smile with Effective Orthodontics
+                        Achieving Perfect Alignment and Enhanced Confidence Through Braces</p>
+                </div>
+
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
 
@@ -72,9 +72,9 @@
 
                             </p>
                             <p>
-                            Traditional braces consist of metal brackets attached to the front surface of the teeth, connected by a wire and secured with small elastic bands (clips). These components work together to apply gentle pressure on the teeth, gradually moving them into proper alignment. The treatment plan is customized based on the patient's specific needs and can take anywhere from several months to a few years, depending on the complexity of the case.
+                                Traditional braces consist of metal brackets attached to the front surface of the teeth, connected by a wire and secured with small elastic bands (clips). These components work together to apply gentle pressure on the teeth, gradually moving them into proper alignment. The treatment plan is customized based on the patient's specific needs and can take anywhere from several months to a few years, depending on the complexity of the case.
 
-</p>
+                            </p>
                         </div>
 
                     </div>

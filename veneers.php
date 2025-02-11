@@ -9,7 +9,7 @@
                     <h2 class="title">Veneers</h2>
                     <!--  Page Banner Breadcrumb Start -->
                     <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Veneers</li>
                     </ul>
                     <!--  Page Banner Breadcrumb End -->
@@ -21,13 +21,7 @@
 </div>
 
 
-<section >
-    <div class="container  ">
-        <h1 class="text-center ">Veneers treatment</h1>
-        <p class="text-center ">Relief from Tooth Pain and Infection
-            Preserve Your Smile with Effective, Long-Lasting Care </p>
-    </div>
-</section>
+
 <!-- <section class="mt-5">
     <div class="container">
         <div class="row">
@@ -50,6 +44,10 @@
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
+            <div class="container  ">
+        <h1 class="text-center ">Veneers treatment</h1>
+        <p class="text-center ">Enhance Your Smile with Veneers – A Perfect Blend of Beauty and Strength! </p>
+    </div>
 
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
@@ -57,7 +55,7 @@
                         <div class="about-img service_image">
                         <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
 
-                        <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+                        <img src="./assets/images/services2/veeners.png" alt="" class="img-fluid">
 
                         </div>
 

@@ -24,14 +24,6 @@
 
 
 
-<section >
-    <div class="container implants_content ">
-        <h1 class="text-center">
-        Dental CT Scan</h1>
-        <p class="text-center"> Advanced Imaging for Precise Diagnosis
-        Revolutionizing Treatment Planning with 3D Imaging Technology </p>
-    </div>
-</section>
 <!-- <section class="mt-5">
     <div class="container">
         <div class="row">
@@ -60,13 +52,18 @@
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
-
+                <div class="container implants_content ">
+                    <h1 class="text-center">
+                        Dental CT Scan</h1>
+                    <p class="text-center"> Advanced Imaging for Precise Diagnosis
+                        Revolutionizing Treatment Planning with 3D Imaging Technology </p>
+                </div>
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
 
                         <div class="about-img service_image">
-                        <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-                        <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" >
+                            <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
+                            <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
 
                         </div>
 
@@ -75,10 +72,10 @@
 
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
-                            A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy.
+                                A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy.
                             </p>
                             <p>
-                            This advanced imaging technique is commonly used for dental implant planning, root canal evaluation, wisdom tooth extraction, orthodontic treatment, and diagnosing jaw disorders or oral pathologies. It helps in detecting hidden infections, bone abnormalities, and nerve positions, ensuring safe and effective treatment.
+                                This advanced imaging technique is commonly used for dental implant planning, root canal evaluation, wisdom tooth extraction, orthodontic treatment, and diagnosing jaw disorders or oral pathologies. It helps in detecting hidden infections, bone abnormalities, and nerve positions, ensuring safe and effective treatment.
                             </p>
                         </div>
 

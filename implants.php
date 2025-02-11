@@ -21,13 +21,7 @@
         </div>
     </div>
 </div>
-<section>
-    <div class="container implants_content">
-        <h1 class="text-center">Implants Surger treatment</h1>
-        <p class="text-center"> A Permanent Solution for Missing Teeth
-        Restore Your Smile and Confidence with Advanced Implant Technology</p>
-    </div>
-</section>
+
 
 
 <!-- <section class="implents_content  ">
@@ -62,13 +56,17 @@
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
-
+                <div class="container implants_content">
+                    <h1 class="text-center">Implants Surger treatment</h1>
+                    <p class="text-center"> A Permanent Solution for Missing Teeth
+                        Restore Your Smile and Confidence with Advanced Implant Technology</p>
+                </div>
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
 
                         <div class="about-img service_image">
-                        <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-                        <img src="assets/images/services2/impletns.png" alt="" class="img-fluid">
+                            <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
+                            <img src="assets/images/services2/impletns.png" alt="" class="img-fluid">
                         </div>
 
                     </div>
@@ -76,10 +74,10 @@
 
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
-                            Dental implants are a modern and highly effective solution for replacing missing teeth. They consist of a titanium post that is surgically placed into the jawbone, acting as a replacement for the tooth root. Once the implant integrates with the bone (a process called osseointegration), a crown, bridge, or denture is placed on top to restore the appearance and function of a natural tooth.
+                                Dental implants are a modern and highly effective solution for replacing missing teeth. They consist of a titanium post that is surgically placed into the jawbone, acting as a replacement for the tooth root. Once the implant integrates with the bone (a process called osseointegration), a crown, bridge, or denture is placed on top to restore the appearance and function of a natural tooth.
                             </p>
                             <p>
-                            One of the main advantages of dental implants is their ability to provide a long-lasting and stable solution compared to traditional dentures or bridges. Implants are designed to look, feel, and function like natural teeth, allowing patients to eat, speak, and smile with confidence. Additionally, implants help preserve the jawbone, as they stimulate bone growth, preventing bone loss that often occurs after tooth loss.
+                                One of the main advantages of dental implants is their ability to provide a long-lasting and stable solution compared to traditional dentures or bridges. Implants are designed to look, feel, and function like natural teeth, allowing patients to eat, speak, and smile with confidence. Additionally, implants help preserve the jawbone, as they stimulate bone growth, preventing bone loss that often occurs after tooth loss.
                             </p>
                         </div>
 

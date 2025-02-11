@@ -61,7 +61,7 @@
                              <h3 class="title">Links</h3>
                              <ul class="footer-link">
                              <li>
-                                     <i class="ri-check-line"></i> <a href="Index.php">  Home</a>
+                                     <i class="ri-check-line"></i> <a href="index.php">  Home</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i> <a href="about.php">Abouts Us</a>

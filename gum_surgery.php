@@ -1,7 +1,7 @@
 <?php include "./header.php"; ?>
 
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/gum_surgery.PNG);">
+<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/gum.png);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -22,14 +22,7 @@
 </div>
 
 
-<section>
-    <div class="container implants_content">
-        <h1 class="text-center ">
-            Gum Surgery treatment</h1>
-        <p class="text-center"> Restoring Health and Function to Your Gums
-            Effective Treatments for Gum Disease and Aesthetic Enhancement </p>
-    </div>
-</section>
+
 <!-- <section class="mt-5">
     <div class="container">
         <div class="row">
@@ -57,7 +50,12 @@
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
-
+                <div class="container implants_content">
+                    <h1 class="text-center ">
+                        Gum Surgery treatment</h1>
+                    <p class="text-center"> Restoring Health and Function to Your Gums
+                        Effective Treatments for Gum Disease and Aesthetic Enhancement </p>
+                </div>
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
 
@@ -74,8 +72,8 @@
 
                             </p>
                             <p>
-                This treatment is often necessary for individuals with advanced gum disease (periodontitis), receding gums, excessive gum tissue, or bone loss caused by infections. By addressing these concerns, gum surgery reduces the risk of tooth loss and enhances overall dental health.
-             </p>
+                                This treatment is often necessary for individuals with advanced gum disease (periodontitis), receding gums, excessive gum tissue, or bone loss caused by infections. By addressing these concerns, gum surgery reduces the risk of tooth loss and enhances overall dental health.
+                            </p>
 
                             <p>
                             <h3> Types of Gum Surgery:</h3>
