@@ -71,7 +71,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="blog.php">Blogs</a>
+                                     <a href="blogs.php">Blogs</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>

@@ -67,29 +67,32 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal">Root Canal</option>
-                                                <option value="Teeth Braces">Teeth Braces</option>
-                                                <option value="Pediatric Dentist">Pediatric Dentist</option>
-                                                <option value="Paedodontist Doctors">Paedodontist Doctors </option>     
-                                                <option value="Clear Aligners">Clear Aligners</option>
-                                                <option value="Laminate Veneers">Laminate Veneers</option>
-                                                <option value="Crown Bridge">Crown & Bridge</option>
+                                                <option value="Implants">Implants</option>
+                                                <option value="Rootcanal">Rootcanal</option>
+                                                <option value="Tooth Aligners">Tooth Aligners</option>
+                                                <option value="Bridges">Bridges</option>
+                                                <option value="Gum Surgery">Gum Surgery </option>     
+                                                <option value="Maxillofacial Surgery">Maxillofacial Surgery</option>
+                                                <option value="Lasers">Lasers</option>
+                                                <option value="Teeth Whitening">Teeth Whitening </option>
+                                                <option value="Dental Veneers">Dental Veneers</option>
+                                                <option value="Composit Filler">Composit Filler</option>
+                                              <!--   <option value="Teeth Jewellery">Teeth Jewellery</option>
                                                 <option value="Dental Implants">Dental Implants</option>
-                                                <option value="Dentures Treatment">Dentures</option>
-                                                <option value="Invisalign">Invisalign </option>
-                                                <option value="Jaw Corrective">Jaw Corrective</option>
+                                                <option value="Dentures">Dentures</option>
+                                                <option value="Fluoride Application & Dental Sealant">Fluoride Application & Dental Sealant</option>
+                                                <option value="Full Mouth Rehabilitation Treatment">Full Mouth Rehabilitation Treatment</option>
+                                                
+                                               
                                                 <option value="Laser Gum">Laser & Gum</option>
-                                                <option value="Smile Designing">Smile Designing</option>
-                                                <option value="Smile Makeover">Smile Makeover</option>
-                                                <option value="Teeth Alignment">Teeth Alignment</option>
                                                 <option value="Tooth Extraction">Tooth Extraction</option>
-                                                <option value="Tooth Cleaning">Teeth Cleaning</option>
+                                                <option value="Tooth Cleaning">Gum Surgery</option>
                                                 <option value="Gum Depigment">Gum Depigment</option>
                                                 <option value="Teeth Whitening">Teeth Whitening</option>
                                                 <option value="Laser Gum Surgery">Laser Gum Surgery </option>
                                                 <option value="Mouth Ulcers">Mouth Ulcers </option> 
                                                 <option value="Precancerous Lesion">Precancerous Lesion</option>
-                                                <option value="Laser Crown Lengthening">Laser Crown Lengthening</option>
+                                                <option value="Laser Crown Lengthening">Laser Crown Lengthening</option> -->
                                                
                                             </select>
                                         </div>
