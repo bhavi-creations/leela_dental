@@ -93,7 +93,7 @@
                   <ul class="dropdown-menu submenu">
                     <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
                     <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
-                    <li><a class="dropdown-item" href="composite_filler.php">Composite Filler</a></li>
+                    <li><a class="dropdown-item" href="composit_filler.php">Composite Filler</a></li>
                     <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
                   </ul>
                 </li>
