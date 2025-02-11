@@ -22,9 +22,9 @@
 </div>
 
 
-<section class="my-5">
-    <div class="container">
-        <h1 class="text-center services_rootcanal">
+<section>
+    <div class="container implants_content">
+        <h1 class="text-center ">
             Gum Surgery treatment</h1>
         <p class="text-center"> Restoring Health and Function to Your Gums
             Effective Treatments for Gum Disease and Aesthetic Enhancement </p>

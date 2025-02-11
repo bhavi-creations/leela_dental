@@ -21,16 +21,22 @@
         </div>
     </div>
 </div>
+<section>
+    <div class="container implants_content">
+        <h1 class="text-center">Implants Surger treatment</h1>
+        <p class="text-center"> A Permanent Solution for Missing Teeth
+        Restore Your Smile and Confidence with Advanced Implant Technology</p>
+    </div>
+</section>
 
 
-
-<section class="implents_content my-5 ">
-    <div class="container services_rootcanal">
+<!-- <section class="implents_content  ">
+    <div class="container ">
         <h1 class="text-center">Implants Surger treatment</h1>
         <p class="text-center"> A Permanent Solution for Missing Teeth
             Restore Your Smile and Confidence with Advanced Implant Technology </p>
     </div>
-</section>
+</section> -->
 <!-- <section class="mt-5 ">
     <div class="container ">
         <div class="row">

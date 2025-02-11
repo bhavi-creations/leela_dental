@@ -24,9 +24,9 @@
 
 
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">
+<section >
+    <div class="container implants_content ">
+        <h1 class="text-center">
         Dental CT Scan</h1>
         <p class="text-center"> Advanced Imaging for Precise Diagnosis
         Revolutionizing Treatment Planning with 3D Imaging Technology </p>

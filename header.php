@@ -40,6 +40,8 @@
 
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
+  <!-- font-awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
   <!-- animation  -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
@@ -49,325 +51,94 @@
 
 <body>
   <!--====== PRELOADER PART START ======-->
+  <section>
+  <nav class="navbar navbar-expand-lg navbar-light Navebar_content">
+    <div class="container">
+      <a class="navbar-brand" href="index.php">
+        <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" />
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto align-items-lg-center">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.php">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.php">About</a>
+          </li>
 
-  <div class="preloader">
-    <div class="loader">
-      <div class="ytp-spinner">
-        <div class="ytp-spinner-container">
-          <div class="ytp-spinner-rotator">
-            <div class="ytp-spinner-left">
-              <div class="ytp-spinner-circle"></div>
-            </div>
-            <div class="ytp-spinner-right">
-              <div class="ytp-spinner-circle"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!--====== PRELOADER PART ENDS ======-->
-
-  <div class="main-wrapper">
-    <!-- Header Section Start -->
-    <div class="section header-section transparent-header">
-      <!-- Header Top Start -->
-      <div class="header-top d-none d-lg-block">
-        <div class="container">
-          <!-- Header Top Wrapper Start -->
-          <div class="header-top-wrapper">
-            <!-- Header Info Start  -->
-            <div class="header-top-info">
-              <ul>
-                <!-- <li>
-                  <i class="ri-map-pin-add-line"></i>
-                  <span>S.P office opposite road near RMC ground kakinada</span>
-                </li> -->
-                <li>
-                  <i class="ri-mail-unread-fill"></i>
-                  <span>leeladentalcare123@gmail.com</span>
-                </li>
-                <li><i class="ri-phone-fill"></i>+91-91006 86678 </li>
-              </ul>
-            </div>
-            <!-- Header Info End -->
-
-            <!-- Header Social Start -->
-            <div class="header-social">
-              <ul class="social">
-
-                <ul class="social text-center justify-content-center">
-
-                  <li>
-                    <a href="https://www.facebook.com/Leelasuperspecialitydentalhospital/"> <img src="assets/images/icon/facebook.png" alt=""></a>
-                  </li>
-
-
-                  <li>
-                    <a href="https://www.instagram.com/leeladentalcare/"> <img src="assets/images/icon/instagram.png" alt="" class="img-fluid"></a>
-                  </li>
-
-                  <li>
-                    <a href="https://www.youtube.com/@leeladentalcare123">
-                      <img src="assets/images/icon/youtube.png" alt="" class="img-fluid"></a>
-                  </li>
-
+          <!-- Services Dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Services
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li class="dropdown-submenu">
+                <a class="dropdown-item" href="services.php">Dental Treatment</a>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="implants.php">Implants</a></li>
+                  <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
+                  <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                  <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
+                  <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                  <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
+                  <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
                 </ul>
-              </ul>
-            </div>
-            <!-- Header Social End -->
-          </div>
-          <!-- Header Top Wrapper End -->
-        </div>
-      </div>
-      <!-- Header Top End -->
+              </li>
+              <li class="dropdown-submenu">
+                <a class="dropdown-item" href="cosmetic_services.php">Cosmetic Services</a>
+                <ul class="dropdown-menu submenu">
+                  <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
+                  <li><a class="dropdown-item" href="veeners.php">Veneers</a></li>
+                  <li><a class="dropdown-item" href="composit_filler.php">Composite Filler</a></li>
+                  <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
 
-      <!-- Header Bottom Start -->
-      <div class="header-bottom">
-        <div class="container">
-          <!-- Header Bottom Wrapper Start -->
-          <div class="header-bottom-wrapper">
-            <!-- Header Logo Start -->
-            <div class="header-logo">
-              <a href="index.php"><img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" /></a>
-            </div>
-            <!-- Header logo End -->
+          <!-- Equipment Dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="equipmentDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Equipment
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="equipmentDropdown">
+              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
+              <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+              <li><a class="dropdown-item" href="lasers.php">Laser</a></li>
+            </ul>
+          </li>
 
-            <!-- Header Primary Menu Start -->
-            <div class="header-primary-menu d-none d-lg-block">
-              <ul class="nav-menu">
-                <li><a class="active" href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="blog.php">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.php">Contact</a>
+          </li>
 
-
-
-                <li class="dropdown ">
-                  <a href="services.php" id="servicesDropdown">Services</a>
-                  <ul class="sub-menu text-center">
-                    <div class="sub-menu-container">
-                      <div class="column">
-                        <li><a href="implants.php">Implants</a></li>
-                        <li><a href="sterilization.php">Sterilization</a></li>
-                        <li><a href="bridges.php">Bridges</a></li>
-                        <li><a href="rootcanal.php">Root Canal</a></li>
-                        <li><a href="clips_braces.php">Clips or Braces</a></li>
-
-                      </div>
-                      <div class="column">
-                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
-                        <li><a href="lasers.php">Lasers</a></li>
-                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
-                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
-                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
-                      </div>
-                      <div class="column">
-
-
-                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
-                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
-                        <li><a href="ray.php">3D X-Ray</a></li>
-                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                      </div>
-                    </div>
-                  </ul>
-                </li>
-
-
-                <li><a href="blog.php">Blog</a></li>
-
-
-
-                <li><a href="contact.php">Contact</a></li>
-
-
-
-
-
-              </ul>
-
-              </ul>
-
-            </div>
-
-            <div class="header-btn d-none d-lg-block">
-              <a class="btn" href="appointment.php">Make Appointment</a>
-            </div>
-            <!-- Header Button End -->
-
-            <!-- Header Mobile Toggle Start -->
-            <div class="header-toggle d-lg-none">
-              <button class="menu-toggle" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu">
-                <span></span>
-                <span></span>
-                <span></span>
-              </button>
-            </div>
-            <!-- Header Mobile Toggle End -->
-          </div>
-          <!-- Header Bottom Wrapper End -->
-        </div>
-      </div>
-      <!-- Header Bottom End -->
-    </div>
-    <!-- Header Section End -->
-
-    <!-- Mobile Menu End -->
-    <div class="offcanvas offcanvas-start" id="offcanvasMenu">
-      <div class="offcanvas-header">
-        <a href="index.php"><img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" /></a>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-      </div>
-
-      <div class="offcanvas-body">
-        <!-- Header Info Start  -->
-        <div class="header-top-info">
-
-          <ul>
-            <li>
-              <i class="ri-map-pin-add-line"></i>
-              <span>S.P office opposite road near RMC ground kakinada</span>
-            </li>
-            <li>
-              <i class="ri-mail-unread-fill"></i>
-              <span>leeladentalcare123@gmail.com</span>
-            </li>
-            <li><i class="ri-phone-fill"></i>+91-91006 86678 , &nbsp;94937 82298</li>
-          </ul>
-        </div>
-        <!-- Header Info End -->
-
-        <!-- Header Social Start -->
-        <!-- <div class="header-social">
-          <ul class="social">
-            <li>
-              <a href="#"><i class="ri-facebook-fill"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="ri-twitter-fill"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="ri-linkedin-fill"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="ri-instagram-fill"></i></a>
-            </li>
-          </ul>
-        </div> -->
-        <!-- Header Social End -->
-        <!-- <ul class="nav-menu">
-                <li><a class="active" href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
-
-
-
-                <li class="dropdown ">
-                  <a href="services.php" id="servicesDropdown">Services</a>
-                  <ul class="sub-menu text-center">
-                    <div class="sub-menu-container">
-                      <div class="column">
-                        <li><a href="implants.php">Implants</a></li>
-                        <li><a href="sterilization.php">Sterilization</a></li>
-                        <li><a href="bridges.php">Bridges</a></li>
-                        <li><a href="rootcanal.php">Root Canal</a></li>
-                        <li><a href="clips_braces.php">Clips or Braces</a></li>
-                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
-                        <li><a href="lasers.php">Lasers</a></li>
-                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
-                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
-                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
-                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
-                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
-                        <li><a href="ray.php">3D X-Ray</a></li>
-                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                      </div>
-                    </div>
-                  </ul>
-                </li>
-
-
-                <li><a href="blog.php">Blog</a></li>
-
-
-
-                <li><a href="contact.php">Contact</a></li>
-
-
-
-
-
-              </ul> -->
-        <div class="mobile-menu">
-          <ul class="nav-menu">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li class="dropdown ">
-                  <a href="services.php" id="servicesDropdown">Services</a>
-                  <ul class="sub-menu text-center">
-                    <div class="sub-menu-container">
-                      <div class="column">
-                        <li><a href="implants.php">Implants</a></li>
-                        <li><a href="sterilization.php">Sterilization</a></li>
-                        <li><a href="bridges.php">Bridges</a></li>
-                        <li><a href="rootcanal.php">Root Canal</a></li>
-                        <li><a href="clips_braces.php">Clips or Braces</a></li>
-                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
-                        <li><a href="lasers.php">Lasers</a></li>
-                        <li><a href="cosmetic_treatment.php">Cosmetic Treatment</a></li>
-                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
-                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgery</a></li>
-                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
-                        <li><a href="dental_ct_scan.php">Dental CT Scan</a></li>
-                        <li><a href="ray.php">3D X-Ray</a></li>
-                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                      </div>
-                    </div>
-                  </ul>
-                </li>
-            <li><a href="blog.php">Blog</a></li>
-            <li><a href="contact.php">Contact</a></li>
-            <li><a href="appointment.php">Appointment</a></li>
-          </ul>
-        </div>
-
-
-
-
-
-        <!-- Add the following JavaScript to toggle visibility on click -->
-        <!-- Add JavaScript to toggle the visibility of the sub-menu on click -->
-        <!-- <script>
-          document.getElementById('servicesDropdown').addEventListener('click', function(event) {
-            event.preventDefault();
-            var subMenu = document.getElementById('servicesMenu');
-            subMenu.style.display = subMenu.style.display === 'block' ? 'none' : 'block';
-          });
-        </script> -->
-
-
-
-
-        <script>
-          document.getElementById("servicesDropdown").addEventListener("click", function(event) {
-            event.preventDefault();
-            document.getElementById("servicesMenu").classList.toggle("active");
-          });
-        </script>
+          <!-- Make Appointment Button (Aligned) -->
+          <li class="nav-item">
+            <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+          </li>
+        </ul>
       </div>
     </div>
-    <!-- Mobile Menu End -->
+  </nav>
+</section>
 
-
-
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        const servicesDropdown = document.getElementById("servicesDropdown");
-
-        // Allow clicking on "Services"
-        // to redirect to services.php
-        servicesDropdown.addEventListener("click", function(event) {
-          window.location.href = "services.php";
-        });
+  <!-- Optional JavaScript (if needed) -->
+  <script>
+    document.querySelectorAll('.dropdown-submenu > a').forEach(item => {
+      item.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        let submenu = this.nextElementSibling;
+        if (submenu) {
+          submenu.classList.toggle('show');
+        }
       });
-    </script>
+    });
+  </script>

@@ -22,8 +22,8 @@
 
 
 <section >
-    <div class="container my-5 services_rootcanal">
-        <h1 class="text-center animate__animated animate__zoomIn services_rootcanal">Root Canal treatment</h1>
+    <div class="container  ">
+        <h1 class="text-center ">Root Canal treatment</h1>
         <p class="text-center ">Relief from Tooth Pain and Infection
             Preserve Your Smile with Effective, Long-Lasting Care </p>
     </div>

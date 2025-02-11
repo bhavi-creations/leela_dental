@@ -19,9 +19,9 @@
     </div>
 </div>
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">Sterilization treatment</h1>
+<section >
+    <div class="container implants_content ">
+        <h1 class="text-center ">Sterilization treatment</h1>
         <p class="text-center">Effective sterilization practices eliminate bacteria and viruses, ensuring a clean and safe environment for every dental procedure.
 
 </p>

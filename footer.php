@@ -14,7 +14,10 @@
                              <ul class="footer-info">
                                  <img src="assets/images/brand/footer_bg.png" alt="" class="img-fluid" style="border-radius: 5px;">
 
-                                 <li class="footer_detail"><i class="ri-phone-fill"></i> +91-91006 86678 , &nbsp;94937 82298 </li>
+                                 <li class="footer_detail"><i class="ri-phone-fill"></i> +91-7674824667,9493782298 </li>
+                                 <li class="footer_detail"> <i class="bi bi-telephone-fill"> </i> +91-0884-2378237 </li>
+                                
+                                 
                                  <li>
                                      <i class="ri-mail-unread-fill"></i> leeladentalcare123@gmail.com
                                  </li>
@@ -88,7 +91,7 @@
                      <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
                          <!-- Footer Widget Start -->
                          <div class="footer-widget ">
-                             <h3 class="title">Services</h3>
+                             <h3 class="title">Dental </h3>
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -96,7 +99,11 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="sterilization.php">   Sterilization</a>
+                                     <a href="rootcanal.php">  Rootcanal</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="tooth_aligners.php">  Tooth Aligners</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -104,36 +111,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="rootcanal.php">  Rootcanal</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="clips_braces.php">   Clips or Braces</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="tooth_aligners.php.php">  Tooth Aligners</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="lasers.php">   Lasers</a>
-                                 </li>
-                             </ul>
-                         </div>
-                         <!-- Footer Widget End -->
-                     </div>
-                     <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
-                         <!-- Footer Widget Start -->
-                         <div class="footer-widget ">
-                             <h3 class="title">Services</h3>
-                             <ul class="footer-link">
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="cosmetic_treatment.php">  Cosmetic Treatment</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="teeth_whitening.php">  Teeth Whitening</a>
+                                     <a href="gum_surgery.php">  Gum Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -141,20 +119,58 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="gum_surgery.php">  Gum Surgery</a>
+                                     <a href="lasers.php">   Lasers</a>
+                                 </li>
+                                 <!-- <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="sterilization.php">   Sterilization</a>
+                                 </li>
+                               
+                                 
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="clips_braces.php">   Clips or Braces</a>
+                                 </li> -->
+                              
+                                 
+                             </ul>
+                         </div>
+                         <!-- Footer Widget End -->
+                     </div>
+                     <div class="col-lg-3 col-md-3 col-sm-6 widget-col">
+                         <!-- Footer Widget Start -->
+                         <div class="footer-widget ">
+                             <h3 class="title">Cosmatic </h3>
+                             <ul class="footer-link">
+                                  <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="teeth_whitening.php">  Teeth Whitening</a>
                                  </li>
                                  <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="veeners.php"> Dental Veneers</a>
+                                 </li>
+
+                                 
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="composit_filler.php"> Composit Filler</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="teeth_jewellery.php">   Teeth Jewellery</a>
+                                 </li></li>
+                                 
+                                
+                                 <!-- <li>
                                      <i class="ri-check-line"></i>
                                      <a href="x-ray.php"> Dental CT Scan  </a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
                                      <a href="3D-X-Ray-php">3D X-Ray</a>
-                                 </li>
-                                 <li>
-                                     <i class="ri-check-line"></i>
-                                     <a href="teeth_jewellery.php">   Teeth Jewellery</a>
-                                 </li>
+                                 </li> -->
+                                
                              </ul>
                          </div>
                          <!-- Footer Widget End -->
@@ -220,6 +236,17 @@
 
  <a class="back-to-top" href="#"><i class="ri-arrow-up-line"></i></a>
 
+
+
+
+
+  <!-- whats app  -->
+
+
+  <a href="https://api.whatsapp.com/send?phone=917674824667" style="color: #fff;" class="whatsapp-link"
+    target="_blank">
+    <i class="fa-brands fa-whatsapp"></i>
+  </a>  
  <!-- Back To Top End -->
  </div>
 
@@ -247,3 +274,73 @@
  </body>
 
  </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+ <li class="dropdown">
+                  <a href="services.php">Services</a>
+                  <ul class="sub-menu">
+                    <!-- Dental Services -->
+                    <!-- <li class="dropdown">
+                      <a href="#">Dental Services</a>
+                      <ul class="sub-sub-menu">
+                        <li><a href="implants.php">Implants</a></li>
+                        <li><a href="rootcanal.php">Root Canal</a></li>
+                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
+                        <li><a href="bridges.php">Bridges</a></li>
+                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
+                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgey </a></li>
+                        <li><a href="lasers.php">Laser Treatment</a></li>
+
+                      </ul>
+                    </li> -->
+
+                    <!-- Cosmetic Services -->
+                    <!-- <li class="dropdown">
+                      <a href="#">Cosmetic Services</a>
+                      <ul class="sub-sub-menu">
+                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
+                        <li><a href="veeners.php">Veneers</a></li>
+                        <li><a href="composit_filler.php">Composit Filler</a></li>
+                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
+
+                      </ul>
+                    </li>
+                  </ul>
+                </li> -->
+
+                <!-- <li class="dropdown">
+                  <a href="equipment.php">Equipment</a>
+                  <ul class="sub-menu">
+                    <li><a href="dental_ct_scan.php">Dental CT-Scan</a></li>
+                    <li><a href="ray.php">3D X-Ray</a></li>
+                    <li><a href="lasers.php">Laser</a></li>
+                  </ul>
+                </li>  -->

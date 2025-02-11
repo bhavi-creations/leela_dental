@@ -22,9 +22,9 @@
     </div>
 </div>
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">Maxillofacial Surger treatment</h1>
+<section >
+    <div class="container my-5 ">
+        <h1 class="text-center ">Maxillofacial Surger treatment</h1>
         <p class="text-center">Restoring Function and Aesthetic Harmony
             Advanced Treatment for Facial Injuries, Deformities, and Disorders </p>
     </div>

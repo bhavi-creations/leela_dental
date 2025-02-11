@@ -21,8 +21,8 @@
 </div>
 
 <section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">
+    <div class="container implants_content">
+        <h1 class="text-center ">
         Cosmetic-Treatment </h1>
         <p class="text-center"> Enhance Your Smile with Personalized Care
         Achieving Natural Beauty and Confidence Through Advanced Techniques</p>

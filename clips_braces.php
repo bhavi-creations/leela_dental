@@ -21,9 +21,9 @@
     </div>
 </div>
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center .services_rootcanal">
+<section >
+    <div class="container implants_content">
+        <h1 class="text-center ">
             Clips-Braces Treatment </h1>
         <p class="text-center"> Transform Your Smile with Effective Orthodontics
             Achieving Perfect Alignment and Enhanced Confidence Through Braces</p>

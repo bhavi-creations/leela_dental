@@ -3,79 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Content with Links</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>AI Chatbot</title>
     <style>
-        /* Initial Hidden State */
-        .hidden {
-            opacity: 0;
-            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
-        }
-
-        /* Fade In Right */
-        .fade-in-right {
-            transform: translateX(50px);
-        }
-
-        /* Fade In Left */
-        .fade-in-left {
-            transform: translateX(-50px);
-        }
-
-        /* Zoom In */
-        .zoom-in {
-            transform: scale(0.5);
-        }
-
-        /* Zoom Out */
-        .zoom-out {
-            transform: scale(1.5);
-        }
-
-        /* Make Content Visible */
-        .visible {
-            opacity: 1;
-            transform: translateX(0) scale(1);
-        }
-
-        /* Link Styling */
-        .custom-link {
-            text-decoration: none;
-            font-weight: bold;
-            color: #007bff;
-            transition: color 0.3s ease-in-out;
-        }
-
-        .custom-link:hover {
-            color: #ff5733;
-            text-decoration: underline;
-        }
+        body { font-family: Arial, sans-serif; }
+        .chat-container { width: 350px; border: 1px solid #ccc; padding: 10px; }
+        .chat-box { height: 300px; overflow-y: auto; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        .input-box { width: 100%; padding: 5px; }
+        .service { cursor: pointer; color: blue; text-decoration: underline; }
     </style>
 </head>
-<body class="bg-light d-flex flex-column align-items-center justify-content-center vh-100">
-
-    <!-- Fade In Left Animation -->
-    <div id="fadeInLeft" class="hidden fade-in-left text-center bg-white p-4 mb-3 rounded shadow-lg">
-        <h2 class="text-primary">Fade In Left</h2>
-        <p class="text-muted">This content slides in from the left.</p>
-        <a href="https://www.example.com" target="_blank" class="custom-link">Visit Example</a>
+<body>
+    <div class="chat-container">
+        <div class="chat-box" id="chatBox"></div>
+        <input type="text" id="userInput" class="input-box" placeholder="Type a message..." onkeypress="handleKeyPress(event)">
     </div>
 
-    <!-- Fade In Right Animation -->
-    <div id="fadeInRight" class="hidden fade-in-right text-center bg-white p-4 mb-3 rounded shadow-lg">
-        <h2 class="text-danger">Fade In Right</h2>
-        <p class="text-muted">This content slides in from the right.</p>
-        <a href="https://www.google.com" target="_blank" class="custom-link">Go to Google</a>
-    </div>
+    <script>
+        const services = {
+            "Root Canal": "Dr. Smith (Endodontist)",
+            "Teeth Whitening": "Dr. Johnson (Cosmetic Dentist)",
+            "Implants": "Dr. Brown (Oral Surgeon)",
+            "Braces": "Dr. Green (Orthodontist)"
+        };
 
-    <!-- Zoom In Animation -->
-    <div id="zoomIn" class="hidden zoom-in text-center bg-white p-4 mb-3 rounded shadow-lg">
-        <h2 class="text-success">Zoom In</h2>
-        <p class="text-muted">This content zooms in.</p>
-        <a href="https://www.github.com" target="_blank" class="custom-link">Go to GitHub</a>
-    </div>
+        function addMessage(sender, message) {
+            const chatBox = document.getElementById("chatBox");
+            const msgDiv = document.createElement("div");
+            msgDiv.innerHTML = `<strong>${sender}:</strong> ${message}`;
+            chatBox.appendChild(msgDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
 
-    <!-- Zoom Out Animation -->
-    <div id="zoomOut" class="hidden zoom-out text-center bg-white p-4 rounded shadow-lg">
-        <h2 class="text-warning">Zoom Out</h2>
-</div></body></html>
+        function handleKeyPress(event) {
+            if (event.key === "Enter") {
+                let userInput = document.getElementById("userInput").value;
+                document.getElementById("userInput").value = "";
+                addMessage("You", userInput);
+                showServices();
+            }
+        }
+
+        function showServices() {
+            addMessage("Bot", "Please select a service:");
+            const chatBox = document.getElementById("chatBox");
+            for (let service in services) {
+                let serviceElement = document.createElement("div");
+                serviceElement.classList.add("service");
+                serviceElement.innerText = service;
+                serviceElement.onclick = function() { showDoctor(service); };
+                chatBox.appendChild(serviceElement);
+            }
+        }
+
+        function showDoctor(service) {
+            addMessage("Bot", `The doctor for ${service} is: ${services[service]}`);
+        }
+    </script>
+</body>
+</html>

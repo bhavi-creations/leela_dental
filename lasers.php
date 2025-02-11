@@ -19,9 +19,9 @@
     </div>
 </div>
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">Laser treatment</h1>
+<section >
+    <div class="container implants_content">
+        <h1 class="text-center ">Laser treatment</h1>
         <p class="text-center"> Precision and Comfort for Dental Care
         Enhancing Healing and Aesthetic Results with Advanced Technology</p>
     </div>

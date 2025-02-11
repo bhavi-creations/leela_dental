@@ -118,11 +118,13 @@
                         <div class="col-lg-8">
                             <div class="section-title text-center">
 
-                                <h2 class="title  ">Our Best Dental Services</h2>
+                                <h2 class="title  ">Our Dental Services</h2>
                             </div>
                         </div>
                         <!-- Section Title End -->
                     </div>
+
+
 
                     <!-- Service Content Wrapper Start -->
                     <div class="service-content-wrapper ">
@@ -154,50 +156,6 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/sterlization.png"  class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="sterilization.php">Sterilization</a>
-                                            </h3>
-                                            <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                                            <a class="read-more" href="sterilization.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="bridges.php">Bridges</a>
-                                            </h3>
-                                            <p>Bridges replace missing teeth, restoring function and appearance.</p>
-                                            <a class="read-more" href="bridges.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
                                         <img src="assets/images/services/rootcanal.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
@@ -211,29 +169,6 @@
                                             </h3>
                                             <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
                                             <a class="read-more" href="rootcanal.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="clips_braces.php"> Clips or Braces</a>
-                                            </h3>
-                                            <p>
-                                                Braces straighten teeth, improving alignment and oral health.</p>
-                                            <a class="read-more" href="clips_braces.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -274,7 +209,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="lasers.php"> Lasers</a>
+                                                <a href="lasers.php"> Lasers Treatment</a>
                                             </h3>
                                             <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
                                             <a class="read-more" href="lasers.php">Know More</a>
@@ -287,7 +222,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/cosmatic.png" class="img-fluid"  alt="" />
+                                        <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -296,21 +231,20 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
+                                                <a href="bridges.php">Bridges</a>
                                             </h3>
-                                            <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
-                                            <a class="read-more" href="cosmetic_treatment.php">Know More</a>
+                                            <p>Bridges replace missing teeth, restoring function and appearance.</p>
+                                            <a class="read-more" href="bridges.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
                                 </div>
                             </div>
-                        <!-- copy the above text -->
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                            <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/whitening.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -319,10 +253,11 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="teeth_whitening.php">Teeth whitening</a>
+                                                <a href="gum_surgery.php"> Gum surgery</a>
                                             </h3>
-                                            <p>Brightens teeth by removing stains safely.</p>
-                                            <a class="read-more" href="teeth_whitening.php">Know More</a>
+                                            <p>
+                                                Treats gum disease and reshapes tissue.</p>
+                                            <a class="read-more" href="gum_surgery.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -350,34 +285,24 @@
                                     <!-- Service Content End -->
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
 
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="gum_surgery.php"> Gum surgery</a>
-                                            </h3>
-                                            <p>
-                                            Treats gum disease and reshapes tissue.</p>
-                                            <a class="read-more" href="gum_surgery.php">Know More</a>
-                                        </div>
+
+                            <!-- cosmatic  -->
+                            <div class="row justify-content-center">
+                                <!-- Section Title Start -->
+                                <div class="col-lg-8">
+                                    <div class="section-title text-center">
+
+                                        <h2 class="title my-5 ">Cosmatic Services</h2>
                                     </div>
-                                    <!-- Service Content End -->
                                 </div>
+                                <!-- Section Title End -->
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/ct_scan.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/whitening.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -386,32 +311,10 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="dental_ct_scan.php">  Dental CT Scan</a>
+                                                <a href="teeth_whitening.php">Teeth whitening</a>
                                             </h3>
-                                            <p>3D imaging for detailed dental diagnosis.</p>
-                                            <a class="read-more" href="dental_ct_scan.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/x_ray.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="ray.php"> 3D X-ray</a>
-                                            </h3>
-                                            <p>Detailed imaging for accurate dental diagnosis.</p>
-                                            <a class="read-more" href="ray.php">Know More</a>
+                                            <p>Brightens teeth by removing stains safely.</p>
+                                            <a class="read-more" href="teeth_whitening.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -439,7 +342,70 @@
                                     <!-- Service Content End -->
                                 </div>
                             </div>
-                        
+
+
+
+
+
+
+                          
+
+
+                        <!-- extre content -->
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="clips_braces.php"> Clips or Braces</a>
+                                            </h3>
+                                            <p>
+                                                Braces straighten teeth, improving alignment and oral health.</p>
+                                            <a class="read-more" href="clips_braces.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
+
+
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/cosmatic.png" class="img-fluid" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
+                                            </h3>
+                                            <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
+                                            <a class="read-more" href="cosmetic_treatment.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
+
+
+
+
+                            
+
+
                         </div>
                     </div>
                     <!-- Service Content Wrapper End -->

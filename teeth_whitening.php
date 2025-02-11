@@ -20,9 +20,9 @@
     </div>
 </div>
 
-<section class="my-5">
-    <div class="container services_rootcanal">
-        <h1 class="text-center services_rootcanal">Teeth Whitening treatment</h1>
+<section >
+    <div class="container implants_content">
+        <h1 class="text-center ">Teeth Whitening treatment</h1>
         <p class="text-center">Achieve a radiant, stain-free smile with safe and effective teeth whitening treatments.
 </p>
     </div>
