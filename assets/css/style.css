@@ -7663,7 +7663,14 @@ select {
 /*  04. Footer CSS
 /*----------------------------------------*/
 .footer-area {
-  background-color: #5c6c9fb5;
+  /* background: linear-gradient(to right, #4537bda6, #f80a6b); */
+  /* background: linear-gradient(50deg, #4537bda6, #f80a6b); */
+  /* background: linear-gradient(to right, #4537bda6, #9b6ad9, #f80a6b, #4537bda6, #9b6ad9, #f80a6b); */
+  /* background: linear-gradient(to right, #4537bda6, #9b6ad9, #f80a6b); */
+background-color: #5c6c9fb5;
+
+
+
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -10330,9 +10337,8 @@ background-color: #94beeb;
     transform: translate(-50%,-50%) scale(1);
   }
 }
-}
-}
-// .blog-img-seven
+
+ .blog-img-seven
 .blog-img-seven{
 position: relative;
 transition: all 0.3s ease;
@@ -10403,7 +10409,71 @@ span{
 
 
 
+/* .marquee-section {
+  background-color: #BBBBDB;
+  color: #E40080;
+  padding: 8px 0;
+}
+
+.marquee-content {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.marquee {
+  white-space: nowrap;
+}
 
 
+.header-content-section {
+  padding: 15px 0;
+  background-color: #ffffff;
+}
+
+.header-content-row {
+  display: flex;
+  align-items: center;
+}
+
+.logo-section img {
+  height: 50px; 
+
+.header-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header_icons {
+  width: 40px;
+  height: auto;
+}
+
+.header-text {
+  margin: 0;
+  font-size: 14px;
+}
+
+.header-text strong {
+  font-size: 16px;
+}
 
 
+.navbar-section {
+  background-color: #f8f9fa;
+}
+
+.navbar-nav {
+  margin: auto;
+}
+
+@media (max-width: 991px) { 
+  .navbar-collapse {
+      display: none !important;
+  }
+
+  .navbar-toggler {
+      border: none;
+      outline: none;
+  }
+} */

@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Leela dental - Dashboard</title>
+    <title>Krishnadentacure - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -67,26 +67,26 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Implants">Implants</option>
-                                                <option value="Rootcanal">Rootcanal</option>
-                                                <option value="Tooth Aligners">Tooth Aligners</option>
-                                                <option value="Bridges">Bridges</option>
-                                                <option value="Gum Surgery">Gum Surgery </option>     
-                                                <option value="Maxillofacial Surgery">Maxillofacial Surgery</option>
-                                                <option value="Lasers">Lasers</option>
-                                                <option value="Teeth Whitening">Teeth Whitening </option>
+                                                <option value="Root Canal">Root Canal</option>
+                                                <option value="Wisdom Tooth Removal">Wisdom Tooth Removal</option>
+                                                <option value="Bad Breath Treatment">Bad Breath Treatment</option>
+                                                <option value="Gum Treatment">Gum Treatment</option>
+                                                <option value="Teeth Cleaning">Teeth Cleaning </option>     
+                                                <option value="Orthodontic Treatment">Orthodontic Treatment</option>
+                                                <option value="Dental Crown & Bridge">Dental Crown & Bridge</option>
+                                                <option value="Invisible Aligners">Invisible Aligners </option>
                                                 <option value="Dental Veneers">Dental Veneers</option>
-                                                <option value="Composit Filler">Composit Filler</option>
-                                              <!--   <option value="Teeth Jewellery">Teeth Jewellery</option>
+                                                <option value="Smile Makeover">Smile Makeover</option>
+                                                <option value="Teeth Whitening">Teeth Whitening</option>
                                                 <option value="Dental Implants">Dental Implants</option>
                                                 <option value="Dentures">Dentures</option>
                                                 <option value="Fluoride Application & Dental Sealant">Fluoride Application & Dental Sealant</option>
                                                 <option value="Full Mouth Rehabilitation Treatment">Full Mouth Rehabilitation Treatment</option>
                                                 
                                                
-                                                <option value="Laser Gum">Laser & Gum</option>
+                                                <!-- <option value="Laser Gum">Laser & Gum</option>
                                                 <option value="Tooth Extraction">Tooth Extraction</option>
-                                                <option value="Tooth Cleaning">Gum Surgery</option>
+                                                <option value="Tooth Cleaning">Teeth Cleaning</option>
                                                 <option value="Gum Depigment">Gum Depigment</option>
                                                 <option value="Teeth Whitening">Teeth Whitening</option>
                                                 <option value="Laser Gum Surgery">Laser Gum Surgery </option>
@@ -253,7 +253,7 @@
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
                             <div class="footer-widget__copyright">
-                                <p class="mini_text" style="color:black"> ©2024 Leela dental . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
+                                <p class="mini_text" style="color:black"> ©2024 Krishnadentacure . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
                             </div>
                         </div>
                     </div>

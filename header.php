@@ -54,17 +54,67 @@
 <body>
   <!--====== PRELOADER PART START ======-->
   <section>
+    <div class="marquee_content">
+      <marquee behavior="scroll" direction="left" class="marquee">
+        4700sq.ft &nbsp; | &nbsp;
+        15 years of experience &nbsp; | &nbsp;
+        7+ Doctor highly professional and qualified&nbsp; | &nbsp;
+        Highend Equipment &nbsp; | &nbsp;
+        EHS Available
+      </marquee>
+    </div>
+  </section>
+
+   <!-- <section class="header-container">
+    <div class="container">
+      <div class="row header-row">
+   
+        <div class="col-md-6 col-lg-3 d-flex align-items-center">
+          <a class="navbar-brand" href="index.php">
+            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" />
+          </a>
+        </div>
+
+        
+        <div class="col-md-6 col-lg-3 d-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons">
+            <p class="header-text"><strong>Mobile No:</strong><br>7674824667, 9493782298</p>
+          </div>
+        </div>
+
+        
+        <div class="col-md-6 col-lg-3 d-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons">
+            <p class="header-text"><strong>Email:</strong><br>leeladentalcare123@gmail.com</p>
+          </div>
+        </div>
+
+    
+        <div class="col-md-6 col-lg-3 d-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/time.png" alt="Time Icon" class="header_icons">
+            <p class="header-text"><strong>Working Hours:</strong><br>Mon-Sat: 10 AM - 8 PM | Sun: Closed</p>
+          </div>
+        </div>
+      </div>
+    </div>
+   </section> -->
+
+  <!-- Navbar (Centered) -->
+  <section>
     <nav class="navbar navbar-expand-lg navbar-light Navebar_content">
       <div class="container">
-        <a class="navbar-brand" href="index.php">
-          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" />
-        </a>
+      <a class="navbar-brand" href="index.php">
+            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" />
+          </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto align-items-lg-center">
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+          <ul class="navbar-nav">
             <li class="nav-item">
               <a class="nav-link active" href="index.php">Home</a>
             </li>
@@ -110,11 +160,9 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
                 <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
-                <li><a class="dropdown-item" href="lasers.php">Laser</a></li>
+                <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
               </ul>
             </li>
-
-
 
             <li class="nav-item">
               <a class="nav-link" href="blogs.php">Blog</a>
@@ -134,6 +182,12 @@
     </nav>
   </section>
 
+
+
+
+  <section>
+    
+  </section>
   <!-- Optional JavaScript (if needed) -->
   <script>
     document.querySelectorAll('.dropdown-submenu > a').forEach(item => {

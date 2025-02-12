@@ -30,7 +30,7 @@ $conn->close();
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Leela dental - Dashboard</title>
+    <title>Krishnadentacure </title>
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
@@ -74,23 +74,23 @@ $conn->close();
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Implants" <?php echo ($service == 'Implants') ? 'selected' : ''; ?>>Implants</option>
-                                                <option value="Rootcanal" <?php echo ($service == 'Rootcanal') ? 'selected' : ''; ?>>Rootcanal</option>
-                                                <option value="Tooth Aligners" <?php echo ($service == 'Tooth Aligners') ? 'selected' : ''; ?>>Tooth Aligners</option>
-                                                <option value="Bridges" <?php echo ($service == 'Bridges') ? 'selected' : ''; ?>> Bridges</option>
-                                                <option value="Gum Surgery" <?php echo ($service == 'Gum Surgery') ? 'selected' : ''; ?>>Gum Surgery</option>
-                                                <option value="Maxillofacial Surgery" <?php echo ($service == 'Maxillofacial Surgery') ? 'selected' : ''; ?>>Maxillofacial Surgery</option>
-                                                <option value="Lasers" <?php echo ($service == 'Lasers') ? 'selected' : ''; ?>>Lasers</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
+                                                <option value="Root Canal" <?php echo ($service == 'Root Canal') ? 'selected' : ''; ?>>Root Canal</option>
+                                                <option value="Wisdom Tooth Removal" <?php echo ($service == 'Wisdom Tooth Removal') ? 'selected' : ''; ?>>Wisdom Tooth Removal</option>
+                                                <option value="Bad Breath Treatment" <?php echo ($service == 'Bad Breath Treatment') ? 'selected' : ''; ?>>Bad Breath Treatment</option>
+                                                <option value="Gum Treatment" <?php echo ($service == 'Gum Treatment') ? 'selected' : ''; ?>> Gum Treatment</option>
+                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
+                                                <option value="Orthodontic Treatment" <?php echo ($service == 'Orthodontic Treatment') ? 'selected' : ''; ?>>Orthodontic Treatment</option>
+                                                <option value="Dental Crown & Bridge" <?php echo ($service == 'Dental Crown & Bridge') ? 'selected' : ''; ?>>Dental Crown & Bridge</option>
+                                                <option value="Invisible Aligners" <?php echo ($service == 'Invisible Aligners') ? 'selected' : ''; ?>>Invisible Aligners</option>
                                                 <option value="Dental Veneers" <?php echo ($service == 'Dental Veneers') ? 'selected' : ''; ?>>Dental Veneers</option>
-                                                <option value="Composit Filler" <?php echo ($service == 'Composit Filler') ? 'selected' : ''; ?>>Composit Filler</option>
-                                               <!-- <option value="Teeth Jewellery" <?php echo ($service == 'Teeth Jewellery') ? 'selected' : ''; ?>> Teeth Jewellery</option>
+                                                <option value="Smile Makeover" <?php echo ($service == 'Smile Makeover') ? 'selected' : ''; ?>>Smile Makeover</option>
+                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>> Teeth Whitening</option>
                                                 <option value="Dental Implants" <?php echo ($service == 'Dental Implants') ? 'selected' : ''; ?>>Dental Implants</option>
                                                 <option value="Dentures" <?php echo ($service == 'Dentures') ? 'selected' : ''; ?>>Dentures  </option>
                                                 <option value="Smile Designing" <?php echo ($service == 'Smile Designing') ? 'selected' : ''; ?>>Smile Designing</option>
                                                 <option value="Full Mouth Rehabilitation Treatment" <?php echo ($service == 'Full Mouth Rehabilitation Treatment') ? 'selected' : ''; ?>>Full Mouth Rehabilitation Treatment</option>
                                               
-                                                 <option value="Laser Gum" <?php echo ($service == 'Laser Gum') ? 'selected' : ''; ?>>Laser & Gum</option>
+                                                <!-- <option value="Laser Gum" <?php echo ($service == 'Laser Gum') ? 'selected' : ''; ?>>Laser & Gum</option>
                                                 <option value="Tooth Extraction" <?php echo ($service == 'Tooth Extraction') ? 'selected' : ''; ?>>Tooth Extraction</option>
                                                 <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
                                                 <option value="Gum Depigment" <?php echo ($service == 'Gum Depigment') ? 'selected' : ''; ?>>Gum Depigment</option>

@@ -96,26 +96,24 @@
                           
                             <div class=" col-md-4 col-sm-6">
                                 <div class="service-item">
-                                    <!-- Service Img Start -->
+                                
                                     <div class="service-img">
                                         <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" />
                                     </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
+                                   
                                     <div class="service-content text-center">
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="sterilization.php">Sterilization</a>
+                                                <a href="laser_equipment.php">Laser Equipment</a>
                                             </h3>
-                                            <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                                            <a class="read-more" href="sterilization.php">Know More</a>
+                                            <p>Advanced Laser Equipment for precise and minimally invasive dental treatments, ensuring faster recovery and enhanced patient comfort.</p>
+                                            <a class="read-more" href="laser_equipment.php">Know More</a>
                                         </div>
                                     </div>
-                                    <!-- Service Content End -->
+                                  
                                 </div>
-                            </div>
+                            </div> 
                         </div>
                     </div>
 

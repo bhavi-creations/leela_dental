@@ -157,7 +157,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="maxillofacial_surger.php"> Maxillofacial Surgery</a>
+                                     <a href="maxillofacial_surgery.php"> Maxillofacial Surgery</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -248,7 +248,7 @@
  <!-- whats app  -->
 
 
- <a href="https://api.whatsapp.com/send?phone=917674824667" style="color: #fff;" class="whatsapp-link"
+ <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
      target="_blank">
      <i class="fa-brands fa-whatsapp"></i>
  </a>
