@@ -102,7 +102,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="veeners.php"> Dental Veneers</a>
+                                     <a href="veneers.php"> Dental Veneers</a>
                                  </li>
 
 

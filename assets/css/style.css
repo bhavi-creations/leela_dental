@@ -3961,8 +3961,9 @@ select {
 }
 
 .features-text .name span {
-  color: #009024;
+  color: #e60eca;
   margin-left: 15px;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -10104,7 +10105,7 @@ margin-top: 100px !important;
   color: #28386a !important;
 }
 .box-title:hover{
-  color: #072bbc !important;
+  color: light grey  !important;
 }
 
 .blog-card-text{
@@ -10410,7 +10411,7 @@ span{
 
 
 .marquee-section {
-  background-color: grey;
+  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
   color: white;
   padding: 8px 0;
 }
@@ -10566,7 +10567,7 @@ span{
 .navbar {
   position: relative;
   z-index: 1000; /* Ensure it stays on top of content */
-  background-color: #fff; /* Set background color as needed */
+  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
 
 }
 
@@ -10887,6 +10888,98 @@ font-size: 30px;
 }
 
 
+.navbar-nav li {
+  color: #ffff !important;
+  font-weight: 800;
+}
 
 
+
+
+/* Style adjustments */
+.navbar-toggler {
+  order: 1; /* Place the toggle button beside the logo */
+  margin-left: 10px; /* Adjust spacing between logo and toggle */
+}
+
+/* Ensure navbar content doesn't overlap the toggle */
+@media (max-width: 991px) {
+  .navbar-collapse {
+    margin-left: 50px; /* Adjust margin for better alignment */
+  }
+}
+
+/* For Mobile and Tablet Views */
+@media (max-width: 991px) {
+  .header-container .row.header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+
+  .header-container .col-6.col-md-6.col-lg-2 {
+      order: 1;  /* Ensure the logo appears first */
+      flex: 0 0 50%;  /* Ensures logo takes up 50% width on mobile/tablet */
+  }
+
+  .navbar-toggler {
+      order: 2; /* Ensure the toggle button appears after the logo */
+      flex: 0 0 50%;  /* Takes up 50% width on mobile/tablet */
+  }
+
+  /* Navbar will display in a single row with logo on the left and toggle button on the right */
+  .navbar .navbar-toggler {
+      position: absolute;
+      right: 10px;  /* Adjust for spacing */
+  }
+}
+
+/* For Desktop Views */
+@media (min-width: 992px) {
+  .header-container .row.header-row {
+      display: flex;
+      align-items: center;
+  }
+
+  /* Logo on the left and contact information on the right */
+  .header-container .col-6.col-md-6.col-lg-2 {
+      order: 1;
+      flex: 0 0 auto;
+  }
+
+  .header-container .col-12.col-md-6.col-lg-3.d-none.d-lg-flex {
+      order: 2;
+  }
+}
+
+/* For the Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Make sure logo and toggle button are spaced apart */
+  align-items: center;
+}
+
+/* Navbar content on large screens */
+@media (min-width: 992px) {
+  .navbar-nav {
+      display: flex;
+      justify-content: center; /* Align menu items in the center */
+  }
+}
+
+@media (min-width:768px) {
+  
+  .service_img{
+    margin-bottom: 150px;
+  }
+  }
+  
+  
+  
+  @media (max-width:768px) {
+    
+    .service_img{
+      margin-bottom: 50px;
+    }
+    }
 

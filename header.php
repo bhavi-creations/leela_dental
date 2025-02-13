@@ -72,38 +72,38 @@
 
   <!-- Header Section with Logo and Contact Info -->
   <section class="header-container">
-    <div class="container">
-      <div class="row header-row">
-        <!-- Logo Section -->
-        <div class="col-6 col-md-6 col-lg-2 d-flex align-items-center">
-          <a class="navbar-brand" href="index.php">
-            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="logo img-fluid" />
-          </a>
-        </div>
-        <!-- Contact Information Section (Hidden on mobile) -->
-        <!-- Contact Information Section (Hidden on mobile and tablet, visible on large devices) -->
-        <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
-          <div class="header-item">
-            <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons">
-            <p class="header-text"><strong>Mobile No:</strong><br> 9493782298,7674824667</p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
-          <div class="header-item">
-            <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons">
-            <p class="header-text"><strong>Email:</strong><br>leeladentalcare123@gmail.com</p>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 d-none d-lg-flex align-items-center">
-          <div class="header-item">
-            <img src="assets/images/icon/time.png" alt="Time Icon" class="header_icons">
-            <p class="header-text"><strong>Working Hours:</strong><br>Mon-Sat: 10 AM - 8 PM | Sun: Closed</p>
-          </div>
+  <div class="container">
+    <div class="row header-row align-items-center">
+      <!-- Logo Section -->
+      <div class="col-6 col-md-6 col-lg-2 d-flex align-items-center justify-content-start">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="logo img-fluid" />
+        </a>
+      </div>
+
+      <!-- Contact Info Section: Call, Email, Working Hours -->
+      <div class="col-6 col-md-6 col-lg-10 d-flex align-items-center justify-content-end">
+        <!-- Call Info -->
+        <div class="header-item d-flex align-items-center">
+          <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons me-2">
+          <p class="header-text"><strong>Mobile No:</strong><br> 9493782298, 7674824667</p>
         </div>
 
+        <!-- Email Info -->
+        <div class="header-item d-flex align-items-center ms-4">
+          <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons me-2">
+          <p class="header-text"><strong>Email:</strong><br> leeladentalcare123@gmail.com</p>
+        </div>
+
+        <!-- Working Hours Info -->
+        <div class="header-item d-flex align-items-center ms-4">
+          <img src="assets/images/icon/time.png" alt="Time Icon" class="header_icons me-2">
+          <p class="header-text"><strong>Working Hours:</strong><br>Mon-Sat: 10 AM - 8 PM | Sun: Closed</p>
+        </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 
   <!-- Navbar Section (Below Marquee) -->
   <section >
@@ -118,19 +118,19 @@
         <!-- Collapsible Navbar -->
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
           <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link active" href="index.php">Home</a>
+            <li class="nav-item  ">
+              <a class="nav-link active text-white" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.php">About</a>
+              <a class="nav-link text-white" href="about.php">About</a>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="services.php" id="navbarDropdown" role="button">
+            <li class="nav-item dropdown ">
+              <a class="nav-link dropdown-toggle text-white" href="services.php" id="navbarDropdown" role="button">
                 Services
               </a>
               <ul class="dropdown-menu">
                 <li class="dropdown-submenu">
-                  <a class="dropdown-item" href="services.php">Dental Treatment</a>
+                  <a class="dropdown-item " href="services.php">Dental Treatment</a>
                   <ul class="dropdown-menu submenu">
                     <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                     <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
@@ -153,7 +153,7 @@
               </ul>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="equipment.php" id="equipmentDropdown" role="button">
+              <a class="nav-link dropdown-toggle text-white" href="equipment.php" id="equipmentDropdown" role="button">
                 Equipment
               </a>
               <ul class="dropdown-menu">
@@ -163,13 +163,13 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="blogs.php">Blog</a>
+              <a class="nav-link text-white" href="blogs.php">Blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact</a>
+              <a class="nav-link text-white" href="contact.php">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+              <a class="btn btn-primary nav-btn ms-lg-3 text-white" href="appointment.php">Make Appointment</a>
             </li>
           </ul>
         </div>
