@@ -182,7 +182,7 @@
 
   <!-- Include Bootstrap JS (with Popper) -->
 
-  <!-- <section class="d-lg-none   "> -->
+  <section class="d-lg-none   ">
     <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
       <div class="container">
         <a class="navbar-brand" href="index.php">
@@ -259,7 +259,7 @@
         </div>
       </div>
     </nav>
-  <!-- </section> -->
+  </section>
 
 
   <script>
