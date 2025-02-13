@@ -44,7 +44,7 @@
     </div>
 </section> -->
 
-<section>
+<!-- <section>
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
@@ -83,5 +83,69 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<section class="service_section my-5">
+            <div class="container">
+                <div class="row">
+
+                    <div class="service_contain_text">
+
+                        <h1 class="implants_treatment">BHridge  Treatment</h1>
+                        <p>
+                        A dental bridge is a restorative solution used to replace one or more missing teeth, bridging the gap left behind by a missing tooth. It consists of two or more crowns placed on the adjacent healthy teeth, with a false tooth (pontic) in between, to fill the space.
+
+</p>
+
+                        <p>
+                        Dental bridges are designed to look and function like natural teeth, helping restore your ability to chew, speak, and smile with confidence. They are custom-made to fit your mouth, ensuring a comfortable and durable solution.
+
+</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section_color my-5">
+            <div class="container">
+                <h4 class="root_step text-center mt-5">
+                    rootcanal
+                </h4>
+                <div class="row my-3">
+                    <div class="col-12 col-md-4  card-wrapper ">
+                        <div class="card">
+                            <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
+                            <h4 class="canal_step">Step1</h4>
+                            <p>
+                            Your dentist will assess your oral health and take X-rays to determine if a bridge is the right solution. If so, they will prepare the adjacent teeth by reshaping them to allow space for the crowns that will anchor the bridge.
+ </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4  card-wrapper">
+                        <div class="card">
+                            <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
+                            <h4 class="canal_step">Step2</h4>
+                            <p>
+                            Once the teeth are prepared, impressions of your mouth are taken to create a custom bridge. While the permanent bridge is being made, you’ll wear a temporary bridge to protect the area.
+
+
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4  card-wrapper">
+                        <div class="card">
+                            <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
+                            <h4 class="canal_step">Step3</h4>
+                            <p>
+                            After the permanent bridge is ready, your dentist will place it over the prepared teeth, making sure it fits comfortably and securely. Adjustments are made as needed before permanently bonding the bridge in place.
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
 <?php include "./footer.php"; ?>

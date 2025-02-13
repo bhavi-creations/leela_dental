@@ -10477,3 +10477,72 @@ span{
       outline: none;
   }
 } */
+
+
+.implants_treatment{
+  padding: 20px;
+}
+.implants_treatment p{
+  padding: 20px !important; 
+}
+
+
+
+
+
+/* srinivasa  */
+.canal_step {
+  padding: 10px;
+  padding-top: 10px;
+  color: #252b42;
+  font-weight: 700;
+}
+
+.root_step {
+  margin-bottom: 30px;
+  color: #1d2053 !important;
+  font-weight: 700;
+
+  /* width: 1200px; */
+}
+
+.root_treatment {
+  color: #1d2053 !important;
+  font-size: 39px;
+  font-weight: 700;
+
+
+}
+.section_color {
+  background-color: rgb(241, 241, 241);
+  text-align: center;
+}
+.root_step {
+  margin-bottom: 30px;
+  /* width: 1200px; */
+}
+.card-wrapper {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+.card-deck {
+  .card {
+    margin-bottom: $card-deck-margin;
+  }
+
+  @include media-breakpoint-up(sm) {
+    display: flex;
+    flex-flow: row wrap;
+    margin-right: -$card-deck-margin;
+    margin-left: -$card-deck-margin;
+
+    .card {
+      margin-bottom:20px;
+      flex: 1 0 0%;
+      margin-right: $card-deck-margin;
+      margin-bottom: 0; // Override the default
+      margin-left: $card-deck-margin;
+    }
+  }
+}
