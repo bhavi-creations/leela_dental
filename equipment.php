@@ -63,7 +63,6 @@
                                             <h3 class="title">
                                                 <a href="dental_ct_scan.php"> Dental CT Scan</a>
                                             </h3>
-                                            <p>3D imaging for detailed dental diagnosis.</p>
                                             <a class="read-more" href="dental_ct_scan.php">Know More</a>
                                         </div>
                                     </div>
@@ -86,7 +85,6 @@
                                             <h3 class="title">
                                                 <a href="ray.php"> 3D X-ray</a>
                                             </h3>
-                                            <p>Detailed imaging for accurate dental diagnosis.</p>
                                             <a class="read-more" href="ray.php">Know More</a>
                                         </div>
                                     </div>
@@ -107,7 +105,6 @@
                                             <h3 class="title">
                                                 <a href="laser_equipment.php">Laser Equipment</a>
                                             </h3>
-                                            <p>Advanced Laser Equipment for precise and minimally invasive dental treatments, ensuring faster recovery and enhanced patient comfort.</p>
                                             <a class="read-more" href="laser_equipment.php">Know More</a>
                                         </div>
                                     </div>

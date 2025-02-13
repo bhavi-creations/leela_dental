@@ -133,7 +133,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/implents.png" alt="" class="img-fluid" />
+                                        <img src="assets/images/services/4.png" alt="" class="img-fluid" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -144,8 +144,7 @@
                                             <h3 class="title">
                                                 <a href="implants.php">Implants</a>
                                             </h3>
-                                            <p>
-                                                Implants replace missing parts, restoring function and aesthetics.</p>
+                                           
                                             <a class="read-more" href="implants.php">Know More</a>
                                         </div>
                                     </div>
@@ -156,7 +155,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/rootcanal.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/1.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -167,7 +166,6 @@
                                             <h3 class="title">
                                                 <a href="rootcanal.php">Rootcanal</a>
                                             </h3>
-                                            <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
                                             <a class="read-more" href="rootcanal.php">Know More</a>
                                         </div>
                                     </div>
@@ -189,7 +187,6 @@
                                             <h3 class="title">
                                                 <a href="tooth_aligners.php"> Tooth Aligners</a>
                                             </h3>
-                                            <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
                                             <a class="read-more" href="tooth_aligners.php">Know More</a>
                                         </div>
                                     </div>
@@ -200,7 +197,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/laser.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/2.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -211,7 +208,6 @@
                                             <h3 class="title">
                                                 <a href="lasers.php"> Lasers Treatment</a>
                                             </h3>
-                                            <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
                                             <a class="read-more" href="lasers.php">Know More</a>
                                         </div>
                                     </div>
@@ -222,7 +218,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/3.png" class="img-fluid" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -233,7 +229,6 @@
                                             <h3 class="title">
                                                 <a href="bridges.php">Bridges</a>
                                             </h3>
-                                            <p>Bridges replace missing teeth, restoring function and appearance.</p>
                                             <a class="read-more" href="bridges.php">Know More</a>
                                         </div>
                                     </div>
@@ -255,8 +250,7 @@
                                             <h3 class="title">
                                                 <a href="gum_surgery.php"> Gum surgery</a>
                                             </h3>
-                                            <p>
-                                                Treats gum disease and reshapes tissue.</p>
+                                          
                                             <a class="read-more" href="gum_surgery.php">Know More</a>
                                         </div>
                                     </div>
@@ -278,7 +272,7 @@
                                             <h3 class="title">
                                                 <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
                                             </h3>
-                                            <p>Surgical treatment for jaw, face, and mouth.</p>
+                                            
                                             <a class="read-more" href="maxillofacial_surger.php">Know More</a>
                                         </div>
                                     </div>
@@ -313,7 +307,7 @@
                                             <h3 class="title">
                                                 <a href="teeth_whitening.php">Teeth whitening</a>
                                             </h3>
-                                            <p>Brightens teeth by removing stains safely.</p>
+                                          
                                             <a class="read-more" href="teeth_whitening.php">Know More</a>
                                         </div>
                                     </div>
@@ -335,7 +329,7 @@
                                             <h3 class="title">
                                                 <a href="teeth_jewellery.php">Teeth jewellery </a>
                                             </h3>
-                                            <p>Decorative gems applied to teeth safely.</p>
+                                            
                                             <a class="read-more" href="teeth_jewellery.php">Know More</a>
                                         </div>
                                     </div>
@@ -367,8 +361,7 @@
                                             <h3 class="title">
                                                 <a href="clips_braces.php"> Clips or Braces</a>
                                             </h3>
-                                            <p>
-                                                Braces straighten teeth, improving alignment and oral health.</p>
+                                            
                                             <a class="read-more" href="clips_braces.php">Know More</a>
                                         </div>
                                     </div>
@@ -392,7 +385,7 @@
                                             <h3 class="title">
                                                 <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
                                             </h3>
-                                            <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
+                                            
                                             <a class="read-more" href="cosmetic_treatment.php">Know More</a>
                                         </div>
                                     </div>

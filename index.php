@@ -5,7 +5,7 @@
 
 <section>
 
-<img src="assets/images/slider/Leela.jpg" alt="" class="img-fluid">
+  <img src="assets/images/slider/Leela.jpg" alt="" class="img-fluid">
 </section>
 <!-- Slider Section End -->
 
@@ -19,7 +19,7 @@
 <div class="section features-area section-padding">
   <div class="container">
     <div class="features-wrapper">
-   
+
       <div class="features-content">
         <div class="row">
           <div class="col-lg-7 col-md-7">
@@ -28,7 +28,7 @@
                 Caring For The Health And Well Being Of You And Your
                 Family.
               </h2>
-              <p >
+              <p>
                 Comprehensive Dental Care for a Healthy Smile</p>
               <p>Advanced Technology & Expert Dental Specialists</p>
               <p>Painless & Affordable Treatments for All Ages</p>
@@ -39,10 +39,10 @@
           <div class="col-lg-5 col-md-5">
             <div class="features-text">
               <p>
-                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With years of experience and a passion for improving oral health,  Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
               </p>
               <h3 class="name">
-              Dr.K.V.Krishnam Raju<span>Founder</span>
+                Dr.K.V.Krishnam Raju<span>Founder</span>
               </h3>
             </div>
           </div>
@@ -151,7 +151,7 @@
               <h2 class="title">Dr.K.V.Krishnam Raju</h2>
 
               </a>
-                        
+
               <p>
                 Teeth Denture & implants specialist
               </p>
@@ -159,7 +159,7 @@
             <div class="research-content">
               <h4 class="title">Biography</h4>
               <p>
-              Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
+                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
             </div>
           </div>
           <!-- Research Content End -->
@@ -234,7 +234,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                           Dr.K.V.Krishnam Raju
+                          Dr.K.V.Krishnam Raju
                         </h3>
                         <h5 class="designation">Teeth Denture & implants specialist</h5>
                         <div class="team-info">
@@ -281,7 +281,7 @@
                         </ul> -->
                         <h3 class="name">
                           Dr.Y.Sunanda
-                          
+
                         </h3>
                         <h5 class="designation">ROOT Canal specialist</h5>
                         <div class="team-info">
@@ -325,7 +325,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                       Dr.Masapu Anupama
+                          Dr.Masapu Anupama
                         </h3>
                         <h5 class="designation">Gums &Surgery specialist</h5>
                         <div class="team-info">
@@ -369,7 +369,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                        Dr. CH.KIran 
+                          Dr. CH.KIran
                         </h3>
                         <h5 class="designation">clips specialist</h5>
                         <div class="team-info">
@@ -411,7 +411,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                          Dr.Ganesh 
+                          Dr.Ganesh
                         </h3>
                         <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
                         <div class="team-info">
@@ -499,7 +499,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                         DR.HARINI
+                          DR.HARINI
                         </h3>
                         <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
                         <div class="team-info">
@@ -592,7 +592,7 @@
             <div class="service-item">
               <!-- Service Img Start -->
               <div class="service-img">
-                <img src="assets/images/services/implents.png" alt="" class="img-fluid" />
+                <img src="assets/images/services/4.png" alt="" class="img-fluid" />
               </div>
               <!-- Service Img End -->
 
@@ -603,8 +603,7 @@
                   <h3 class="title">
                     <a href="implants.php">Implants</a>
                   </h3>
-                  <p>
-                    Implants replace missing parts, restoring function and aesthetics.</p>
+
                   <a class="read-more" href="implants.php">Know More</a>
                 </div>
               </div>
@@ -636,7 +635,7 @@
             <div class="service-item">
               <!-- Service Img Start -->
               <div class="service-img">
-                <img src="assets/images/services/bridges.png" class="img-fluid" alt="" />
+                <img src="assets/images/services/3.png" class="img-fluid" alt="" />
               </div>
               <!-- Service Img End -->
 
@@ -647,7 +646,7 @@
                   <h3 class="title">
                     <a href="bridges.php">Bridges</a>
                   </h3>
-                  <p>Bridges replace missing teeth, restoring function and appearance.</p>
+
                   <a class="read-more" href="bridges.php">Know More</a>
                 </div>
               </div>
@@ -658,7 +657,7 @@
             <div class="service-item">
               <!-- Service Img Start -->
               <div class="service-img">
-                <img src="assets/images/services/rootcanal.png" class="img-fluid" alt="" />
+                <img src="assets/images/services/1.png" class="img-fluid" alt="" />
               </div>
               <!-- Service Img End -->
 
@@ -669,7 +668,7 @@
                   <h3 class="title">
                     <a href="rootcanal.php">Rootcanal</a>
                   </h3>
-                  <p>Root Canal treats infected teeth, relieving pain and saving them.</p>
+
                   <a class="read-more" href="rootcanal.php">Know More</a>
                 </div>
               </div>
@@ -691,8 +690,7 @@
                   <h3 class="title">
                     <a href="clips_braces.php"> Clips or Braces</a>
                   </h3>
-                  <p>
-                    Braces straighten teeth, improving alignment and oral health.</p>
+
                   <a class="read-more" href="clips_braces.php">Know More</a>
                 </div>
               </div>
@@ -714,7 +712,7 @@
                   <h3 class="title">
                     <a href="tooth_aligners.php"> Tooth Aligners</a>
                   </h3>
-                  <p>Tooth Aligners are clear trays that gradually straighten teeth.</p>
+
                   <a class="read-more" href="tooth_aligners.php">Know More</a>
                 </div>
               </div>
@@ -725,7 +723,7 @@
             <div class="service-item">
               <!-- Service Img Start -->
               <div class="service-img">
-                <img src="assets/images/services/laser.png" class="img-fluid" alt="" />
+                <img src="assets/images/services/2.png" class="img-fluid" alt="" />
               </div>
               <!-- Service Img End -->
 
@@ -736,7 +734,7 @@
                   <h3 class="title">
                     <a href="lasers.php"> Lasers</a>
                   </h3>
-                  <p>Lasers are used for precise dental procedures, reducing discomfort and recovery time.</p>
+
                   <a class="read-more" href="lasers.php">Know More</a>
                 </div>
               </div>
@@ -744,27 +742,27 @@
             </div>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
+            <div class="service-item">
+              <!-- Service Img Start -->
+              <div class="service-img">
+                <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
+              </div>
+              <!-- Service Img End -->
 
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
-                                            </h3>
-                                            <p>Surgical treatment for jaw, face, and mouth.</p>
-                                            <a class="read-more" href="maxillofacial_surger.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
+              <!-- Service Content Start -->
+              <div class="service-content text-center">
+                <i class="flaticon-surgery-room"></i>
+                <div class="service-icon-wrapper">
+                  <h3 class="title">
+                    <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
+                  </h3>
+
+                  <a class="read-more" href="maxillofacial_surger.php">Know More</a>
+                </div>
+              </div>
+              <!-- Service Content End -->
+            </div>
+          </div>
         </div>
       </div>
       <!-- Service Content Wrapper End -->
@@ -956,146 +954,146 @@
     </div>
   </div>
 
-<!--  Result Area Start -->
-<section>
-  <div class="container">
-    <div class="row my-5">
-      <div class="col-lg-6 col-md-6 col-sm-6 ">
-        <img src="assets/img/before/1.png" class="img-fluid my-5" alt="">
-        <div class="result-content text-center">
-          <h2 class="title">Before</h2>
-          <p>
-            ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
+  <!--  Result Area Start -->
+  <section>
+    <div class="container">
+      <div class="row my-5">
+        <div class="col-lg-6 col-md-6 col-sm-6 ">
+          <img src="assets/img/before/1.png" class="img-fluid my-5" alt="">
+          <div class="result-content text-center">
+            <h2 class="title">Before</h2>
+            <p>
+              ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
+          </div>
         </div>
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-6">
-        <img src="assets/img/before/2.png" class="img-fluid my-5" alt="">
+        <div class="col-lg-6 col-md-6 col-sm-6">
+          <img src="assets/img/before/2.png" class="img-fluid my-5" alt="">
 
-        <div class="result-content text-center">
-          <h2 class="title">After</h2>
-          <p>
-            avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
+          <div class="result-content text-center">
+            <h2 class="title">After</h2>
+            <p>
+              avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-<!--  Result Area End -->
+  </section>
+  <!--  Result Area End -->
 
-<!--  Testimonial Area Start -->
-<div class="section testimonial-area section-padding">
-  <div class="container">
-    <div class="testimonial-wrapper">
-      <div class="row justify-content-center">
-        <div class="col-lg-10">
-          <!--  Testimonial Title Start -->
-          <div class="section-title result-title text-center">
-            <h3 class="sub-title">Our Clients Review</h3>
-            <h2 class="title">Real Review From Our Real Customer</h2>
-          </div>
-          <!--  Testimonial Title End -->
-        </div>
-      </div>
-
-      <!--  Testimonial Content Wrapper Start -->
-      <div class="testimonial-content-wrapper">
-        <div class="row-wrapper testimonial-active dot-style">
-          <div class="custom-col">
-            <div class="single-testimonial">
-              <div class="testimonial-content d-flex align-items-center">
-                <div class="testimonial-img">
-                  <img src="assets/images/testimonial-2.png" alt="" />
-                  <i class="flaticon-right-quotation-mark"></i>
-                </div>
-                <div class="testimonial-client">
-                  <h3 class="name">
-                    K.V.RAMESH</h3>
-                  <span>Dental patient</span>
-                </div>
-              </div>
-              <div class="testimonial-text">
-                <p>
-                  I visited Leela dental clinic for my dental procedure they guided me so well for the treatment plan procedure was stress free has been very helpful and responsible throughout the year and I strongly recommended this clinic
-                </p>
-              </div>
+  <!--  Testimonial Area Start -->
+  <div class="section testimonial-area section-padding">
+    <div class="container">
+      <div class="testimonial-wrapper">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <!--  Testimonial Title Start -->
+            <div class="section-title result-title text-center">
+              <h3 class="sub-title">Our Clients Review</h3>
+              <h2 class="title">Real Review From Our Real Customer</h2>
             </div>
-          </div>
-          <div class="custom-col">
-            <div class="single-testimonial">
-              <div class="testimonial-content d-flex align-items-center">
-                <div class="testimonial-img">
-                  <img src="assets/images/testimonial-2.png" alt="" />
-                  <i class="flaticon-right-quotation-mark"></i>
-                </div>
-                <div class="testimonial-client">
-                  <h3 class="name">
-                    Srinu Koripuri</h3>
-                  <span>Dental patient</span>
-                </div>
-              </div>
-              <div class="testimonial-text">
-                <p>
-                  I am so grateful to have found Dr krishnam Raju and his wonderful staff.after struggling with various teeth issues for years ,i am convinced that that I am really looking better now receiving the very best,state of the art care that I have ever experienced anywhere.dr krishnam raju is amazing and he is the best dentist in kakinada
-
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="custom-col">
-            <div class="single-testimonial">
-              <div class="testimonial-content d-flex align-items-center">
-                <div class="testimonial-img">
-                  <img src="assets/images/testimonial-2.png" alt="" />
-                  <i class="flaticon-right-quotation-mark"></i>
-                </div>
-                <div class="testimonial-client">
-                  <h3 class="name">
-                    Ravi Shankar</h3>
-                  <span>Dental patient</span>
-                </div>
-              </div>
-              <div class="testimonial-text">
-                <p>
-                  My mom got the root canal treatment recently here. Satisfied with the treatment and the overall process. Next steps at each visit are communicated clearly.
-
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="custom-col">
-            <div class="single-testimonial">
-              <div class="testimonial-content d-flex align-items-center">
-                <div class="testimonial-img">
-                  <img src="assets/images/testimonial-2.png" alt="" />
-                  <i class="flaticon-right-quotation-mark"></i>
-                </div>
-                <div class="testimonial-client">
-                  <h3 class="name">
-                    murali gajula</h3>
-                  <span>Dental patient</span>
-                </div>
-              </div>
-              <div class="testimonial-text">
-                <p>
-                  Excellent treatment
-                  Wonderful equipment
-                  Many thanks to Dr.Bhavana for excellent treatment and care as well as nice guidance
-                  Reception staff were also supportive and helpful.nice manners.
-                </p>
-              </div>
-            </div>
+            <!--  Testimonial Title End -->
           </div>
         </div>
+
+        <!--  Testimonial Content Wrapper Start -->
+        <div class="testimonial-content-wrapper">
+          <div class="row-wrapper testimonial-active dot-style">
+            <div class="custom-col">
+              <div class="single-testimonial">
+                <div class="testimonial-content d-flex align-items-center">
+                  <div class="testimonial-img">
+                    <img src="assets/images/testimonial-2.png" alt="" />
+                    <i class="flaticon-right-quotation-mark"></i>
+                  </div>
+                  <div class="testimonial-client">
+                    <h3 class="name">
+                      K.V.RAMESH</h3>
+                    <span>Dental patient</span>
+                  </div>
+                </div>
+                <div class="testimonial-text">
+                  <p>
+                    I visited Leela dental clinic for my dental procedure they guided me so well for the treatment plan procedure was stress free has been very helpful and responsible throughout the year and I strongly recommended this clinic
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="custom-col">
+              <div class="single-testimonial">
+                <div class="testimonial-content d-flex align-items-center">
+                  <div class="testimonial-img">
+                    <img src="assets/images/testimonial-2.png" alt="" />
+                    <i class="flaticon-right-quotation-mark"></i>
+                  </div>
+                  <div class="testimonial-client">
+                    <h3 class="name">
+                      Srinu Koripuri</h3>
+                    <span>Dental patient</span>
+                  </div>
+                </div>
+                <div class="testimonial-text">
+                  <p>
+                    I am so grateful to have found Dr krishnam Raju and his wonderful staff.after struggling with various teeth issues for years ,i am convinced that that I am really looking better now receiving the very best,state of the art care that I have ever experienced anywhere.dr krishnam raju is amazing and he is the best dentist in kakinada
+
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="custom-col">
+              <div class="single-testimonial">
+                <div class="testimonial-content d-flex align-items-center">
+                  <div class="testimonial-img">
+                    <img src="assets/images/testimonial-2.png" alt="" />
+                    <i class="flaticon-right-quotation-mark"></i>
+                  </div>
+                  <div class="testimonial-client">
+                    <h3 class="name">
+                      Ravi Shankar</h3>
+                    <span>Dental patient</span>
+                  </div>
+                </div>
+                <div class="testimonial-text">
+                  <p>
+                    My mom got the root canal treatment recently here. Satisfied with the treatment and the overall process. Next steps at each visit are communicated clearly.
+
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="custom-col">
+              <div class="single-testimonial">
+                <div class="testimonial-content d-flex align-items-center">
+                  <div class="testimonial-img">
+                    <img src="assets/images/testimonial-2.png" alt="" />
+                    <i class="flaticon-right-quotation-mark"></i>
+                  </div>
+                  <div class="testimonial-client">
+                    <h3 class="name">
+                      murali gajula</h3>
+                    <span>Dental patient</span>
+                  </div>
+                </div>
+                <div class="testimonial-text">
+                  <p>
+                    Excellent treatment
+                    Wonderful equipment
+                    Many thanks to Dr.Bhavana for excellent treatment and care as well as nice guidance
+                    Reception staff were also supportive and helpful.nice manners.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--  Testimonial Content Wrapper End -->
       </div>
-      <!--  Testimonial Content Wrapper End -->
     </div>
   </div>
-</div>
-<!--  Testimonial Area End -->
+  <!--  Testimonial Area End -->
 
-<!--  Blog Area Start -->
-<!-- <div class="section blog-area section-padding"> -->
-<!-- <div class="container">
+  <!--  Blog Area Start -->
+  <!-- <div class="section blog-area section-padding"> -->
+  <!-- <div class="container">
    
     <div class="blog-wrapper">
       <div class="row justify-content-center">
@@ -1212,10 +1210,10 @@
    
   </div> 
 </div>-->
-<!--  Blog Area End -->
+  <!--  Blog Area End -->
 
-<!--  Subscribe Area Start -->
-<!-- <div class="section subscribe-area">
+  <!--  Subscribe Area Start -->
+  <!-- <div class="section subscribe-area">
        <div class="container">
          <div class="subscribe-wrapper">
            <div class="row">
@@ -1242,99 +1240,99 @@
          </div>
        </div> 
      </div> -->
-<!--  Subscribe Area End -->
+  <!--  Subscribe Area End -->
 
-<section class="blog_section  py-5">
-     <div class="container">
-       <div class="section-title text-center">
+  <section class="blog_section  py-5">
+    <div class="container">
+      <div class="section-title text-center">
 
-         <h2 class="ask_heading mb-5">Blogs & articles </h2>
+        <h2 class="ask_heading mb-5">Blogs & articles </h2>
 
-       </div>
-     </div>
+      </div>
+    </div>
 
-     <div class="container">
-       <div class="row">
+    <div class="container">
+      <div class="row">
 
-         <?php
-          include './db.connection/db_connection.php';
+        <?php
+        include './db.connection/db_connection.php';
 
-          // Fetch latest 3 blogs with video
-          $sql = "SELECT id, title, main_content, main_image, video FROM blogs ORDER BY created_at DESC LIMIT 3";
-          $result = $conn->query($sql);
+        // Fetch latest 3 blogs with video
+        $sql = "SELECT id, title, main_content, main_image, video FROM blogs ORDER BY created_at DESC LIMIT 3";
+        $result = $conn->query($sql);
 
-          if ($result->num_rows > 0) {
-            echo "<div class='row'>"; // Start row for card layout
+        if ($result->num_rows > 0) {
+          echo "<div class='row'>"; // Start row for card layout
 
-            while ($row = $result->fetch_assoc()) {
-              $blog_id = $row['id'];
-              $title = $row['title'];
-              $main_content = $row['main_content'];
-              $main_image = $row['main_image'];
-              $video = $row['video'];
+          while ($row = $result->fetch_assoc()) {
+            $blog_id = $row['id'];
+            $title = $row['title'];
+            $main_content = $row['main_content'];
+            $main_image = $row['main_image'];
+            $video = $row['video'];
 
-              echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
-              echo "<div class='card h-100'>"; // Start card
+            echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
+            echo "<div class='card h-100'>"; // Start card
 
-              // Display the blog title
-              echo "<div class='card-body'>";
+            // Display the blog title
+            echo "<div class='card-body'>";
 
 
-              // Display video if available
-              if (!empty($video)) {
-                $video_path = "./admin/uploads/videos/{$video}";
-                echo "<video class='main-video img-fluid' controls>
+            // Display video if available
+            if (!empty($video)) {
+              $video_path = "./admin/uploads/videos/{$video}";
+              echo "<video class='main-video img-fluid' controls>
                     <source src='{$video_path}' type='video/mp4'>
                     Your browser does not support the video tag.
                   </video>";
-              }
-              // If no video, display main image
-              elseif (!empty($main_image)) {
-                $main_image_path = "./admin/uploads/photos/{$main_image}";
-                echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
-              }
-              echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
-              // Display a short portion of the blog content
-              echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
-
-              // Link to full blog post
-              echo "<a href='fullblog.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
-
-              echo "</div>"; // End card body
-              echo "</div>"; // End card
-              echo "</div>"; // End column
             }
+            // If no video, display main image
+            elseif (!empty($main_image)) {
+              $main_image_path = "./admin/uploads/photos/{$main_image}";
+              echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
+            }
+            echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
+            // Display a short portion of the blog content
+            echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
 
-            echo "</div>"; // End row
-          } else {
-            echo "No blog posts found.";
+            // Link to full blog post
+            echo "<a href='fullblog.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
+
+            echo "</div>"; // End card body
+            echo "</div>"; // End card
+            echo "</div>"; // End column
           }
 
-          $conn->close();
-          ?>
+          echo "</div>"; // End row
+        } else {
+          echo "No blog posts found.";
+        }
+
+        $conn->close();
+        ?>
 
 
 
-         <div class="mt-5 d-none d-md-block">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
-                 class="fa-solid fa-arrow-right mt-1"></i></p>
-           </a>
-         </div>
+        <div class="mt-5 d-none d-md-block">
+          <a href="blogs.php" style="text-decoration: none;">
+            <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
+                class="fa-solid fa-arrow-right mt-1"></i></p>
+          </a>
+        </div>
 
-         <div class="d-flex flex-row justify-content-center mt-4">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
-           </a>
-         </div>
+        <div class="d-flex flex-row justify-content-center mt-4">
+          <a href="blogs.php" style="text-decoration: none;">
+            <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
+          </a>
+        </div>
 
-       </div>
-     </div>
+      </div>
+    </div>
 
-   </section>
-
-
+  </section>
 
 
 
-<?php include 'footer.php'; ?>
+
+
+  <?php include 'footer.php'; ?>

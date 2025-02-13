@@ -183,74 +183,74 @@
   <!-- Include Bootstrap JS (with Popper) -->
 
   <section class="d-lg-none">
-  <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
-    <div class="container">
-      <a class="navbar-brand" href="index.php">
-        <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img"  />
-      </a>
-      <!-- Toggle Button -->
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+    <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img" />
+        </a>
+        <!-- Toggle Button -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-      <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" href="index.php">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
-          </li>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.php">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">About</a>
+            </li>
 
-          <!-- Services Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
-              Services
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="services.php">Dental Treatment</a></li>
-              <li><a class="dropdown-item" href="implants.php">Implants</a></li>
-              <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
-              <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
-              <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
-              <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
-              <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
-              <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
-            </ul>
-          </li>
+            <!-- Services Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown">
+                Services
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="services.php">Dental Treatment</a></li>
+                <li><a class="dropdown-item" href="implants.php">Implants</a></li>
+                <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
+                <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
+                <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
+                <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
+              </ul>
+            </li>
 
-          <!-- Equipment Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="equipmentDropdown" role="button" data-bs-toggle="dropdown">
-              Equipment
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
-              <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
-              <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
-            </ul>
-          </li>
+            <!-- Equipment Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="equipmentDropdown" role="button" data-bs-toggle="dropdown">
+                Equipment
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
+                <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+                <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
+              </ul>
+            </li>
 
-          <li class="nav-item">
-            <a class="nav-link" href="blogs.php">Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact</a>
-          </li>
+            <li class="nav-item">
+              <a class="nav-link" href="blogs.php">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.php">Contact</a>
+            </li>
 
-          <!-- Make Appointment Button -->
-          <li class="nav-item">
-            <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
-          </li>
-        </ul>
+            <!-- Make Appointment Button -->
+            <li class="nav-item">
+              <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
-</section>
+    </nav>
+  </section>
 
-<!-- Bootstrap JavaScript (Ensure This is Included) -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Bootstrap JavaScript (Ensure This is Included) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 
 
@@ -284,21 +284,21 @@
     });
   </script>
   <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const navbarToggler = document.querySelector(".navbar-toggler");
-    const navbarCollapse = document.querySelector("#navbarNav");
+    document.addEventListener("DOMContentLoaded", function() {
+      const navbarToggler = document.querySelector(".navbar-toggler");
+      const navbarCollapse = document.querySelector("#navbarNav");
 
-    if (navbarToggler && navbarCollapse) {
-      navbarToggler.addEventListener("click", function () {
-        navbarCollapse.classList.toggle("show");
-      });
-    }
-
-    // Close navbar when clicking outside
-    document.addEventListener("click", function (event) {
-      if (!navbarToggler.contains(event.target) && !navbarCollapse.contains(event.target)) {
-        navbarCollapse.classList.remove("show");
+      if (navbarToggler && navbarCollapse) {
+        navbarToggler.addEventListener("click", function() {
+          navbarCollapse.classList.toggle("show");
+        });
       }
+
+      // Close navbar when clicking outside
+      document.addEventListener("click", function(event) {
+        if (!navbarToggler.contains(event.target) && !navbarCollapse.contains(event.target)) {
+          navbarCollapse.classList.remove("show");
+        }
+      });
     });
-  });
-</script>
+  </script>
