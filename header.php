@@ -106,7 +106,7 @@
   </section>
 
   <!-- Navbar Section (Below Marquee) -->
-  <section class="navbar-section d-none d-lg-block" >
+  <section class="navbar-section d-none d-lg-block">
     <nav class="navbar navbar-expand-lg navbar-light navbar-center header_background footer_content ">
       <div class="container">
         <!-- Toggle Button for Mobile (only visible on mobile) -->
@@ -182,12 +182,12 @@
 
   <!-- Include Bootstrap JS (with Popper) -->
 
-  <section class="d-lg-none">
-    <nav class="navbar navbar-expand-lg navbar-light Navebar_content">
+  <!-- <section class="d-lg-none   "> -->
+    <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
       <div class="container">
-      <a class="navbar-brand" href="index.php">
-            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" style="width: 150px; contain-intrinsic-height: 100px;"/>
-          </a>
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" style="width: 150px; contain-intrinsic-height: 100px;" />
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -259,9 +259,9 @@
         </div>
       </div>
     </nav>
-  </section>
+  <!-- </section> -->
 
- 
+
   <script>
     document.querySelectorAll('.dropdown-submenu > a').forEach(item => {
       item.addEventListener('click', function(e) {
@@ -291,6 +291,3 @@
       });
     });
   </script>
-
-
-
