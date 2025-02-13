@@ -11103,13 +11103,16 @@ only screen and (max-width: 767px) {
   text-align: center;
 }
 
-.implants_treatment {
-  margin-top: 50px;
-  margin-bottom: 40px;
-  font-weight: bold;
 
+
+@media (max-width:768px) {
+  .implants_treatment {
+    margin-top: 111px;
+    margin-bottom: 40px;
+    font-weight: bold;
+  
+  }
 }
-
 
 .card-wrapper p {
 
@@ -11311,4 +11314,9 @@ leeela dental @media (max-width:768px) {
 
 .nav_mb_bg {
   background-color: #ffffff !important;
+}
+
+
+.nav_mini_img{
+  width: 50%;
 }

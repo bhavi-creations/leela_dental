@@ -186,7 +186,7 @@
   <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
     <div class="container">
       <a class="navbar-brand" href="index.php">
-        <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" style="width: 150px; height: 100px;" />
+        <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img"  />
       </a>
       <!-- Toggle Button -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
