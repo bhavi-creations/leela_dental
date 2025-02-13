@@ -46,7 +46,7 @@
 </section> -->
 
 
-<section>
+<!-- <section>
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
@@ -91,5 +91,71 @@
             </div>
         </div>
     </div>
+</section> -->
+<section class="service_section my-5">
+    <div class="container">
+        <div class="row">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment"> Gum surger Treatment</h1>
+                <p>
+                    Gum surgery is a procedure performed to treat various gum-related issues, such as gum recession, gum disease, or to prepare for restorative treatments like dental implants. The goal of gum surgery is to restore gum health, improve the appearance of your smile, and prevent further damage to your teeth and gums.
+
+
+                </p>
+
+                <p>
+                    There are different types of gum surgery, including soft tissue grafting, pocket reduction, and crown lengthening, each designed to address specific concerns. The procedure is typically performed under local anesthesia, and recovery time can vary depending on the type of surgery.
+
+
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
+
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+            Gum surger
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                        Your dentist or periodontist will first examine your gums and take X-rays to evaluate the severity of the issue. They will discuss the appropriate surgical options based on your needs, such as gum grafting, pocket reduction, or other procedures.
+
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                        During the procedure, local anesthesia is administered to numb the area. The dentist will then perform the surgery to address the gum problem, whether it's reshaping the gum tissue, grafting new tissue, or removing infected areas. The surgery usually lasts between 1 to 2 hours, depending on the complexity.
+
+
+
+
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                        After the surgery, your dentist will provide post-operative care instructions to ensure proper healing, including guidelines on diet, oral hygiene, and medications. Follow-up appointments will be scheduled to monitor your recovery and check the success of the procedure.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <?php include "./footer.php"; ?>
