@@ -10475,6 +10475,7 @@ span{
 
 .navbar-section {
   background-color: #f8f9fa;
+ 
 }
 
 .navbar-nav {
@@ -11021,7 +11022,14 @@ font-size: 30px;
       margin-top: 30px;
     }
 
-
+    @media (min-width:768px) {
+  
+  
+      .nav-link{
+        margin:  10px 15px;
+        
+      }
+    }
 
 
 

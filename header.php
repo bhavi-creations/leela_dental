@@ -71,7 +71,7 @@
   </section>
 
   <!-- Header Section with Logo and Contact Info -->
-  <section class="header-container">
+  <section class="header-container d-none d-lg-block">
     <div class="container">
       <div class="row header-row">
         <!-- Logo Section -->
@@ -106,7 +106,7 @@
   </section>
 
   <!-- Navbar Section (Below Marquee) -->
-  <section class="navbar-section" >
+  <section class="navbar-section d-none d-lg-block" >
     <nav class="navbar navbar-expand-lg navbar-light navbar-center header_background footer_content ">
       <div class="container">
         <!-- Toggle Button for Mobile (only visible on mobile) -->
@@ -182,7 +182,98 @@
 
   <!-- Include Bootstrap JS (with Popper) -->
 
+  <section class="d-lg-none">
+    <nav class="navbar navbar-expand-lg navbar-light Navebar_content">
+      <div class="container">
+      <a class="navbar-brand" href="index.php">
+            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid" style="width: 150px; contain-intrinsic-height: 100px;"/>
+          </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.php">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">About</a>
+            </li>
 
+            <!-- Services Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="services.php" id="navbarDropdown" role="button">
+                Services
+              </a>
+              <ul class="dropdown-menu">
+                <li class="dropdown-submenu">
+                  <a class="dropdown-item" href="services.php">Dental Treatment</a>
+                  <ul class="dropdown-menu submenu">
+                    <li><a class="dropdown-item" href="implants.php">Implants</a></li>
+                    <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
+                    <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                    <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
+                    <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                    <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
+                    <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown-submenu">
+                  <a class="dropdown-item" href="cosmetic_services.php">Cosmetic Services</a>
+                  <ul class="dropdown-menu submenu">
+                    <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
+                    <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
+                    <li><a class="dropdown-item" href="composite_filler.php">Composite Filler</a></li>
+                    <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+
+            <!-- Equipment Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="equipment.php" id="equipmentDropdown" role="button">
+                Equipment
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
+                <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+                <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="blogs.php">Blog</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="contact.php">Contact</a>
+            </li>
+
+            <!-- Make Appointment Button -->
+            <li class="nav-item">
+              <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </section>
+
+ 
+  <script>
+    document.querySelectorAll('.dropdown-submenu > a').forEach(item => {
+      item.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        let submenu = this.nextElementSibling;
+        if (submenu) {
+          submenu.classList.toggle('show');
+        }
+      });
+    });
+  </script>
 
 
 
