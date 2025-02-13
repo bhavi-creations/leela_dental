@@ -11000,7 +11000,9 @@ font-size: 30px;
        
       background: #FFFFFF;
      
-      padding: 20px 50px;
+      padding:10px 50px;
+      border-radius: 10px;
+      margin: 10px;
      }
      
      .text{
