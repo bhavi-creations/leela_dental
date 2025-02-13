@@ -611,15 +611,14 @@
               <!-- Service Content End -->
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
+          <!-- <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="service-item">
-              <!-- Service Img Start -->
+             
               <div class="service-img">
                 <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" />
               </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
+           
+            
               <div class="service-content text-center">
                 <i class="flaticon-surgery-room"></i>
                 <div class="service-icon-wrapper">
@@ -630,9 +629,9 @@
                   <a class="read-more" href="sterilization.php">Know More</a>
                 </div>
               </div>
-              <!-- Service Content End -->
+              
             </div>
-          </div>
+          </div> -->
           <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="service-item">
               <!-- Service Img Start -->
