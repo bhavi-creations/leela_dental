@@ -46,46 +46,61 @@
 </section> -->
 
 
-<section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
-                <div class="container implants_content">
-                    <h1 class="text-center ">Laser Treatment</h1>
-                    <p class="text-center"> Precision and Comfort for Dental Care
-                        Enhancing Healing and Aesthetic Results with Advanced Technology</p>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-img service_image">
-                            <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-                            <img src="assets/images/services2/laser.png" alt="" class="img-fluid">
-
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            
-                            <p>
-                            "Laser treatment in dentistry is revolutionizing the way dental procedures are performed. Lasers offer a highly accurate and gentle approach to various treatments, reducing discomfort, speeding up recovery, and minimizing the need for anesthesia in many cases. Whether it's for cosmetic procedures like teeth whitening or for restorative treatments like cavity removal, lasers are a versatile tool.
-
-                          </p>
-                          <p>
-                          Laser dentistry can be used for soft tissue procedures such as gum contouring, as well as hard tissue procedures like cavity treatment and root canal disinfection. Laser technology helps target specific areas with minimal effect on surrounding tissues, leading to quicker healing times and less post-treatment sensitivity. Additionally, laser treatment is associated with less bleeding, reduced swelling, and a lower risk of infection, which makes it ideal for patients with concerns about traditional treatments.
+ 
 
 
-                          </p>
-                        </div>
 
-                    </div>
-                </div>
+<section class="service_section my-5">
+    <div class="container">
+        <div class="row">
 
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment"> Laser Treatment</h1>
+                <p>
+                Dental laser treatment is an advanced, minimally invasive procedure used for various dental conditions, including gum disease, cavity treatment, teeth whitening, and soft tissue reshaping. It uses focused laser energy to target and treat specific areas with greater precision, less pain, and faster healing compared to traditional methods.                </p>
+
+                
             </div>
         </div>
     </div>
 </section>
 
+
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+        Laser Treatment
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/laser_treatment/laser_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The process begins with a dental evaluation and diagnosis, where the dentist examines the affected area using digital scans or X-rays. Based on the findings, a personalized treatment plan is developed to address specific dental concerns using laser technology.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/laser_treatment/laser_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    During the procedure, the dentist uses a specialized dental laser to precisely target the treatment area. Depending on the condition being treated, the laser can remove infected tissue, reshape gums, whiten teeth, or seal nerve endings to reduce discomfort. The procedure is quick, painless, and requires minimal anesthesia.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/laser_treatment/laser_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    Since dental laser treatment is minimally invasive, recovery is fast and comfortable with little to no bleeding or swelling. Patients are advised to follow post-care instructions, including maintaining good oral hygiene and avoiding certain foods for a short period. Regular follow-ups ensure the treated area heals properly and remains healthy.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include "./footer.php"; ?>

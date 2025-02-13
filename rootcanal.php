@@ -21,10 +21,8 @@
 </div>
 
 
-<section>
-    <
-        </section>
-        <!-- <section class="mt-5">
+ 
+<!-- <section class="mt-5">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-12 animate__animated animate__FadeInLeft">
@@ -42,7 +40,7 @@
 
     </div>
 </section> -->
-        <!-- <section>
+<!-- <section>
             <div class="section about-area section-padding">
                 <div class="container">
                     <div class="about-wrapper">
@@ -83,71 +81,54 @@
 
 
 
-        <section class="service_section my-5">
-            <div class="container">
-                <div class="row">
+<section class="service_section my-5">
+    <div class="container">
+        <div class="row">
 
-                    <div class="service_contain_text">
+            <div class="service_contain_text">
 
-                        <h1 class="implants_treatment"> Root Canal Treatment</h1>
-                        <p>
-                            Root canal treatment is a dental procedure designed to save a severely decayed, infected, or damaged tooth by removing the infected pulp inside it. The pulp, which contains nerves and blood vessels, can become inflamed or infected due to deep cavities, repeated dental procedures, or trauma. If left untreated, this infection can spread, leading to severe pain, abscess formation, and even tooth loss.
-                        </p>
+                <h1 class="implants_treatment"> Root Canal Treatment</h1>
+                <p>
+                Root canal treatment is a restorative dental procedure used to save and repair a severely decayed or infected tooth. Instead of extracting the tooth, the infected pulp inside the root canal is removed, and the area is cleaned, disinfected, and sealed. This helps preserve the natural tooth structure while relieving pain and discomfort.
+                </p>
 
-                        <p>
-                            During the procedure, the dentist first numbs the area with local anesthesia to ensure the patient’s comfort. A small opening is then made in the tooth to access the infected pulp, which is carefully removed. The inner chambers of the tooth, known as the root canals, are thoroughly cleaned, disinfected, and shaped to eliminate any remaining bacteria. Once cleaned, the space is filled with a biocompatible material to seal the canals and prevent reinfection. In most cases, a dental crown is placed over the tooth to restore its strength and functionality.
-                        </p>
-                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section_color">
+    <div class="container">
+        <h4 class="root_step text-center mb-5">Steps to a Pain-Free ROOT CANAL treatment</h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="assets/img/services/rootcanal_treatment/rootcanal_treatment_1.png" alt="" class="img-fluid  card_img_border">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The dentist begins by numbing the tooth with local anesthesia to ensure a comfortable procedure. A small opening is made in the tooth, and the infected pulp and bacteria are carefully removed. The root canal is then cleaned and shaped for filling.
+                    </p>
                 </div>
             </div>
-        </section>
-
-        <section class="section_color my-5">
-            <div class="container">
-                <h4 class="root_step text-center mt-5">
-                    rootcanal
-                </h4>
-                <div class="row my-3">
-                    <div class="col-12 col-md-4  card-wrapper ">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step1</h4>
-                            <p>
-                            <strong> Cleaning and Removing Infection: </strong>The dentist numbs the area, creates a small opening in the tooth, and removes the infected or damaged pulp from the root canals.
-
-
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4  card-wrapper">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step2</h4>
-                            <p>
-                            <strong> Disinfection and Filling: </strong>The cleaned canals are thoroughly disinfected and then filled with a special biocompatible material to prevent reinfection.
-
-
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4  card-wrapper">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step3</h4>
-                            <p>
-                            <strong> Sealing and Restoration: </strong>The tooth is sealed, and in most cases, a dental crown is placed to restore strength and function, ensuring long-term protection.
-
-
-
-
-
-
-
-
-                            </p>
-                        </div>
-                    </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/rootcanal_treatment/rootcanal_treatment_2.png" alt="" class="img-fluid card_img_border">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Once the infection is removed, the root canal is disinfected to eliminate any remaining bacteria. It is then filled with a biocompatible material called gutta-percha, which prevents reinfection. The opening is temporarily or permanently sealed to protect the tooth.
+                    </p>
                 </div>
             </div>
-        </section>
-        <?php include 'footer.php'; ?>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/rootcanal_treatment/rootcanal_treatment_3.png" alt="" class="img-fluid card_img_border">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    After healing, a custom-made dental crown is placed on the tooth to restore its strength, function, and appearance. The crown protects the treated tooth from damage and ensures long-term durability. With proper care, a root canal-treated tooth can last a lifetime.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include 'footer.php'; ?>

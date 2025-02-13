@@ -22,60 +22,56 @@
 
 
 
-<!-- <section class="mt-5">
+<section class="service_section my-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-12 animate__animated animate__FadeInLeft">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment">Veneers</h1>
                 <p>
-                    Root canal treatment is a common dental procedure designed to save a tooth that has become severely damaged or infected, often due to deep decay or trauma. The purpose of this treatment is to remove the infected or damaged pulp (the soft tissue inside the tooth), clean and seal the tooth to prevent further infection, and ultimately preserve the natural tooth.
+                Veneers treatment is a cosmetic dental procedure designed to enhance the appearance of teeth by covering imperfections such as discoloration, chips, gaps, and misalignment. Veneers are thin, custom-made shells—typically made of porcelain or composite resin—that are bonded to the front surface of teeth to create a natural, flawless smile.
                 </p>
-                <p>
-                    When the pulp becomes infected, it can cause severe pain, swelling, and discomfort, which can interfere with normal daily activities. Without treatment, the infection can spread, leading to the potential loss of the tooth. Root canal treatment is a highly effective solution that helps restore the tooth's function and prevent the need for extraction.
-                </p>
-            </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight">
-                <img src="./assets/images/services2/rootcanal.png" alt="" class="img-fluid">
+
+                
             </div>
         </div>
-
     </div>
-</section> -->
-<section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
-            <div class="container  ">
-        <h1 class="text-center ">Veneers treatment</h1>
-        <p class="text-center ">Enhance Your Smile with Veneers – A Perfect Blend of Beauty and Strength! </p>
-    </div>
+</section>
 
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
 
-                        <div class="about-img service_image">
-                        <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-
-                        <img src="./assets/images/services2/veeners.png" alt="" class="img-fluid">
-
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            <p>
-                            Veneers are a popular cosmetic dental treatment designed to enhance the appearance of your smile. These thin, custom-made shells are placed over the front surface of your teeth to correct imperfections such as stains, chips, cracks, or misalignment. Made from either porcelain or composite resin, veneers closely resemble the natural look of teeth, offering a durable and stain-resistant solution for those looking to improve their smile.
-
-</p>
-                            <p>
-                            For individuals who have struggled with discolored teeth that do not respond well to whitening treatments, veneers can provide a permanent solution, brightening your teeth and giving you a flawless smile. In addition to correcting discoloration, veneers can also address minor alignment issues, gaps, and unevenly shaped teeth, making them an ideal choice for many people seeking a smile makeover.
-
-</p>
-                        </div>
-
-                    </div>
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+        Veneers
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/veneers_treatment/veneers_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The process starts with a dental consultation, where the dentist evaluates the patient’s teeth and discusses the desired results. The teeth are then prepared by removing a thin layer of enamel to ensure a perfect fit for the veneers. Impressions or digital scans are taken to create custom-made veneers.
+                    </p>
                 </div>
-
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/veneers_treatment/veneers_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Once the veneers are crafted, the dentist ensures they match the color and shape of natural teeth. The teeth are then cleaned, polished, and etched to improve adhesion. A strong dental adhesive is used to securely bond the veneers to the teeth, and a curing light hardens the material for a lasting hold.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/veneers_treatment/veneers_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    After placement, the dentist makes final adjustments to ensure a comfortable bite and natural look. Patients receive post-treatment care instructions, including maintaining good oral hygiene and avoiding excessive pressure on veneers. With proper care, veneers can last 10-15 years, providing a bright, confident smile.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

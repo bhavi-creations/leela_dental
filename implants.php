@@ -98,49 +98,43 @@
 
                 <h1 class="implants_treatment"> Implants Treatment</h1>
                 <p>
-                    Dental implants are a permanent and reliable solution for replacing missing teeth. Made from biocompatible titanium, the implant is surgically placed into the jawbone, where it fuses with the bone to create a strong foundation for a custom-made dental crown. This integration process ensures stability and durability, allowing the implant to function like a natural tooth.
-
-                <p>
-                    The treatment begins with a thorough evaluation to assess bone density and oral health. Once the implant is placed, a healing period is necessary for the bone to integrate with the implant. After healing, a small connector called an abutment is attached, followed by the placement of a carefully crafted dental crown. </p>
+                Dental implant treatment is a permanent solution for replacing missing teeth by surgically placing a titanium post into the jawbone. This post acts as an artificial tooth root, providing a strong foundation for a replacement tooth, such as a crown, bridge, or denture.
 
             </div>
         </div>
     </div>
 </section>
 
-<section class="section_color my-5">
+<section class="section_color">
     <div class="container">
-        <h4 class="root_step text-center mt-5">Advanced Dental Implants for a Healthy and Beautiful Smile
+        <h4 class="root_step text-center mb-5">Advanced Dental Implants for a Healthy and Beautiful Smile
         </h4>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_1.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step1</h4>
                     <p>
-                        The titanium implant is surgically inserted into the jawbone, where it serves as an artificial tooth root. A healing period follows, allowing the implant to integrate with the bone for a strong foundation.
+                    The first step involves surgically placing the titanium implant into the jawbone. Local anesthesia is used to ensure a painless procedure. The implant is carefully inserted into the bone beneath the gums, acting as a stable anchor for the replacement tooth. The gum is then stitched, allowing the area to heal.
 
-                    </p>
                 </div>
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_2.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step2</h4>
                     <p>
-                        Once the implant has fused with the jawbone, a small connector called an abutment is attached. This step ensures a secure connection between the implant and the final crown, allowing the gum tissue to heal around it.
+                    Over the next few months, the implant naturally fuses with the jawbone through a process called osseointegration. This creates a strong and secure foundation for the artificial tooth. During this healing period, a temporary restoration may be placed to maintain aesthetics.
 
-                    </p>
                 </div>
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_3.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step3</h4>
                     <p>
-                        A custom-made dental crown is fixed onto the abutment, completing the restoration. The crown is designed to match natural teeth in shape, color, and function, providing a permanent and natural-looking replacement.
+                    Once healing is complete, a custom-made dental crown, bridge, or denture is securely attached to the implant using an abutment. The crown is designed to match the size, shape, and color of natural teeth, restoring both functionality and aesthetics. Patients receive care instructions to ensure long-lasting results.
 
-                    </p>
                 </div>
             </div>
         </div>

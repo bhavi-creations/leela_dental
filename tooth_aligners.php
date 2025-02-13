@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <!--  Page Banner Title Start -->
                 <div class="page-banner-title text-center">
-                    <h2 class="title">  Tooth Aligners</h2>
+                    <h2 class="title"> Tooth Aligners</h2>
                     <!--  Page Banner Breadcrumb Start -->
                     <ul class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -81,63 +81,59 @@
 
 
 <section class="service_section my-5">
-            <div class="container">
-                <div class="row">
+    <div class="container">
+        <div class="row">
 
-                    <div class="service_contain_text">
+            <div class="service_contain_text">
 
-                        <h1 class="implants_treatment">Tooth aligners Treatment</h1>
-                        <p>
-                        Tooth aligners are a popular alternative to traditional braces for straightening teeth. These clear, removable trays are custom-designed to gradually shift your teeth into their correct positions. They offer a more comfortable and discreet option, as they are nearly invisible when worn. Treatment with aligners typically requires a series of trays that are changed every few weeks, with progress monitored by your dentist. Ideal for both teens and adults, aligners provide a flexible and effective solution for achieving a beautiful smile without the visible appearance of metal braces.
+                <h1 class="implants_treatment">Tooth aligners Treatment</h1>
+                <p>
+                Tooth aligners are a modern orthodontic treatment designed to straighten teeth without the need for metal braces. These are clear, removable, and custom-made trays that gradually shift teeth into their ideal position over time.
+                </p>
 
-</p>
+                
+            </div>
+        </div>
+    </div>
+</section>
 
-                        <!-- <p>
-                            During the procedure, the dentist first numbs the area with local anesthesia to ensure the patient’s comfort. A small opening is then made in the tooth to access the infected pulp, which is carefully removed. The inner chambers of the tooth, known as the root canals, are thoroughly cleaned, disinfected, and shaped to eliminate any remaining bacteria. Once cleaned, the space is filled with a biocompatible material to seal the canals and prevent reinfection. In most cases, a dental crown is placed over the tooth to restore its strength and functionality.
-                        </p> -->
-                    </div>
+<section class="section_color">
+    <div class="container">
+        <h4 class="root_step text-center mb-5">Steps for a Sparkling Clean Smile
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/clear_aligner/clear_aligner_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The treatment begins with a detailed consultation, where the dentist evaluates the patient's teeth. Digital impressions, X-rays, or 3D scans are taken to design a set of custom aligners that fit perfectly and guide the teeth into alignment.
+                    </p>
                 </div>
             </div>
-        </section>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/clear_aligner/clear_aligner_2.png" alt="" class="img-fluid">
 
-        <section class="section_color my-5">
-            <div class="container">
-                <h4 class="root_step text-center mt-5">
-                Tooth aligners 
-                </h4>
-                <div class="row my-3">
-                    <div class="col-12 col-md-4  card-wrapper ">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step1</h4>
-                            <p>
-                            Your dentist takes scans or impressions of your teeth to create a personalized treatment plan and custom aligners.
-
-
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4  card-wrapper">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step2</h4>
-                            <p>
-                            You wear the clear aligners for 20-22 hours daily, changing to a new set every few weeks to gradually straighten your teeth.
-
-                           </p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-4  card-wrapper">
-                        <div class="card">
-                            <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
-                            <h4 class="canal_step">Step3</h4>
-                            <p>
-                            Once treatment is complete, a retainer helps maintain your new smile. Follow-up appointments ensure long-lasting results.
-
-                            </p>
-                        </div>
-                    </div>
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Once the aligners are ready, the patient receives a series of custom trays, each slightly adjusting the teeth’s position. Aligners are worn for 20-22 hours a day, changing to a new set every 1-2 weeks. Unlike traditional braces, they are removable for eating, drinking, and brushing.
+                    </p>
                 </div>
             </div>
-        </section>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/clear_aligner/clear_aligner_3.png" alt="" class="img-fluid">
+
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    After completing the aligner series, the teeth are perfectly aligned. To maintain the results, a retainer is provided to prevent teeth from shifting back. Regular dental checkups ensure that the alignment remains intact over time.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <?php include "./footer.php"; ?>

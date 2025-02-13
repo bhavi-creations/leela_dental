@@ -22,67 +22,62 @@
 
 
 
-<!-- <section class="mt-5">
+
+<section class="service_section my-5">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment">   Teeth Jewellery</h1>
                 <p>
-                    Teeth jewellery is a cosmetic dental accessory that adds a touch of sparkle to your smile. These tiny, decorative gems or crystals are bonded to the tooth surface, creating a stylish and unique look without any invasive procedures.
-
-
+                Teeth jewellery treatment is a cosmetic dental procedure that involves attaching small decorative gems or crystals to the surface of a tooth. This non-invasive and painless procedure is designed to add a touch of sparkle to a person’s smile, enhancing aesthetic appeal and uniqueness.
                 </p>
-                <p>
-                    Made from high-quality materials like crystals, gold, or diamonds, tooth jewellery is safe, painless, and does not harm the natural tooth structure. It is a popular trend among individuals looking to express their personality with a dazzling smile.
 
-
-                </p>
-            </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight service_image">
-                <img src="assets/images/services2/jewellwey.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-            </div>
-
-        </div>
-</section> -->
-
-
-<section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
-                <div class="container implants_content">
-                    <h1 class="text-center ">Teeth Jewellery treatment</h1>
-                    <p class="text-center">Enhance your smile with stylish, non-invasive tooth gems that add a unique and glamorous look.
-                    </p>
-                </div>
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-img service_image">
-                            <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-
-                            <img src="assets/images/services2/jewellwey.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            <p>
-                                Teeth jewellery is a cosmetic dental accessory that adds a touch of sparkle to your smile. These tiny, decorative gems or crystals are bonded to the tooth surface, creating a stylish and unique look without any invasive procedures.
-                            </p>
-                            <p>
-                                Made from high-quality materials like crystals, gold, or diamonds, tooth jewellery is safe, painless, and does not harm the natural tooth structure. It is a popular trend among individuals looking to express their personality with a dazzling smile.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-
+                
             </div>
         </div>
     </div>
 </section>
+
+
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+        Teeth Jewellery
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/jewerlly_treatment/jewerlly_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The process begins with a dental consultation, where the dentist helps the patient choose the size, shape, and design of the jewellery. The selected tooth is then thoroughly cleaned and dried to ensure proper adhesion of the jewellery.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/jewerlly_treatment/jewerlly_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    A safe dental adhesive is applied to the tooth’s surface, and the jewellery piece is carefully placed. A curing light is then used to harden and secure the bond, ensuring the jewellery stays in place. The process is quick, painless, and does not require drilling or enamel removal.
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/jewerlly_treatment/jewerlly_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    Once the jewellery is bonded, the dentist makes final adjustments to ensure comfort and positioning. Patients receive aftercare instructions, including avoiding excessive force while eating and maintaining good oral hygiene. Teeth jewellery can last several months to years and can be easily removed or replaced upon request.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 <?php include "./footer.php"; ?>

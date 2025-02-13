@@ -24,40 +24,57 @@
 
 
 
-<section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
-                <div class="container implants_content">
-                    <h1 class="text-center ">Composite Filler treatment</h1>
-                    <p class="text-center ">Restore Your Smile with Composite Fillers – Seamless, Strong, and Natural-Looking! </p>
+
+<section class="service_section my-5">
+    <div class="container">
+        <div class="row">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment">Composite Filler</h1>
+                <p>
+                Composite filling treatment is a restorative dental procedure used to repair decayed, chipped, cracked, or worn-down teeth. Unlike traditional silver (amalgam) fillings, composite fillings are made from a tooth-colored resin material, providing a natural and seamless appearance.
+                </p>
+
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+        Composite Filler
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The procedure begins with a dental examination, where the dentist identifies and evaluates the damaged or decayed tooth. The affected area is then cleaned and the decayed portion is removed to prepare the tooth for filling. Local anesthesia is applied to ensure a comfortable and painless experience.
+                    </p>
                 </div>
-
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-img service_image">
-                            <img src="assets/images/services2/1.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            <p>
-                                Composite fillers are a versatile and popular dental treatment used to restore and enhance the appearance of damaged or decayed teeth. Made from a mixture of resins and fine glass particles, composite fillings can be easily molded to match the natural shape and color of your teeth, making them an ideal option for those seeking a seamless and discreet solution to cavities or minor tooth imperfections.
-
-
-                            </p>
-                            <p>
-                                Unlike traditional metal fillings, composite fillings blend perfectly with the surrounding tooth structure, offering a more aesthetic and less noticeable alternative. They are particularly well-suited for filling cavities in visible areas such as the front teeth, as they can be matched to the exact color of your natural enamel, preserving the look of your smile.
-
-                            </p>
-                        </div>
-
-                    </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Once the tooth is prepared, the dentist applies the tooth-colored composite resin in layers. Each layer is hardened using a curing light to ensure strong adhesion. The composite material is then shaped and contoured to match the natural structure of the tooth for a perfect fit.
+                    </p>
                 </div>
-
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    After the filling is set, the dentist smooths and polishes the tooth to blend seamlessly with the surrounding teeth. Bite adjustments are made to ensure proper alignment and comfort. Patients receive post-treatment care instructions, including maintaining good oral hygiene and avoiding hard foods for a short period. With proper care, composite fillings can last many years, providing a strong and natural-looking restoration.
+                    </p>
+                </div>
             </div>
         </div>
     </div>

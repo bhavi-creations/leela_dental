@@ -1,5 +1,5 @@
  <!-- Footer Section Start -->
- <div class="section footer-area section-padding-02">
+ <div class="section footer-area section-padding-02 new_footer">
      <!-- Footer Widget Area Start -->
      <div class="footer-widget-area">
          <div class="container">
@@ -16,7 +16,7 @@
 
                                  <li class="footer_detail"><i class="ri-phone-fill"></i> +91-7674824667,9493782298 </li>
                                  <!-- <li class="footer_detail"> <i class="bi bi-telephone-fill"> </i> +91-0884-2378237 </li> -->
-                                 <li class="footer_detail"> <img src="assets/images/icon/telephone.png" alt="" class="img-fluid icons"> &nbsp;</i> +91-0884-2378237 </li>
+                                 <li class="footer_detail"> <img src="assets/images/icon/1-removebg-preview.png" alt="" class="img-fluid icons"> &nbsp;</i> +91-0884-2378237 </li>
 
 
 
@@ -94,7 +94,7 @@
                      <div class="col-lg-3 col-md-6 col-6 widget-col">
                          <!-- Footer Widget Start -->
                          <div class="footer-widget ">
-                             <h3 class="title">Cosmatic </h3>
+                             <h3 class="title">Cosmetic </h3>
                              <ul class="footer-link">
                                  <li>
                                      <i class="ri-check-line"></i>
@@ -102,7 +102,7 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="veneers.php"> Dental Veneers</a>
+                                     <a href="veeners.php"> Dental Veneers</a>
                                  </li>
 
 
@@ -196,7 +196,7 @@
 
                  <div class="  col-md-6 col-12">
                      <div class="footer-widget__copyright-info info-direction">
-                         <p class="  last_text">
+                         <p class="  last_text space">
                              <a href="terms.php" style="text-decoration: none; color: #ffffff">Terms & conditions
                              </a>
                              <a href="privacy.php" style="text-decoration: none; color: #ffffff">
@@ -208,12 +208,12 @@
                  <div class="col-md-6 col-12 second_divv_end_brand">
                      <div
                          class="footer-widget__copyright-info info-direction d-flex flex-row justify-content-end align-items-center">
-                         <a href="https://bhavicreations.com/" target="_blank"
+                         <a href="https://bhavicreations.com/" target="_blank" class="brand gap"
                              style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
-                             <p class="mini_text last_text mb-0">
+                             <p class="mini_text last_text space gap mb-0">
                                  Branding By @
                              </p>
-                             <img src="assets/images/brand/Bhavi_Branding_Stamp.png" class="img-fluid brand_image" alt=""
+                             <img src="assets/images/brand/Bhavi_Branding_Stamp.png" class="img-fluid brand_image space" alt=""
                                  style="width: 50px; height: 50px;">
                          </a>
                      </div>

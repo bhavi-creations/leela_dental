@@ -10766,3 +10766,127 @@ font-size: 30px;
   }
 }
 
+
+
+
+
+
+
+
+
+
+/* srinivasa  */
+.canal_step {
+ 
+  padding-top: 20px;
+  color: #252b42;
+  font-weight: 700;
+}
+ 
+.root_step {
+  margin-bottom: 30px;
+  color: #1d2053 !important;
+  font-weight: 700;
+font-size: 30px;
+}
+
+.root_treatment {
+  color: #1d2053 !important;
+  font-size: 39px;
+  font-weight: 700;
+
+
+}
+.section_color {
+  background-color: rgb(241, 241, 241);
+  text-align: center;
+}
+ 
+.card-wrapper {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+   border-radius: 10px;
+   margin-top:30px;
+}
+ 
+
+
+
+.service_contain_text h1{
+  text-align: center;
+}
+
+.implants_treatment{
+  margin-top: 50px;
+  margin-bottom: 40px;
+  font-weight: bold;
+  
+}
+
+
+.card-wrapper p {
+ 
+  padding: 20px 10px;
+}
+ 
+
+
+
+
+.section_color {
+  background-color: rgb(241, 241, 241);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+
+ 
+
+
+.card img {
+  border-radius: 7px;
+  margin-top: 5px;
+
+}
+
+ 
+
+ 
+
+@media (max-width:768px) {
+  
+  
+  .service_img_cad_text{
+    margin-top: -98px;
+  }
+}
+
+
+@media (min-width:768px) and (max-width:1200px) {
+  
+  
+  .service_img_cad_text{
+    margin-top: -150px;
+    margin-bottom: 50px;
+
+  }
+}
+
+
+
+@media (min-width:1200px) {
+  
+  
+  .service_img_cad_text{
+    margin-top: -200px;
+    margin-bottom: 100px;
+  }
+}
+
+
+
+
+

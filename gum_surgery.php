@@ -98,7 +98,7 @@
 
             <div class="service_contain_text">
 
-                <h1 class="implants_treatment"> Gum surger Treatment</h1>
+                <h1 class="implants_treatment"> Gum surgery Treatment</h1>
                 <p>
                     Gum surgery is a procedure performed to treat various gum-related issues, such as gum recession, gum disease, or to prepare for restorative treatments like dental implants. The goal of gum surgery is to restore gum health, improve the appearance of your smile, and prevent further damage to your teeth and gums.
 
@@ -123,33 +123,29 @@
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/placement.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/gum_surgery/gum_surgery_1.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step1</h4>
                     <p>
-                        Your dentist or periodontist will first examine your gums and take X-rays to evaluate the severity of the issue. They will discuss the appropriate surgical options based on your needs, such as gum grafting, pocket reduction, or other procedures.
+                    The procedure begins with a thorough examination of the gums to assess the severity of gum disease. The dentist or periodontist performs a deep cleaning, also known as scaling and root planing, to remove plaque, tartar, and bacteria from beneath the gum line. This helps reduce inflammation and prepares the gums for surgery if needed.
 
                     </p>
                 </div>
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/osseointegration.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/gum_surgery/gum_surgery_2.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step2</h4>
                     <p>
-                        During the procedure, local anesthesia is administered to numb the area. The dentist will then perform the surgery to address the gum problem, whether it's reshaping the gum tissue, grafting new tissue, or removing infected areas. The surgery usually lasts between 1 to 2 hours, depending on the complexity.
-
-
-
-
+                    If deep cleaning alone isn’t enough, a surgical procedure such as flap surgery or gum grafting is performed. In flap surgery, the gums are lifted to remove bacteria and tartar from deep pockets, then sutured back for proper healing. If gum recession is severe, a gum graft may be done, where tissue from another part of the mouth (or a donor source) is used to rebuild lost gum tissue.
                     </p>
                 </div>
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/dental-implents/crown.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/gum_surgery/gum_surgery_3.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step3</h4>
                     <p>
-                        After the surgery, your dentist will provide post-operative care instructions to ensure proper healing, including guidelines on diet, oral hygiene, and medications. Follow-up appointments will be scheduled to monitor your recovery and check the success of the procedure.
+                    After surgery, the gums need time to heal. The patient is given post-care instructions, including prescribed medications, special mouth rinses, and dietary recommendations to aid recovery. Over the following weeks, the gums regenerate, reattaching to the teeth and restoring a healthy, natural appearance. Regular follow-ups ensure proper healing and long-term success.
                     </p>
                 </div>
             </div>

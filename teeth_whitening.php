@@ -6,7 +6,7 @@
             <div class="col-lg-12">
                 <!--  Page Banner Title Start -->
                 <div class="page-banner-title text-center">
-                    <h2 class="title">  Teeth Whitening</h2>
+                    <h2 class="title"> Teeth Whitening</h2>
                     <!--  Page Banner Breadcrumb Start -->
                     <ul class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -21,65 +21,65 @@
 </div>
 
 
-<!-- <section class="mt-5">
+ 
+
+<section class="service_section my-5">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment"> Teeth Whitening Treatment</h1>
                 <p>
-                Teeth whitening is a popular cosmetic dental treatment designed to remove stains and discoloration, restoring the natural brightness of teeth. Over time, factors like coffee, tea, smoking, and aging can cause teeth to lose their whiteness, making professional whitening an effective solution.
-
-
-</p>
-                <p>
-                This procedure uses safe bleaching agents to break down stains and lighten the enamel without damaging the tooth structure. It is available in various forms, including in-office treatments and take-home whitening kits, offering noticeable results in a short time.
-
-
-</p>
-            </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight service_image">
-                <img src="assets/images/services2/whitning.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-            </div>
-
-    </div>
-</section> -->
-
-<section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
-            <div class="container implants_content">
-        <h1 class="text-center ">Teeth Whitening treatment</h1>
-        <p class="text-center">Achieve a radiant, stain-free smile with safe and effective teeth whitening treatments.
-</p>
-    </div>
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-img service_image">
-                            <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-
-                            <img src="assets/images/services2/whitning.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            <p>
-                            Teeth whitening is a popular cosmetic dental treatment designed to remove stains and discoloration, restoring the natural brightness of teeth. Over time, factors like coffee, tea, smoking, and aging can cause teeth to lose their whiteness, making professional whitening an effective solution.
-                            </p>
-                            <p>
-                            This procedure uses safe bleaching agents to break down stains and lighten the enamel without damaging the tooth structure. It is available in various forms, including in-office treatments and take-home whitening kits, offering noticeable results in a short time.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
+                Teeth whitening is a cosmetic dental procedure that removes stains and discoloration, giving your teeth a brighter, more radiant appearance. It is ideal for addressing stains caused by coffee, tea, smoking, or aging.
+                </p>
 
             </div>
         </div>
     </div>
 </section>
+
+<section class="section_color">
+    <div class="container">
+        <h4 class="root_step text-center mb-5">
+            Brighten Your Smile with Professional Teeth Whitening</h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/teeth-whitning/teethwhitning-1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                        The dentist examines your teeth and gums to determine if teeth whitening is suitable for you. They identify the cause of discoloration and recommend the best whitening method.
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <!-- <img src="./assets/img/services/dentalbraces/dentalbraces.png" alt="" class="img-fluid"> -->
+                    <img src="./assets/img/services/teeth-whitning/teethwhitnng-2.png" alt="">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                        For in-office whitening, a professional-grade whitening gel is applied to your teeth, often activated with a special light for faster results. For at-home kits, custom-fitted trays with whitening gel are provided for daily use over a prescribed period.
+
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/teeth-whitning/teethwhitning-3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                        After achieving the desired results, the dentist provides guidelines for maintaining your bright smile, including avoiding stain-causing foods, using whitening toothpaste, and scheduling regular check-ups.
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <?php include "./footer.php"; ?>
