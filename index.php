@@ -744,27 +744,27 @@
             </div>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/cosmatic.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
 
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
-                  </h3>
-                  <p>Cosmetic Treatment enhances the appearance of teeth, improving smile aesthetics.</p>
-                  <a class="read-more" href="cosmetic_treatment.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
+                                            </h3>
+                                            <p>Surgical treatment for jaw, face, and mouth.</p>
+                                            <a class="read-more" href="maxillofacial_surger.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
         </div>
       </div>
       <!-- Service Content Wrapper End -->

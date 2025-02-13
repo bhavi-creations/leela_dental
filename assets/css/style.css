@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*-----------------------------------------------------------------------------------
 
     Template Name: 
@@ -10568,6 +10581,7 @@ span{
   position: relative;
   z-index: 1000; /* Ensure it stays on top of content */
   background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
+  /* height: 100px; */
 
 }
 
@@ -10896,7 +10910,6 @@ font-size: 30px;
 
 
 
-/* Style adjustments */
 .navbar-toggler {
   order: 1; /* Place the toggle button beside the logo */
   margin-left: 10px; /* Adjust spacing between logo and toggle */
@@ -10982,9 +10995,29 @@ font-size: 30px;
     }
     }
 
+    .app_bg{
+       
+       
+      background: #FFFFFF;
+     
+      padding: 20px 50px;
+     }
+     
+     .text{
+       color: #e40080;
+       /* margin-top: -10px; */
+     }
+     
+     
+     .text_head{
+       color: #302f95;
+     
+     }
 
-
-
+     .header_bg{
+      height: 100px;
+      margin-top: 30px;
+    }
 
 
 

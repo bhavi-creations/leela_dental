@@ -4458,8 +4458,8 @@ fieldset:disabled .btn {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding-top: .5rem;
-    padding-bottom: .5rem
+    /* padding-top: .5rem;
+    padding-bottom: .5rem */
 }
 
 .navbar>.container,
