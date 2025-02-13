@@ -10954,7 +10954,7 @@ font-size: 30px;
 /* For the Navbar */
 .navbar {
   display: flex;
-  justify-content: space-between; /* Make sure logo and toggle button are spaced apart */
+  justify-content: space-between; 
   align-items: center;
 }
 
@@ -10982,3 +10982,26 @@ font-size: 30px;
     }
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
