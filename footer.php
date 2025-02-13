@@ -14,7 +14,7 @@
                              <ul class="footer-info">
                                  <img src="assets/images/brand/footer_bg.png" alt="" class="img-fluid" style="border-radius: 5px;">
 
-                                 <li class="footer_detail"><i class="ri-phone-fill"></i> +91-7674824667,9493782298 </li>
+                                 <li class="footer_detail"><i class="ri-phone-fill"></i> +91-9493782298,7674824667 </li>
                                  <!-- <li class="footer_detail"> <i class="bi bi-telephone-fill"> </i> +91-0884-2378237 </li> -->
                                  <li class="footer_detail"> <img src="assets/images/icon/1-removebg-preview.png" alt="" class="img-fluid icons"> &nbsp;</i> +91-0884-2378237 </li>
 

@@ -85,7 +85,7 @@
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
           <div class="header-item">
             <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons">
-            <p class="header-text"><strong>Mobile No:</strong><br>7674824667, 9493782298</p>
+            <p class="header-text"><strong>Mobile No:</strong><br> 9493782298,7674824667</p>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">

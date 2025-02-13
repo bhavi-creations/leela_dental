@@ -372,7 +372,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           >Dr Sahithi MDS
+                           Dr Sahithi MDS
                          </h3>
                          <h5 class="designation">CLIPS SPECIALIST</h5>
                          <div class="team-info">
@@ -416,7 +416,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           >DR.HARINI
+                           DR.HARINI
                          </h3>
                          <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
                          <div class="team-info">
