@@ -10834,16 +10834,30 @@ only screen and (max-width: 767px) {
 }
 
 
-.navbar {
-  position: relative;
-  z-index: 1000;
-  /* Ensure it stays on top of content */
-  background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
-  /* height: 100px; */
 
+
+@media (min-width:992px) {
+  .navbar {
+    position: relative;
+    z-index: 1000;
+    /* Ensure it stays on top of content */
+    background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
+    /* height: 100px; */
+  
+  }
 }
 
-
+@media (max-width:992px) {
+  .navbar {
+    position: relative;
+    z-index: 1000;
+    /* Ensure it stays on top of content */
+    background: white;
+     
+  margin-top: 10px;
+  margin-bottom:10px;
+  }
+}
 
 /* You can also adjust the navbar's padding to make it appear as you need */
 .navbar .navbar-nav {
