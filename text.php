@@ -48,7 +48,7 @@
         }
 
         /* Marquee */
-        .marquee_content {
+        .marquee_content_new {
             background-color: #007bff;
             color: white;
             padding: 8px 0;
@@ -56,7 +56,7 @@
             font-weight: bold;
         }
 
-        .marquee {
+        .marquee_scroll {
             white-space: nowrap;
         }
     </style>
@@ -66,8 +66,8 @@
 
     <!-- Marquee (Top Section) -->
     <section>
-        <div class="marquee_content">
-            <marquee behavior="scroll" direction="left" class="marquee">
+        <div class="marquee_content_new">
+            <marquee behavior="scroll" direction="left" class="marquee_scroll">
                 4700sq.ft &nbsp; | &nbsp;
                 15 years of experience &nbsp; | &nbsp;
                 7+ Doctor &nbsp; | &nbsp;

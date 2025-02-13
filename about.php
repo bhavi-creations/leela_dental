@@ -76,8 +76,8 @@
              <div class="research-content">
                <h4 class="title">Biography</h4>
                <p>
-               Dr.Y.Sunanda is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.Y.Sunanda is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual.               </p>
-             </div>
+               Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
+               </div>
            </div>
            <!-- Research Content End -->
          </div>
@@ -152,7 +152,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html"> Dr.K.V.Krishnam Raju</a>
+                           Dr.K.V.Krishnam Raju
                          </h3>
                          <h5 class="designation">Teeth Denture & implants specialist</h5>
                          <div class="team-info">
@@ -198,7 +198,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">Dr.Y.Sunanda</a>
+                          Dr.Y.Sunanda
                          </h3>
                          <h5 class="designation">ROOT Canal specialist</h5>
                          <div class="team-info">
@@ -242,7 +242,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">Dr.Masapu Anupama</a>
+                           Dr.Masapu Anupama
                          </h3>
                          <h5 class="designation">Gums &Surgery specialist</h5>
                          <div class="team-info">
@@ -286,7 +286,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">Dr. CH.KIran </a>
+                           Dr. CH.KIran 
                          </h3>
                          <h5 class="designation">clips specialist</h5>
                          <div class="team-info">
@@ -328,7 +328,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">Dr.Ganesh </a>
+                  Dr.Ganesh
                          </h3>
                          <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
                          <div class="team-info">
@@ -372,7 +372,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">Dr Sahithi MDS</a>
+                           >Dr Sahithi MDS
                          </h3>
                          <h5 class="designation">CLIPS SPECIALIST</h5>
                          <div class="team-info">
@@ -416,7 +416,7 @@
                            </li>
                          </ul> -->
                          <h3 class="name">
-                           <a href="doctor.html">DR.HARINI</a>
+                           >DR.HARINI
                          </h3>
                          <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
                          <div class="team-info">

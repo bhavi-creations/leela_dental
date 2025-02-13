@@ -1,12 +1,105 @@
 <?php include 'header.php'; ?>
 
 <!-- Slider Section Start -->
+<div class="section slider-area slider-active">
+   <!-- Single Slider Start  -->
+ <div class="single-slider bg-cover d-flex align-items-center"
+    - style="background-image: url(assets/images/slides/4.png)">
+    <div class="container">
+     
+       <!-- Slider Content Start --> 
+      <div class="slider-content">
+        <h3 class="sub-title" data-animation="fadeInDown" data-delay="0.3s">
+          We Flexible Managed Dental Services
+        </h3>
+        <h2 class="title" data-animation="fadeInUp" data-delay="0.5s">
+          High-Quality Dental Care
+        </h2>
+        <p data-animation="fadeInUp" data-delay="0.7s ">
+          Leela Dental Hospital offers comprehensive dental care with advanced technology and expert specialists to ensure healthy and beautiful smiles. We provide pain-free treatments, including root canals, dental implants, orthodontics, and cosmetic dentistry, in a hygienic and patient-friendly environment. Our mission is to deliver high-quality, affordable, and personalized dental solutions for patients of all ages.
 
 
-<section>
+        </p>
+        <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
+        <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
+      </div> 
+      <!-- Slider Content End -->
+    </div>
 
-<img src="assets/images/slider/Leela.jpg" alt="" class="img-fluid">
-</section>
+    <!-- Slider Image Start -->
+    <div class="slider-image">
+      <div class="image">
+        <img src="assets/images/slider/slider-img.png" alt="" />
+      </div>
+    </div>
+    <!-- Slider Image Start -->
+  </div>
+  <!-- Single Slider End -->
+
+  <!-- Single Slider Start -->
+  <div class="single-slider bg-cover d-flex align-items-center"
+    style="background-image: url(assets/images/slides/4.png)">
+    <div class="container">
+      <!-- Slider Content Start -->
+      <div class="slider-content">
+        <h3 class="sub-title" data-animation="fadeInDown" data-delay="0.3s">
+          We Flexible Managed Dental Services
+        </h3>
+        <h2 class="title" data-animation="fadeInUp" data-delay="0.5s">
+          High-Quality Dental Care
+        </h2>
+        <p data-animation="fadeInUp" data-delay="0.7s">
+          Leela Dental Hospital is a trusted name in modern dentistry, offering a wide range of treatments from basic oral care to advanced dental procedures. Our expert team ensures precision, comfort, and long-lasting results, making every visit a positive experience.
+
+
+        </p>
+        <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
+        <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
+      </div> 
+      <!-- Slider Content End-->
+    </div>
+
+    <!-- Slider Image Start -->
+    <div class="slider-image">
+      <div class="image">
+        <img src="assets/images/slider/slider-img.png" alt="" />
+      </div>
+    </div>
+    <!-- Slider Image Start -->
+  </div>
+  <!-- Single Slider End -->
+
+  <!-- Single Slider Start -->
+  <div class="single-slider bg-cover d-flex align-items-center"
+    style="background-image: url(assets/images/slider/Img\ \(3\).png)">
+    <div class="container">
+
+      <div class="slider-content">
+        <h3 class="sub-title" data-animation="fadeInDown" data-delay="0.3s">
+          We Flexible Managed Dental Services
+        </h3>
+        <h2 class="title" data-animation="fadeInUp" data-delay="0.5s">
+          High-Quality Dental Care
+        </h2>
+        <p data-animation="fadeInUp" data-delay="0.7s">
+          We believe that good oral health leads to overall well-being, which is why we offer personalized treatments tailored to each patient’s needs. With cutting-edge technology and a compassionate approach, we help you achieve a bright and confident smile for life.
+        </p>
+        <a class="btn" href="about.php" data-animation="fadeInUp" data-delay="0.9s">Our Doctors</a>
+        <a class="btn btn-white" href="services.php" data-animation="fadeInUp" data-delay="0.9s">Our Services</a>
+      </div>
+      <!-- Slider Content End -->
+    </div>
+
+    <!-- Slider Image Start -->
+    <div class="slider-image">
+      <div class="image">
+        <img src="assets/images/slider/slider-img.png" alt="" />
+      </div>
+    </div>
+    <!-- Slider Image Start -->
+  </div>
+  <!-- Single Slider End -->
+</div>
 <!-- Slider Section End -->
 
 
@@ -148,10 +241,7 @@
           <div class="research-content-wrapper">
             <div class="section-title research-title">
               <!-- <h3 class="sub-title">Top Research</h3> -->
-              <h2 class="title">Dr.K.V.Krishnam Raju</h2>
-
-              </a>
-                        
+              <h2 class="title">Dr.Y.Sunanda </h2>
               <p>
                 Teeth Denture & implants specialist
               </p>
@@ -159,7 +249,7 @@
             <div class="research-content">
               <h4 class="title">Biography</h4>
               <p>
-              Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
+                Dr.Y.Sunanda is a highly skilled dental professional with expertise in general and cosmetic dentistry. With years of experience, Dr.Y.Sunanda is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
             </div>
           </div>
           <!-- Research Content End -->
@@ -234,7 +324,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                           Dr.K.V.Krishnam Raju
+                          <a href="doctor.html"> Dr.K.V.Krishnam Raju</a>
                         </h3>
                         <h5 class="designation">Teeth Denture & implants specialist</h5>
                         <div class="team-info">
@@ -280,8 +370,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                          Dr.Y.Sunanda
-                          
+                          <a href="doctor.html">Dr.Y.Sunanda</a>
                         </h3>
                         <h5 class="designation">ROOT Canal specialist</h5>
                         <div class="team-info">
@@ -325,7 +414,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                       Dr.Masapu Anupama
+                          <a href="doctor.html">Dr.Masapu Anupama</a>
                         </h3>
                         <h5 class="designation">Gums &Surgery specialist</h5>
                         <div class="team-info">
@@ -369,7 +458,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                        Dr. CH.KIran 
+                          <a href="doctor.html">Dr. CH.KIran </a>
                         </h3>
                         <h5 class="designation">clips specialist</h5>
                         <div class="team-info">
@@ -411,7 +500,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                          Dr.Ganesh 
+                          <a href="doctor.html">Dr.Ganesh </a>
                         </h3>
                         <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
                         <div class="team-info">
@@ -455,7 +544,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                          Dr Sahithi MDS
+                          <a href="doctor.html">Dr Sahithi MDS</a>
                         </h3>
                         <h5 class="designation">CLIPS SPECIALIST</h5>
                         <div class="team-info">
@@ -499,7 +588,7 @@
                           </li>
                         </ul> -->
                         <h3 class="name">
-                         DR.HARINI
+                          <a href="doctor.html">DR.HARINI</a>
                         </h3>
                         <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
                         <div class="team-info">
@@ -1248,98 +1337,5 @@
        </div> 
      </div> -->
 <!--  Subscribe Area End -->
-
-<section class="blog_section  py-5">
-     <div class="container">
-       <div class="section-title text-center">
-
-         <h2 class="ask_heading mb-5">Blogs & articles </h2>
-
-       </div>
-     </div>
-
-     <div class="container">
-       <div class="row">
-
-         <?php
-          include './db.connection/db_connection.php';
-
-          // Fetch latest 3 blogs with video
-          $sql = "SELECT id, title, main_content, main_image, video FROM blogs ORDER BY created_at DESC LIMIT 3";
-          $result = $conn->query($sql);
-
-          if ($result->num_rows > 0) {
-            echo "<div class='row'>"; // Start row for card layout
-
-            while ($row = $result->fetch_assoc()) {
-              $blog_id = $row['id'];
-              $title = $row['title'];
-              $main_content = $row['main_content'];
-              $main_image = $row['main_image'];
-              $video = $row['video'];
-
-              echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
-              echo "<div class='card h-100'>"; // Start card
-
-              // Display the blog title
-              echo "<div class='card-body'>";
-
-
-              // Display video if available
-              if (!empty($video)) {
-                $video_path = "./admin/uploads/videos/{$video}";
-                echo "<video class='main-video img-fluid' controls>
-                    <source src='{$video_path}' type='video/mp4'>
-                    Your browser does not support the video tag.
-                  </video>";
-              }
-              // If no video, display main image
-              elseif (!empty($main_image)) {
-                $main_image_path = "./admin/uploads/photos/{$main_image}";
-                echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
-              }
-              echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
-              // Display a short portion of the blog content
-              echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
-
-              // Link to full blog post
-              echo "<a href='fullblog.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
-
-              echo "</div>"; // End card body
-              echo "</div>"; // End card
-              echo "</div>"; // End column
-            }
-
-            echo "</div>"; // End row
-          } else {
-            echo "No blog posts found.";
-          }
-
-          $conn->close();
-          ?>
-
-
-
-         <div class="mt-5 d-none d-md-block">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
-                 class="fa-solid fa-arrow-right mt-1"></i></p>
-           </a>
-         </div>
-
-         <div class="d-flex flex-row justify-content-center mt-4">
-           <a href="blogs.php" style="text-decoration: none;">
-             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
-           </a>
-         </div>
-
-       </div>
-     </div>
-
-   </section>
-
-
-
-
 
 <?php include 'footer.php'; ?>
