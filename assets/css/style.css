@@ -10918,19 +10918,18 @@ font-size: 30px;
   }
 
   .header-container .col-6.col-md-6.col-lg-2 {
-      order: 1;  /* Ensure the logo appears first */
-      flex: 0 0 50%;  /* Ensures logo takes up 50% width on mobile/tablet */
+      order: 1; 
+      flex: 0 0 50%; 
   }
 
   .navbar-toggler {
-      order: 2; /* Ensure the toggle button appears after the logo */
-      flex: 0 0 50%;  /* Takes up 50% width on mobile/tablet */
+      order: 2; 
+      flex: 0 0 50%;  
   }
 
-  /* Navbar will display in a single row with logo on the left and toggle button on the right */
   .navbar .navbar-toggler {
       position: absolute;
-      right: 10px;  /* Adjust for spacing */
+      right: 10px;  
   }
 }
 
@@ -10963,7 +10962,7 @@ font-size: 30px;
 @media (min-width: 992px) {
   .navbar-nav {
       display: flex;
-      justify-content: center; /* Align menu items in the center */
+      justify-content: center; 
   }
 }
 

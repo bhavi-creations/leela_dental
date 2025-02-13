@@ -1,25 +1,8 @@
 <?php include "./header.php"; ?>
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/bridges.png);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
-                <div class="page-banner-title text-center">
-                    <h2 class="title">Bridges</h2>
-                    <!--  Page Banner Breadcrumb Start -->
-                    <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Bridges</li>
-                    </ul>
-                    <!--  Page Banner Breadcrumb End -->
-                </div>
-                <!--  Page Banner Title End -->
-            </div>
-        </div>
-    </div>
-</div>
 
+
+<img src="assets/img/sliders_images/bridges.png" class="img-fluid service_img" alt="">
 
 <!-- <section class="mt-5">
     <div class="container">

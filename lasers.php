@@ -1,23 +1,8 @@
 <?php include "./header.php"; ?>
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/laser.png);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
-                <div class="page-banner-title text-center">
-                    <h2 class="title">Laser</h2>
-                    <!--  Page Banner Breadcrumb Start -->
-                    <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Laser</li>
-                    </ul>
-                    <!--  Page Banner Breadcrumb End -->
-                </div>
-                <!--  Page Banner Title End -->
-            </div>
-        </div>
-    </div>
-</div>
+
+
+<img src="assets/img/sliders_images/Laser.png" class="img-fluid service_img" alt="">
+
 
 
 <!-- <section class="mt-5">

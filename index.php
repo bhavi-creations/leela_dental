@@ -937,7 +937,9 @@
 </div>
 <!--  Appointment Section End -->
 
-<!--  Result Area Start -->
+
+
+
 <div class="section result-area section-padding-02 mt-3">
   <div class="container">
     <div class="result-wrapper">
@@ -954,36 +956,30 @@
     </div>
   </div>
 
-  <!--  Result Content Wrapper Start -->
-  <div class="result-content-wrapper">
-    <div class="result-img d-flex align-items-center bg-cover"
-      style="background-image: url(assets/images/result.png)">
-      <div class="container">
-        <div class="result-item-wrapper">
-          <!--  Result Content Start -->
-          <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="result-content text-center">
-                <h2 class="title">Before</h2>
-                <p>
-                  ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
-              </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6">
-              <div class="result-content text-center">
-                <h2 class="title">After</h2>
-                <p>
-                  avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
-              </div>
-            </div>
-          </div>
-          <!--  Result Content End -->
+<!--  Result Area Start -->
+<section>
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-lg-6 col-md-6 col-sm-6 ">
+        <img src="assets/img/before/1.png" class="img-fluid my-5" alt="">
+        <div class="result-content text-center">
+          <h2 class="title">Before</h2>
+          <p>
+            ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-6">
+        <img src="assets/img/before/2.png" class="img-fluid my-5" alt="">
+
+        <div class="result-content text-center">
+          <h2 class="title">After</h2>
+          <p>
+            avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
         </div>
       </div>
     </div>
   </div>
-  <!--  Result Content Wrapper End -->
-</div>
+</section>
 <!--  Result Area End -->
 
 <!--  Testimonial Area Start -->

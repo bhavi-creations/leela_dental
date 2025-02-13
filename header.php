@@ -72,38 +72,38 @@
 
   <!-- Header Section with Logo and Contact Info -->
   <section class="header-container">
-  <div class="container">
-    <div class="row header-row align-items-center">
-      <!-- Logo Section -->
-      <div class="col-6 col-md-6 col-lg-2 d-flex align-items-center justify-content-start">
-        <a class="navbar-brand" href="index.php">
-          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="logo img-fluid" />
-        </a>
-      </div>
-
-      <!-- Contact Info Section: Call, Email, Working Hours -->
-      <div class="col-6 col-md-6 col-lg-10 d-flex align-items-center justify-content-end">
-        <!-- Call Info -->
-        <div class="header-item d-flex align-items-center">
-          <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons me-2">
-          <p class="header-text"><strong>Mobile No:</strong><br> 9493782298, 7674824667</p>
+    <div class="container">
+      <div class="row header-row">
+        <!-- Logo Section -->
+        <div class="col-6 col-md-6 col-lg-2 d-flex align-items-center ">
+          <a class="navbar-brand" href="index.php">
+            <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="logo img-fluid" />
+          </a>
+        </div>
+        <!-- Contact Information Section (Hidden on mobile) -->
+        <!-- Contact Information Section (Hidden on mobile and tablet, visible on large devices) -->
+        <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons">
+            <p class="header-text"><strong>Mobile No:</strong><br> 9493782298,7674824667</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons">
+            <p class="header-text"><strong>Email:</strong><br>leeladentalcare123@gmail.com</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 d-none d-lg-flex align-items-center">
+          <div class="header-item">
+            <img src="assets/images/icon/time.png" alt="Time Icon" class="header_icons">
+            <p class="header-text"><strong>Working Hours:</strong><br>Mon-Sat: 10 AM - 8 PM | Sun: Closed</p>
+          </div>
         </div>
 
-        <!-- Email Info -->
-        <div class="header-item d-flex align-items-center ms-4">
-          <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons me-2">
-          <p class="header-text"><strong>Email:</strong><br> leeladentalcare123@gmail.com</p>
-        </div>
-
-        <!-- Working Hours Info -->
-        <div class="header-item d-flex align-items-center ms-4">
-          <img src="assets/images/icon/time.png" alt="Time Icon" class="header_icons me-2">
-          <p class="header-text"><strong>Working Hours:</strong><br>Mon-Sat: 10 AM - 8 PM | Sun: Closed</p>
-        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
   <!-- Navbar Section (Below Marquee) -->
   <section >
