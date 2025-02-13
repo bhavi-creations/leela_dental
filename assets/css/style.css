@@ -10988,7 +10988,7 @@ font-size: 30px;
   
   
   
-  @media (max-width:768px) {
+  @media (max-width:768px)  {
     
     .service_img{
       margin-bottom: 50px;
