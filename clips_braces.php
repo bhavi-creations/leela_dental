@@ -1,7 +1,7 @@
 <?php include "./header.php"; ?>
 
 
-<img src="assets/img/sliders_images/clips" class="img-fluid service_img" alt="">
+<img src="assets/img/sliders_images/bridges.png" class="img-fluid service_img" alt="">
 
 <!-- <section class="mt-5">
     <div class="container services_bottom">

@@ -250,10 +250,10 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
+                                                <a href="maxillofacial_surgery.php">Maxillofacial surgery</a>
                                             </h3>
 
-                                            <a class="read-more" href="maxillofacial_surger.php">Know More</a>
+                                            <a class="read-more" href="maxillofacial_surgery.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
