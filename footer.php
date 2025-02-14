@@ -192,7 +192,7 @@
      <!-- Footer Copyright Area Start -->
      <div class="footer-area-bottom theme-bg  footer_content">
          <div class="container">
-             <div class="row pt-4">
+             <div class="row ">
 
                  <div class="  col-md-6 col-12">
                      <div class="footer-widget__copyright-info info-direction">

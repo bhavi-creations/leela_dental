@@ -10676,6 +10676,9 @@ only screen and (max-width: 767px) {
   background: linear-gradient(to Left, #e446b4, #b92a7e, #d74097, #e446b4);
   color: white;
   padding: 8px 0;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
 }
 
 .marquee-content {
@@ -11011,20 +11014,20 @@ only screen and (max-width: 767px) {
   background: #302f95;
 }
 
-@media(min-width:375px) and (max-width:767px) {
+/* @media(min-width:375px) and (max-width:767px) {
   .back-to-top {
     left: 310px;
   }
-}
+} */
 
 
-@media(min-width:768px) {
+/* @media(min-width:768px) {
   .back-to-top {
     left: 705px;
   }
-}
+} */
 
-@media(min-width:992px) and (max-width:1200px) {
+/* @media(min-width:992px) and (max-width:1200px) {
   .back-to-top {
     left: 960px;
   }
@@ -11040,7 +11043,7 @@ only screen and (max-width: 767px) {
   .back-to-top {
     left: 1380px;
   }
-}
+} */
 
 / @media(min-width:375px) {
   .gap {
