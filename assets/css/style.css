@@ -10733,7 +10733,7 @@ only screen and (max-width: 767px) {
   margin: auto;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   .navbar-collapse {
     display: none !important;
   }
@@ -10742,7 +10742,7 @@ only screen and (max-width: 767px) {
     border: none;
     outline: none;
   }
-}
+} */
 
 
 .implants_treatment {
@@ -11320,3 +11320,79 @@ leeela dental @media (max-width:768px) {
 .nav_mini_img{
   width: 50%;
 }
+
+
+
+/* Enable hover dropdown */
+@media (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+}
+
+/* Fix submenu position */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+/* Style for nested submenus */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-left: 0.1rem;
+}
+
+/* Enable hover dropdown */
+@media (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+}
+
+/* Fix submenu position */
+.dropdown-menu {
+  display: none;
+  position: absolute;
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+/* Style for nested submenus */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-left: 0.1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

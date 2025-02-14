@@ -131,7 +131,7 @@
                      <div class="team-item">
                        <!-- Team Img Start -->
                        <div class="team-img">
-                         <img src="assets/images/team/team-1.jpg" alt="" />
+                       <img src="assets/images/team/krishnam.png" alt="" />
                        </div>
                        <!-- Team Img End -->
 

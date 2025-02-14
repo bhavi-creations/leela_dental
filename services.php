@@ -144,7 +144,7 @@
                                             <h3 class="title">
                                                 <a href="implants.php">Implants</a>
                                             </h3>
-                                           
+
                                             <a class="read-more" href="implants.php">Know More</a>
                                         </div>
                                     </div>
@@ -193,27 +193,7 @@
                                     <!-- Service Content End -->
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/2.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
 
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="lasers.php"> Lasers Treatment</a>
-                                            </h3>
-                                            <a class="read-more" href="lasers.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
                                     <!-- Service Img Start -->
@@ -250,7 +230,7 @@
                                             <h3 class="title">
                                                 <a href="gum_surgery.php"> Gum surgery</a>
                                             </h3>
-                                          
+
                                             <a class="read-more" href="gum_surgery.php">Know More</a>
                                         </div>
                                     </div>
@@ -272,8 +252,29 @@
                                             <h3 class="title">
                                                 <a href="maxillofacial_surger.php">Maxillofacial surgery</a>
                                             </h3>
-                                            
+
                                             <a class="read-more" href="maxillofacial_surger.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/2.png" class="img-fluid" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="lasers.php"> Lasers Treatment</a>
+                                            </h3>
+                                            <a class="read-more" href="lasers.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -287,7 +288,7 @@
                                 <div class="col-lg-8">
                                     <div class="section-title text-center">
 
-                                        <h2 class="title my-5 ">Cosmatic Services</h2>
+                                        <h2 class="title my-5 ">Cosmetic Services</h2>
                                     </div>
                                 </div>
                                 <!-- Section Title End -->
@@ -307,7 +308,7 @@
                                             <h3 class="title">
                                                 <a href="teeth_whitening.php">Teeth whitening</a>
                                             </h3>
-                                          
+
                                             <a class="read-more" href="teeth_whitening.php">Know More</a>
                                         </div>
                                     </div>
@@ -329,7 +330,7 @@
                                             <h3 class="title">
                                                 <a href="teeth_jewellery.php">Teeth jewellery </a>
                                             </h3>
-                                            
+
                                             <a class="read-more" href="teeth_jewellery.php">Know More</a>
                                         </div>
                                     </div>
@@ -342,10 +343,10 @@
 
 
 
-                          
 
 
-                        <!-- extre content -->
+
+                            <!-- extre content -->
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
                                     <!-- Service Img Start -->
@@ -361,7 +362,7 @@
                                             <h3 class="title">
                                                 <a href="clips_braces.php"> Clips or Braces</a>
                                             </h3>
-                                            
+
                                             <a class="read-more" href="clips_braces.php">Know More</a>
                                         </div>
                                     </div>
@@ -385,7 +386,7 @@
                                             <h3 class="title">
                                                 <a href="cosmetic_treatment.php">Cosmetic Treatment</a>
                                             </h3>
-                                            
+
                                             <a class="read-more" href="cosmetic_treatment.php">Know More</a>
                                         </div>
                                     </div>
@@ -396,7 +397,7 @@
 
 
 
-                            
+
 
 
                         </div>

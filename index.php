@@ -213,7 +213,7 @@
                     <div class="team-item">
                       <!-- Team Img Start -->
                       <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
+                        <img src="assets/images/team/krishnam.png" alt="" />
                       </div>
                       <!-- Team Img End -->
 
@@ -610,49 +610,6 @@
               <!-- Service Content End -->
             </div>
           </div>
-          <!-- <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-             
-              <div class="service-img">
-                <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" />
-              </div>
-           
-            
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="sterilization.php">Sterilization</a>
-                  </h3>
-                  <p>Sterilization eliminates all microbes, ensuring hygiene and safety.</p>
-                  <a class="read-more" href="sterilization.php">Know More</a>
-                </div>
-              </div>
-              
-            </div>
-          </div> -->
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/3.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="bridges.php">Bridges</a>
-                  </h3>
-
-                  <a class="read-more" href="bridges.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
           <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="service-item">
               <!-- Service Img Start -->
@@ -668,30 +625,7 @@
                   <h3 class="title">
                     <a href="rootcanal.php">Rootcanal</a>
                   </h3>
-
                   <a class="read-more" href="rootcanal.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="clips_braces.php"> Clips or Braces</a>
-                  </h3>
-
-                  <a class="read-more" href="clips_braces.php">Know More</a>
                 </div>
               </div>
               <!-- Service Content End -->
@@ -712,8 +646,29 @@
                   <h3 class="title">
                     <a href="tooth_aligners.php"> Tooth Aligners</a>
                   </h3>
-
                   <a class="read-more" href="tooth_aligners.php">Know More</a>
+                </div>
+              </div>
+              <!-- Service Content End -->
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="service-item">
+              <!-- Service Img Start -->
+              <div class="service-img">
+                <img src="assets/images/services/3.png" class="img-fluid" alt="" />
+              </div>
+              <!-- Service Img End -->
+
+              <!-- Service Content Start -->
+              <div class="service-content text-center">
+                <i class="flaticon-surgery-room"></i>
+                <div class="service-icon-wrapper">
+                  <h3 class="title">
+                    <a href="bridges.php">Bridges</a>
+                  </h3>
+                  <a class="read-more" href="bridges.php">Know More</a>
                 </div>
               </div>
               <!-- Service Content End -->
@@ -723,7 +678,7 @@
             <div class="service-item">
               <!-- Service Img Start -->
               <div class="service-img">
-                <img src="assets/images/services/2.png" class="img-fluid" alt="" />
+                <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
               </div>
               <!-- Service Img End -->
 
@@ -732,10 +687,10 @@
                 <i class="flaticon-surgery-room"></i>
                 <div class="service-icon-wrapper">
                   <h3 class="title">
-                    <a href="lasers.php"> Lasers</a>
+                    <a href="gum_surgery.php"> Gum surgery</a>
                   </h3>
 
-                  <a class="read-more" href="lasers.php">Know More</a>
+                  <a class="read-more" href="gum_surgery.php">Know More</a>
                 </div>
               </div>
               <!-- Service Content End -->
@@ -758,6 +713,27 @@
                   </h3>
 
                   <a class="read-more" href="maxillofacial_surger.php">Know More</a>
+                </div>
+              </div>
+              <!-- Service Content End -->
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="service-item">
+              <!-- Service Img Start -->
+              <div class="service-img">
+                <img src="assets/images/services/2.png" class="img-fluid" alt="" />
+              </div>
+              <!-- Service Img End -->
+
+              <!-- Service Content Start -->
+              <div class="service-content text-center">
+                <i class="flaticon-surgery-room"></i>
+                <div class="service-icon-wrapper">
+                  <h3 class="title">
+                    <a href="lasers.php"> Lasers Treatment</a>
+                  </h3>
+                  <a class="read-more" href="lasers.php">Know More</a>
                 </div>
               </div>
               <!-- Service Content End -->
