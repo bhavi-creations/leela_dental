@@ -180,7 +180,7 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/aligers.png" alt="" />
+                                        <img src="assets/images/services/clip.png" alt="" />
                                     </div>
                                     <!-- Service Img End -->
 
@@ -366,7 +366,7 @@
                                 <div class="service-item">
                                    
                                     <div class="service-img">
-                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/composite_fillers.png" class="img-fluid" alt="" />
                                     </div>
                        
                                     <div class="service-content text-center">

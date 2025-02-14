@@ -60,10 +60,11 @@ $result = $stmt->get_result();
       <a href="blogs.php?service=Implants"><button class="redirect_blog_srivice">Implants</button></a>
       <a href="blogs.php?service=Root Canal"><button class="redirect_blog_srivice">Root Canal</button></a>
       <a href="blogs.php?service=Tooth Aligners"><button class="redirect_blog_srivice">Tooth Aligners</button></a>
+      <a href="blogs.php?service=Crowns Bridges"><button class="redirect_blog_srivice">Crowns & Bridges</button></a>
       <a href="blogs.php?service=Bridges"><button class="redirect_blog_srivice">Bridges</button></a>
       <a href="blogs.php?service=Gum Surgery"><button class="redirect_blog_srivice"> Gum Surgery</button></a>
 
-     
+      <a href="blogs.php?service=Pediatric Dentistry"><button class="redirect_blog_srivice">Pediatric Dentistry  </button></a>
       <a href="blogs.php?service=Maxillofacial Surger"><button class="redirect_blog_srivice">Maxillofacial Surgery</button></a>
       <a href="blogs.php?service=Laser Treatment"><button class="redirect_blog_srivice">Laser Treatment</button></a>
       <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>
