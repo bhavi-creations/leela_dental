@@ -217,7 +217,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -263,7 +263,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -308,7 +308,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -352,7 +352,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -394,7 +394,7 @@
                         <img src="assets/images/team/team-1.jpg" alt="" />
                       </div>
 
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -438,7 +438,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -482,7 +482,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                      <div class="team-content text-center mt-5">
+                    <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -569,7 +569,7 @@
 
 <!-- Service Section Start -->
 <div class="section service-area section-padding">
-  <img class="shape d-none d-md-block" src="assets/images/s-shape.png" alt="" />
+  <img class="shape d-none d-md-block" src="assets/images/12.png" alt="" />
   <div class="container">
     <!-- Service Wrapper Start -->
     <div class="service-wrapper">
@@ -578,7 +578,7 @@
         <div class="col-lg-8">
           <div class="section-title text-center">
 
-            <h2 class="title">Our Best Dental Services</h2>
+            <h2 class="title"> Dental Services</h2>
           </div>
         </div>
         <!-- Section Title End -->

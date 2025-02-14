@@ -60,22 +60,21 @@ $result = $stmt->get_result();
       <a href="blogs.php?service=Implants"><button class="redirect_blog_srivice">Implants</button></a>
       <a href="blogs.php?service=Root Canal"><button class="redirect_blog_srivice">Root Canal</button></a>
       <a href="blogs.php?service=Tooth Aligners"><button class="redirect_blog_srivice">Tooth Aligners</button></a>
+      <a href="blogs.php?service=Clips Braces"><button class="redirect_blog_srivice">Clips or Braces</button></a>
       <a href="blogs.php?service=Crowns Bridges"><button class="redirect_blog_srivice">Crowns & Bridges</button></a>
-      <a href="blogs.php?service=Bridges"><button class="redirect_blog_srivice">Bridges</button></a>
       <a href="blogs.php?service=Gum Surgery"><button class="redirect_blog_srivice"> Gum Surgery</button></a>
-
       <a href="blogs.php?service=Pediatric Dentistry"><button class="redirect_blog_srivice">Pediatric Dentistry  </button></a>
-      <a href="blogs.php?service=Maxillofacial Surger"><button class="redirect_blog_srivice">Maxillofacial Surgery</button></a>
+      <a href="blogs.php?service=Maxillofacial Surgery"><button class="redirect_blog_srivice">Maxillofacial Surgery</button></a>
       <a href="blogs.php?service=Laser Treatment"><button class="redirect_blog_srivice">Laser Treatment</button></a>
       <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>
       <a href="blogs.php?service=Veneers"><button class="redirect_blog_srivice">Veneers</button></a>
       <a href="blogs.php?service=Composite Filler"><button class="redirect_blog_srivice">Composite Fillings</button></a>
+
       
       <a href="blogs.php?service=Teeth Jewellery"><button class="redirect_blog_srivice">Teeth Jewellery</button></a>
       
     </div>
   </div>
-
   <!-- Blogs Section -->
   <div class="container blog-sidebar-list" style="padding-top: 20px; padding-bottom: 20px;">
     <div class="row">

@@ -118,7 +118,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -166,7 +166,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -210,7 +210,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -254,7 +254,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -296,7 +296,7 @@
                          <img src="assets/images/team/team-1.jpg" alt="" />
                        </div>
 
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -340,7 +340,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -384,7 +384,7 @@
                        <!-- Team Img End -->
 
                        <!-- Team Content Start -->
-                       <div class="team-content text-center mt-5">
+                     <div class="team-content text-center my-3 py-3">
                          <!-- <ul class="social">
                            <li>
                              <a href="#"><i class="ri-facebook-fill"></i></a>

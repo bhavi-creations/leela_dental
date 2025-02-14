@@ -149,7 +149,11 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="bridges.php"> Clips or Bridges</a>
+                                     <a href="clips_braces.php"> Clips or Braces</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="bridges.php"> Crowns & Bridges</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
