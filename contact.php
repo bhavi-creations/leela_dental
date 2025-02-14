@@ -119,8 +119,8 @@
                                         <i class="ri-phone-fill"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p>+91-91006 86678 </p>
-                                        <p>+91-94937 82298</p>
+                                        <p>+91-9493782298, &nbsp;7674824667  </p>
+                                       
                                     </div>
                                 </div>
                             </li>
