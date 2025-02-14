@@ -6,11 +6,11 @@
             <div class="col-lg-12">
                 <!--  Page Banner Title Start -->
                 <div class="page-banner-title text-center">
-                    <h2 class="title">Dental CT Scan</h2>
+                    <h2 class="title">Dental Scanner</h2>
                     <!--  Page Banner Breadcrumb Start -->
                     <ul class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">dental-CT-Scan</li>
+                        <li class="breadcrumb-item active" aria-current="page">Dental Scanner</li>
                     </ul>
                     <!--  Page Banner Breadcrumb End -->
                 </div>
@@ -54,7 +54,7 @@
             <div class="about-wrapper">
                 <div class="container implants_content ">
                     <h1 class="text-center">
-                        Dental CT Scan Equipment</h1>
+                        Dental Scanner Equipment</h1>
                     <p class="text-center"> Advanced Imaging for Precise Diagnosis
                         Revolutionizing Treatment Planning with 3D Imaging Technology </p>
                 </div>
@@ -73,12 +73,12 @@
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
                                 <!-- A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy. -->
-                                At Leela Dental, we utilize the latest Dental CT Scan (Cone Beam Computed Tomography) technology to offer the most advanced imaging solutions available. This revolutionary technology allows us to obtain highly detailed, three-dimensional images of the teeth, jaw, and surrounding structures, facilitating accurate diagnoses and the development of tailored treatment plans.
+                                A dental scanner provides a detailed digital impression of your teeth, ensuring accuracy in diagnosis and treatment. At Krishna Dental Cure, Rajahmundry, we use advanced 3D intraoral scanning technology to replace traditional impressions, offering a comfortable, quick, and highly precise solution for various dental procedures.
 
 
                             </p>
                             <p>
-                                This advanced imaging technique is commonly used for dental implant planning, root canal evaluation, wisdom tooth extraction, orthodontic treatment, and diagnosing jaw disorders or oral pathologies. It helps in detecting hidden infections, bone abnormalities, and nerve positions, ensuring safe and effective treatment.
+                            Unlike traditional molds, a dental scanner captures high-resolution 3D images in seconds, improving treatment planning for braces, crowns, and implants. This painless, mess-free process ensures better-fitting restorations and enhances patient comfort, making procedures like aligners, veneers, and bite analysis more efficient and accurate.
                             </p>
                         </div>
 

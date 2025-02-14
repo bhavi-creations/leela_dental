@@ -12,7 +12,7 @@
 
             <div class="service_contain_text">
 
-                <h1 class="implants_treatment">Composite Filler</h1>
+                <h1 class="implants_treatment">Composite Fillings</h1>
                 <p>
                 Composite filling treatment is a restorative dental procedure used to repair decayed, chipped, cracked, or worn-down teeth. Unlike traditional silver (amalgam) fillings, composite fillings are made from a tooth-colored resin material, providing a natural and seamless appearance.
                 </p>
@@ -27,7 +27,7 @@
 <section class="section_color my-5">
     <div class="container">
         <h4 class="root_step text-center mt-5">
-        Composite Filler
+        Composite Fillings
         </h4>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">

@@ -4,17 +4,17 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
+               
                 <div class="page-banner-title text-center">
                     <h2 class="title">Cosmetic-Treatment</h2>
-                    <!--  Page Banner Breadcrumb Start -->
+                  
                     <ul class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Cosmetic-Treatment</li>
                     </ul>
-                    <!--  Page Banner Breadcrumb End -->
+                  
                 </div>
-                <!--  Page Banner Title End -->
+               
             </div>
         </div>
     </div>

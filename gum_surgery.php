@@ -101,7 +101,7 @@
 <section class="section_color my-5">
     <div class="container">
         <h4 class="root_step text-center mt-5">
-            Gum surger
+            Gum Surgery
         </h4>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">

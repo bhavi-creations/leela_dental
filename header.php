@@ -61,11 +61,12 @@
   <section class="marquee-section">
     <div class="marquee_content">
       <marquee behavior="scroll" direction="left" class="marquee">
-        4700sq.ft &nbsp; | &nbsp;
+        4500sq.ft &nbsp; | &nbsp;
         15 years of experience &nbsp; | &nbsp;
-        7+ Doctor highly professional and qualified&nbsp; | &nbsp;
-        Highend Equipment &nbsp; | &nbsp;
-        EHS Available
+        7+ Dental Chairs &nbsp; | &nbsp;
+        Advanced  Equipment &nbsp; | &nbsp;
+        EHS Available&nbsp; | &nbsp;
+        NABH &nbsp;Accreditation
       </marquee>
     </div>
   </section>
@@ -85,7 +86,7 @@
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
           <div class="header-item">
             <img src="assets/images/icon/call.png" alt="Call Icon" class="header_icons">
-            <p class="header-text">Mobile No:<br><strong> 9493782298,7674824667 </strong></p>
+            <p class="header-text">Mobile No:<br><strong> 9493782298, 7674824667 </strong></p>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
@@ -135,8 +136,10 @@
                     <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                     <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                     <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
-                    <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
+                    <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                     <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                    <li><a class="dropdown-item" href="pediatric_dentist.php">Pediatric Dentist </a></li>
+
                     <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                     <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
                   </ul>
@@ -146,7 +149,7 @@
                   <ul class="dropdown-menu submenu">
                     <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
                     <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
-                    <li><a class="dropdown-item" href="composite_filler.php">Composite Filler</a></li>
+                    <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
                     <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
                   </ul>
                 </li>
@@ -157,7 +160,7 @@
                 Equipment
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
+                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner</a></li>
                 <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
                 <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
               </ul>
@@ -214,7 +217,7 @@
                   <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                   <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                   <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
-                  <li><a class="dropdown-item" href="bridges.php">Bridges</a></li>
+                  <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                   <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
                   <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                   <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
@@ -225,7 +228,7 @@
                 <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
                   <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
                   <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
-                  <li><a class="dropdown-item" href="composite_filler.php">Composite Filler</a></li>
+                  <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
                   <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
                 </ul>
               </li>
@@ -236,7 +239,7 @@
           <li class="nav-item dropdown" id="equipmentDropdown">
             <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
             <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
-              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
+              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner </a></li>
               <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
               <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
             </ul>
@@ -313,3 +316,4 @@
 });
 
 </script>
+

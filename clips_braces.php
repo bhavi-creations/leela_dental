@@ -25,7 +25,7 @@
 </section> -->
 
 
-<section>
+<!-- <section>
     <div class="section about-area section-padding">
         <div class="container">
             <div class="about-wrapper">
@@ -64,5 +64,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+
+
+
+
+
 <?php include "./footer.php"; ?>

@@ -118,7 +118,7 @@
                         <div class="col-lg-8">
                             <div class="section-title text-center">
 
-                                <h2 class="title  ">Our Dental Services</h2>
+                                <h2 class="title  "> Dental Treatments</h2>
                             </div>
                         </div>
                         <!-- Section Title End -->
@@ -288,7 +288,7 @@
                                 <div class="col-lg-8">
                                     <div class="section-title text-center">
 
-                                        <h2 class="title my-5 ">Cosmetic Dental Services</h2>
+                                        <h2 class="title my-5 ">Cosmetic  Treatments</h2>
                                     </div>
                                 </div>
                                 <!-- Section Title End -->

@@ -108,7 +108,7 @@
 
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="composite_filler.php"> Composit Filler</a>
+                                     <a href="composite_filler.php"> Composit Fillings</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
