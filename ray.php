@@ -71,7 +71,7 @@
 
 </p>
 <p>
-<strong>What is 3D X-Ray in Dentistry?</strong>
+
 3D X-ray imaging, also known as Cone Beam Computed Tomography (CBCT), is an advanced imaging technique that produces three-dimensional images of the teeth, jaw, and surrounding structures. Unlike traditional 2D X-rays, which can only show a flat image of the area, 3D X-rays create detailed cross-sectional images, providing a more comprehensive view.
 </p>
                             

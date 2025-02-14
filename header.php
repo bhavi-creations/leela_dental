@@ -205,12 +205,12 @@
           </li>
 
           <!-- Services Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button">Services</a>
-            <ul class="dropdown-menu">
+          <li class="nav-item dropdown" id="servicesDropdown">
+            <a class="nav-link" href="services.php" onclick="toggleSubMenu(event, 'servicesSubmenu')">Services</a>
+            <ul class="dropdown-menu" id="servicesSubmenu" style="display: none;">
               <li class="dropdown-submenu">
-                <a class="dropdown-item dropdown-toggle" href="#">Dental Treatment</a>
-                <ul class="dropdown-menu">
+                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'dentalTreatmentSubmenu')">Dental Treatment</a>
+                <ul class="dropdown-menu" id="dentalTreatmentSubmenu" style="display: none;">
                   <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                   <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                   <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
@@ -221,8 +221,8 @@
                 </ul>
               </li>
               <li class="dropdown-submenu">
-                <a class="dropdown-item dropdown-toggle" href="#">Cosmetic Treatment</a>
-                <ul class="dropdown-menu">
+                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'cosmeticTreatmentSubmenu')">Cosmetic Treatment</a>
+                <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
                   <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
                   <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
                   <li><a class="dropdown-item" href="composite_filler.php">Composite Filler</a></li>
@@ -233,9 +233,9 @@
           </li>
 
           <!-- Equipment Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="equipment.php" id="equipmentDropdown" role="button">Equipment</a>
-            <ul class="dropdown-menu">
+          <li class="nav-item dropdown" id="equipmentDropdown">
+            <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
+            <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
               <li><a class="dropdown-item" href="dental_ct_scan.php">Dental CT-Scan</a></li>
               <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
               <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
@@ -297,29 +297,19 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-  // Enable dropdowns on hover
-  document.querySelectorAll(".dropdown").forEach(function (dropdown) {
-    dropdown.addEventListener("mouseenter", function () {
-      let menu = this.querySelector(".dropdown-menu");
-      menu.classList.add("show");
-    });
-    dropdown.addEventListener("mouseleave", function () {
-      let menu = this.querySelector(".dropdown-menu");
-      menu.classList.remove("show");
-    });
-  });
+  // Toggle submenus when clicked
+  function toggleSubMenu(event, submenuId) {
+    event.preventDefault(); // Prevent the default link action (redirect)
+    const submenu = document.getElementById(submenuId);
+    if (submenu.style.display === "none" || submenu.style.display === "") {
+      submenu.style.display = "block";
+    } else {
+      submenu.style.display = "none";
+    }
+  }
 
-  // Enable nested submenus
-  document.querySelectorAll(".dropdown-submenu").forEach(function (submenu) {
-    submenu.addEventListener("mouseenter", function () {
-      let subMenu = this.querySelector(".dropdown-menu");
-      if (subMenu) subMenu.classList.add("show");
-    });
-    submenu.addEventListener("mouseleave", function () {
-      let subMenu = this.querySelector(".dropdown-menu");
-      if (subMenu) subMenu.classList.remove("show");
-    });
-  });
+  // Add click event to each "Services" and "Equipment" submenu
+  window.toggleSubMenu = toggleSubMenu;
 });
 
 </script>
