@@ -136,6 +136,7 @@
                     <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                     <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                     <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                    <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
                     <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                     <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
                     <li><a class="dropdown-item" href="pediatric_dentist.php">Pediatric Dentist </a></li>
@@ -217,6 +218,7 @@
                   <li><a class="dropdown-item" href="implants.php">Implants</a></li>
                   <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                   <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                  <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
                   <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                   <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
                   <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>

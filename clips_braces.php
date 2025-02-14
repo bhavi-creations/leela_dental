@@ -3,69 +3,64 @@
 
 <img src="assets/img/sliders_images/bridges.png" class="img-fluid service_img" alt="">
 
-<!-- <section class="mt-5">
-    <div class="container services_bottom">
+<section class="service_section my-5">
+    <div class="container">
         <div class="row">
-            <div class="col-12 col-md-6  animate__animated animate__fadeInRight">
+
+            <div class="service_contain_text">
+
+                <h1 class="implants_treatment">Clips or Braces</h1>
                 <p>
-                Clips and braces, commonly known as orthodontic braces, are an effective and widely used treatment option for correcting misaligned teeth, bite issues, and other dental irregularities. They play a crucial role in improving both the function and appearance of your smile by gradually shifting teeth into the correct position over time. This treatment is typically recommended for children, teens, and adults who have concerns about crooked teeth, overbites, underbites, or other orthodontic issues.
+                Braces are highly effective orthodontic tools used to treat a variety of dental issues, including overcrowded teeth, gaps, overbites, underbites, and crossbites. By applying gentle, consistent pressure over time, braces gradually shift the teeth into their proper position, resulting in a more aligned and functional bite.
 
+</p>
 
-
-
-                </p>
                 
             </div>
-            <div class="col-md-6 col-12 animate__animated animate__FadeInRight service_image ">
-                <img src="assets/images/services2/clips.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-            </div>
         </div>
-
     </div>
-</section> -->
+</section>
 
 
-<!-- <section>
-    <div class="section about-area section-padding">
-        <div class="container">
-            <div class="about-wrapper">
+<section class="section_color my-5">
+    <div class="container">
+        <h4 class="root_step text-center mt-5">
+        Clips or Braces
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    A comprehensive orthodontic examination, including X-rays and digital scans, is conducted to assess teeth alignment and jaw structure. The orthodontist discusses treatment options and recommends the most suitable type of braces based on individual needs.
 
-                <div class="container implants_content">
-                    <h1 class="text-center ">
-                        Clips-Braces Treatment </h1>
-                    <p class="text-center"> Transform Your Smile with Effective Orthodontics
-                        Achieving Perfect Alignment and Enhanced Confidence Through Braces</p>
+</p>
                 </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Braces are carefully placed on the teeth, and gentle pressure is applied to gradually shift them into alignment. Regular follow-up visits are scheduled for adjustments, ensuring steady progress and maximum comfort throughout the treatment.
 
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-img service_image">
-                            <img src="assets/images/services2/clips.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-
-                        <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-                            <p>
-                                Clips and braces, commonly known as orthodontic braces, are an effective and widely used treatment option for correcting misaligned teeth, bite issues, and other dental irregularities. They play a crucial role in improving both the function and appearance of your smile by gradually shifting teeth into the correct position over time. This treatment is typically recommended for children, teens, and adults who have concerns about crooked teeth, overbites, underbites, or other orthodontic issues.
-
-                            </p>
-                            <p>
-                                Traditional braces consist of metal brackets attached to the front surface of the teeth, connected by a wire and secured with small elastic bands (clips). These components work together to apply gentle pressure on the teeth, gradually moving them into proper alignment. The treatment plan is customized based on the patient's specific needs and can take anywhere from several months to a few years, depending on the complexity of the case.
-
-                            </p>
-                        </div>
-
-                    </div>
+</p>
                 </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/composit_treatment/composit_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    Once the treatment is complete, braces are removed, and a retainer is provided to maintain the newly aligned teeth. Good oral hygiene, dietary precautions, and routine dental check-ups help preserve long-lasting results and a beautiful smile.
 
+</p>
+                </div>
             </div>
         </div>
     </div>
-</section> -->
-
+</section>
 
 
 
