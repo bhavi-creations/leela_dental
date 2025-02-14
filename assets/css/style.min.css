@@ -5191,8 +5191,8 @@ only screen and (max-width: 767px) {
 .team-content .team-info {
     border-top: 2px solid #E5ECFF;
     padding-top: 30px;
-    margin-top: 30px;
-    padding-bottom: 30px
+    margin-top: 10px;
+    padding-bottom: 10px
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px),

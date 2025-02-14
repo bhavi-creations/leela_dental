@@ -1,23 +1,5 @@
 <?php include "header.php"; ?>
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/services.png);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
-                <div class="page-banner-title text-center">
-                    <h2 class="title">Equipment</h2>
-                    <!--  Page Banner Breadcrumb Start -->
-                    <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Equipment</li>
-                    </ul>
-                    <!--  Page Banner Breadcrumb End -->
-                </div>
-                <!--  Page Banner Title End -->
-            </div>
-        </div>
-    </div>
-</div>
+<img src="assets/img/sliders_images/3.png" class="img-fluid " alt="">
 
 
 
@@ -61,7 +43,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="dental_ct_scan.php"> Dental CT Scan</a>
+                                                <a href="dental_ct_scan.php"> Dental Scanner</a>
                                             </h3>
                                             <a class="read-more" href="dental_ct_scan.php">Know More</a>
                                         </div>

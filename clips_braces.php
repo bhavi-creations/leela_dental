@@ -1,7 +1,7 @@
 <?php include "./header.php"; ?>
 
 
-<img src="assets/img/sliders_images/bridges.png" class="img-fluid service_img" alt="">
+<img src="assets/img/sliders_images/Clips.png" class="img-fluid service_img" alt="">
 
 <section class="service_section my-5">
     <div class="container">
@@ -30,7 +30,7 @@
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">
-                    <img src="./assets/img/services/composit_treatment/composit_treatment_1.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/braces/braces_1.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step1</h4>
                     <p>
                     A comprehensive orthodontic examination, including X-rays and digital scans, is conducted to assess teeth alignment and jaw structure. The orthodontist discusses treatment options and recommends the most suitable type of braces based on individual needs.
@@ -40,7 +40,7 @@
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/composit_treatment/composit_treatment_2.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/braces/braces_2.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step2</h4>
                     <p>
                     Braces are carefully placed on the teeth, and gentle pressure is applied to gradually shift them into alignment. Regular follow-up visits are scheduled for adjustments, ensuring steady progress and maximum comfort throughout the treatment.
@@ -50,7 +50,7 @@
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="./assets/img/services/composit_treatment/composit_treatment_3.png" alt="" class="img-fluid">
+                    <img src="./assets/img/services/braces/braces_3.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step3</h4>
                     <p>
                     Once the treatment is complete, braces are removed, and a retainer is provided to maintain the newly aligned teeth. Good oral hygiene, dietary precautions, and routine dental check-ups help preserve long-lasting results and a beautiful smile.

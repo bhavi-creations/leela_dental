@@ -1,24 +1,7 @@
 <?php include 'header.php'; ?>
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/services.png);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
-                <div class="page-banner-title text-center">
-                    <h2 class="title">Services</h2>
-                    <!--  Page Banner Breadcrumb Start -->
-                    <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Services</li>
-                    </ul>
-                    <!--  Page Banner Breadcrumb End -->
-                </div>
-                <!--  Page Banner Title End -->
-            </div>
-        </div>
-    </div>
-</div>
+<img src="assets/img/sliders_images/2.png" class="img-fluid " alt="">
+
 <!--  Page Banner Area End -->
 <!-- Features Section Start -->
 <!-- <div class="section features-area section-padding">
@@ -193,6 +176,27 @@
                                     <!-- Service Content End -->
                                 </div>
                             </div>
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/aligers.png" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="clips_braces.php"> Clips or Braces</a>
+                                            </h3>
+                                            <a class="read-more" href="clips_braces.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
 
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
@@ -207,7 +211,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="bridges.php">Bridges</a>
+                                                <a href="bridges.php">Crowns & Bridges </a>
                                             </h3>
                                             <a class="read-more" href="bridges.php">Know More</a>
                                         </div>
@@ -232,6 +236,28 @@
                                             </h3>
 
                                             <a class="read-more" href="gum_surgery.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/pediatric.png" class="img-fluid" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="pediatric_dentist.php"> Pediatric Dentist</a>
+                                            </h3>
+
+                                            <a class="read-more" href="pediatric_dentist.php">Know More</a>
                                         </div>
                                     </div>
                                     <!-- Service Content End -->
@@ -284,7 +310,7 @@
 
                             <!-- cosmatic  -->
                             <div class="row justify-content-center">
-                                <!-- Section Title Start -->
+                             
                                 <div class="col-lg-8">
                                     <div class="section-title text-center">
 
@@ -317,6 +343,48 @@
                             </div>
                             <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
+                                   
+                                    <div class="service-img">
+                                        <img src="assets/images/services/5.jpg" class="img-fluid" alt="" />
+                                    </div>
+                       
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="veneers.php"> Veneers</a>
+                                            </h3>
+
+                                            <a class="read-more" href="veneers.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    >
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                   
+                                    <div class="service-img">
+                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
+                                    </div>
+                       
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="composite_filler.php">Composite Fillings</a>
+                                            </h3>
+
+                                            <a class="read-more" href="composite_filler.php">Know More</a>
+                                        </div>
+                                    </div>
+                                   
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
                                         <img src="assets/images/services/jewellwery.png" class="" alt="" />
@@ -347,39 +415,18 @@
 
 
                             <!-- extre content -->
-                            <div class="col-lg-3 col-md-4 col-sm-6">
+                          
+
+
+                            <!-- <div class="col-lg-3 col-md-4 col-sm-6">
                                 <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/clips.png" class="img-fluid" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
-
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="clips_braces.php"> Clips or Braces</a>
-                                            </h3>
-
-                                            <a class="read-more" href="clips_braces.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
-
-
-                            <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
+                                  
                                     <div class="service-img">
                                         <img src="assets/images/services/cosmatic.png" class="img-fluid" alt="" />
                                     </div>
-                                    <!-- Service Img End -->
+                              
 
-                                    <!-- Service Content Start -->
+                               
                                     <div class="service-content text-center">
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
@@ -390,9 +437,9 @@
                                             <a class="read-more" href="cosmetic_treatment.php">Know More</a>
                                         </div>
                                     </div>
-                                    <!-- Service Content End -->
+                                  
                                 </div>
-                            </div>
+                            </div> -->
 
 
 

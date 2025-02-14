@@ -1,25 +1,7 @@
 <?php include 'header.php'; ?>
 
 
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/img/sliders_images/total_slider.png);">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <!--  Page Banner Title Start -->
-        <div class="page-banner-title text-center">
-          <h2 class="title">About Us</h2>
-          <!--  Page Banner Breadcrumb Start -->
-          <ul class="breadcrumb justify-content-center">
-            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-            <li class="breadcrumb-item active" aria-current="page">About Us</li>
-          </ul>
-          <!--  Page Banner Breadcrumb End -->
-        </div>
-        <!--  Page Banner Title End -->
-      </div>
-    </div>
-  </div>
-</div>
+<img src="assets/img/sliders_images/1.png" class="img-fluid " alt="">
 
 
 
@@ -155,7 +137,9 @@
                            Dr.K.V.Krishnam Raju
                          </h3>
                          <h5 class="designation">Teeth Denture & implants specialist</h5>
-                         <div class="team-info">
+                         <!-- <div class="team-info"> -->
+                         <div class="">
+
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -201,7 +185,7 @@
                           Dr.Y.Sunanda
                          </h3>
                          <h5 class="designation">ROOT Canal specialist</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -245,7 +229,7 @@
                            Dr.Masapu Anupama
                          </h3>
                          <h5 class="designation">Gums &Surgery specialist</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -289,7 +273,7 @@
                            Dr. CH.KIran 
                          </h3>
                          <h5 class="designation">clips specialist</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -331,7 +315,7 @@
                   Dr.Ganesh
                          </h3>
                          <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -375,7 +359,7 @@
                            Dr Sahithi MDS
                          </h3>
                          <h5 class="designation">CLIPS SPECIALIST</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>
@@ -419,7 +403,7 @@
                            DR.HARINI
                          </h3>
                          <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
-                         <div class="team-info">
+                         <div class="">
                            <!-- <ul>
                              <li>
                                <i class="ri-mail-unread-fill"></i>

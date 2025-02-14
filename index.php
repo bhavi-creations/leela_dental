@@ -236,7 +236,7 @@
                           Dr.K.V.Krishnam Raju
                         </h3>
                         <h5 class="designation">Teeth Denture & implants specialist</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -283,7 +283,7 @@
 
                         </h3>
                         <h5 class="designation">ROOT Canal specialist</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -327,7 +327,7 @@
                           Dr.Masapu Anupama
                         </h3>
                         <h5 class="designation">Gums &Surgery specialist</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -371,7 +371,7 @@
                           Dr. CH.KIran
                         </h3>
                         <h5 class="designation">clips specialist</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -413,7 +413,7 @@
                           Dr.Ganesh
                         </h3>
                         <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -457,7 +457,7 @@
                           Dr Sahithi MDS
                         </h3>
                         <h5 class="designation">CLIPS SPECIALIST</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -501,7 +501,7 @@
                           DR.HARINI
                         </h3>
                         <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
-                        <div class="team-info">
+                        <div class="">
                           <!-- <ul>
                             <li>
                               <i class="ri-mail-unread-fill"></i>
@@ -651,6 +651,27 @@
               <!-- Service Content End -->
             </div>
           </div>
+          <div class="col-lg-3 col-md-4 col-sm-6">
+                                <div class="service-item">
+                                    <!-- Service Img Start -->
+                                    <div class="service-img">
+                                        <img src="assets/images/services/aligers.png" alt="" />
+                                    </div>
+                                    <!-- Service Img End -->
+
+                                    <!-- Service Content Start -->
+                                    <div class="service-content text-center">
+                                        <i class="flaticon-surgery-room"></i>
+                                        <div class="service-icon-wrapper">
+                                            <h3 class="title">
+                                                <a href="clips_braces.php"> Clips or Braces</a>
+                                            </h3>
+                                            <a class="read-more" href="clips_braces.php">Know More</a>
+                                        </div>
+                                    </div>
+                                    <!-- Service Content End -->
+                                </div>
+                            </div>
 
           <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="service-item">
@@ -665,7 +686,7 @@
                 <i class="flaticon-surgery-room"></i>
                 <div class="service-icon-wrapper">
                   <h3 class="title">
-                    <a href="bridges.php">Bridges</a>
+                    <a href="bridges.php">Crowns & Bridges </a>
                   </h3>
                   <a class="read-more" href="bridges.php">Know More</a>
                 </div>

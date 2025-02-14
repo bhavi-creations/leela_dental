@@ -146,7 +146,7 @@
                   </ul>
                 </li>
                 <li class="dropdown-submenu">
-                  <a class="dropdown-item" href="cosmetic_services.php">Cosmetic Services</a>
+                  <a class="dropdown-item" href="cosmetic_services.php">Cosmetic Treatment</a>
                   <ul class="dropdown-menu submenu">
                     <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
                     <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>

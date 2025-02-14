@@ -149,11 +149,15 @@
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
-                                     <a href="bridges.php"> Bridges</a>
+                                     <a href="bridges.php"> Clips or Bridges</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>
                                      <a href="gum_surgery.php"> Gum Surgery</a>
+                                 </li>
+                                 <li>
+                                     <i class="ri-check-line"></i>
+                                     <a href="pediatric_dentist.php"> Pediatric Dentist</a>
                                  </li>
                                  <li>
                                      <i class="ri-check-line"></i>

@@ -64,11 +64,11 @@ $result = $stmt->get_result();
       <a href="blogs.php?service=Gum Surgery"><button class="redirect_blog_srivice"> Gum Surgery</button></a>
 
      
-      <a href="blogs.php?service=Maxillofacial Surger"><button class="redirect_blog_srivice">Maxillofacial Surger</button></a>
+      <a href="blogs.php?service=Maxillofacial Surger"><button class="redirect_blog_srivice">Maxillofacial Surgery</button></a>
       <a href="blogs.php?service=Laser Treatment"><button class="redirect_blog_srivice">Laser Treatment</button></a>
       <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>
       <a href="blogs.php?service=Veneers"><button class="redirect_blog_srivice">Veneers</button></a>
-      <a href="blogs.php?service=Composite Filler"><button class="redirect_blog_srivice">Composite Filler</button></a>
+      <a href="blogs.php?service=Composite Filler"><button class="redirect_blog_srivice">Composite Fillings</button></a>
       
       <a href="blogs.php?service=Teeth Jewellery"><button class="redirect_blog_srivice">Teeth Jewellery</button></a>
       

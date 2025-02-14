@@ -3,26 +3,7 @@
 
 
 
-
-<div class="section bg-cover page-banner-area d-flex align-items-center" style="background-image: url(assets/images/slides/contact_us.png);">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!--  Page Banner Title Start -->
-                <div class="page-banner-title text-center">
-                    <h2 class="title">Contact Us</h2>
-                    <!--  Page Banner Breadcrumb Start -->
-                    <ul class="breadcrumb justify-content-center">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
-                    </ul>
-                    <!--  Page Banner Breadcrumb End -->
-                </div>
-                <!--  Page Banner Title End -->
-            </div>
-        </div>
-    </div>
-</div>
+<img src="assets/img/sliders_images/4.png" class="img-fluid " alt="">
 <!--  Page Banner Area End -->
 <!--  Contact Area Start -->
 <div class="section contact-area section-padding">
