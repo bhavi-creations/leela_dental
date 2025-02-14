@@ -91,7 +91,7 @@
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">
           <div class="header-item">
             <img src="assets/images/icon/email.png" alt="Email Icon" class="header_icons">
-            <p class="header-text">Email:<br> <strong>leeladentalcare123@gmail.com </strong></p>
+            <p class="header-text ">Email:<br> <strong>leeladentalcare123@gmail.com </strong></p>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 d-none d-lg-flex align-items-center">

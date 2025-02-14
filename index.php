@@ -24,9 +24,8 @@
         <div class="row">
           <div class="col-lg-7 col-md-7">
             <div class="features-title ">
-              <h2 class="title">
-                Caring For The Health And Well Being Of You And Your
-                Family.
+              <h2 class="title_content">
+                LEELA DENTAL HOSPITAL  
               </h2>
               <p>
                 Comprehensive Dental Care for a Healthy Smile</p>
