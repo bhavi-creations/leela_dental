@@ -25,7 +25,7 @@
           <div class="col-lg-7 col-md-7">
             <div class="features-title ">
               <h2 class="title_content">
-                LEELA DENTAL HOSPITAL  
+                LEELA DENTAL HOSPITAL
               </h2>
               <p>
                 Comprehensive Dental Care for a Healthy Smile</p>
@@ -263,7 +263,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -308,7 +308,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -352,7 +352,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -394,7 +394,7 @@
                         <img src="assets/images/team/team-1.jpg" alt="" />
                       </div>
 
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -438,7 +438,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -482,7 +482,7 @@
                       <!-- Team Img End -->
 
                       <!-- Team Content Start -->
-                    <div class="team-content text-center my-3 py-3">
+                      <div class="team-content text-center my-3 py-3">
                         <!-- <ul class="social">
                           <li>
                             <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -652,26 +652,26 @@
             </div>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6">
-                                <div class="service-item">
-                                    <!-- Service Img Start -->
-                                    <div class="service-img">
-                                        <img src="assets/images/services/aligers.png" alt="" />
-                                    </div>
-                                    <!-- Service Img End -->
+            <div class="service-item">
+              <!-- Service Img Start -->
+              <div class="service-img">
+                <img src="assets/images/services/clip.png" alt="" />
+              </div>
+              <!-- Service Img End -->
 
-                                    <!-- Service Content Start -->
-                                    <div class="service-content text-center">
-                                        <i class="flaticon-surgery-room"></i>
-                                        <div class="service-icon-wrapper">
-                                            <h3 class="title">
-                                                <a href="clips_braces.php"> Clips or Braces</a>
-                                            </h3>
-                                            <a class="read-more" href="clips_braces.php">Know More</a>
-                                        </div>
-                                    </div>
-                                    <!-- Service Content End -->
-                                </div>
-                            </div>
+              <!-- Service Content Start -->
+              <div class="service-content text-center">
+                <i class="flaticon-surgery-room"></i>
+                <div class="service-icon-wrapper">
+                  <h3 class="title">
+                    <a href="clips_braces.php"> Clips or Braces</a>
+                  </h3>
+                  <a class="read-more" href="clips_braces.php">Know More</a>
+                </div>
+              </div>
+              <!-- Service Content End -->
+            </div>
+          </div>
 
           <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="service-item">

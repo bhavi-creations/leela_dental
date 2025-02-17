@@ -1,7 +1,7 @@
 <?php include "./header.php"; ?>
 
 
-<img src="assets/img/sliders_images/Laser.png" class="img-fluid service_img" alt="">
+<img src="assets/img/sliders_images/laser_treatment.png" class="img-fluid service_img" alt="">
 
 
 
