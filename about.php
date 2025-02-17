@@ -92,11 +92,11 @@
                <h2 class="title">Meet Our Doctors</h2>
              </div>
            </div>
-           <div class="col-lg-4 col-md-4 col-sm-4 align-self-end">
+           <!-- <div class="col-lg-4 col-md-4 col-sm-4 align-self-end">
              <div class="team-btn">
                <a class="btn" href="">All Doctors</a>
              </div>
-           </div>
+           </div> -->
          </div>
        </div>
        <!-- Team Title End -->

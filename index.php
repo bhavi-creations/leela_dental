@@ -193,7 +193,7 @@
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4 align-self-end">
             <div class="team-btn">
-              <a class="btn" href="">All Doctors</a>
+              <a class="btn" href="about.php">All Doctors</a>
             </div>
           </div>
         </div>
@@ -751,7 +751,7 @@
                 <i class="flaticon-surgery-room"></i>
                 <div class="service-icon-wrapper">
                   <h3 class="title">
-                    <a href="lasers.php"> Lasers Treatment</a>
+                    <a href="lasers.php"> Laser Treatment</a>
                   </h3>
                   <a class="read-more" href="lasers.php">Know More</a>
                 </div>
@@ -811,7 +811,7 @@
               <div class="appointment-title">
                 <h3 class="title">Book An Appointment</h3>
                 <span>Please Call Us To Ensure</span>
-                <h3 class="contact_btn "><i class="ri-phone-fill"></i>+91-91006 86678</h3>
+                <h3 class="contact_btn "><i class="ri-phone-fill"></i>+91-9493782298</h3>
               </div>
               <div class="appointment-icon">
                 <i class="ri-phone-fill"></i>
