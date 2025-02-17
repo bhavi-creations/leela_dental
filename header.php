@@ -63,7 +63,7 @@
       <marquee behavior="scroll" direction="left" class="marquee">
         4500sq.ft &nbsp; | &nbsp;
         15 years of experience &nbsp; | &nbsp;
-        7+ Dental Chairs &nbsp; | &nbsp;
+        7 Dental Chairs &nbsp; | &nbsp;
         Advanced  Equipment &nbsp; | &nbsp;
         EHS Available&nbsp; | &nbsp;
         NABH &nbsp;Accreditation
