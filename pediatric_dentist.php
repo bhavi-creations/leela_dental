@@ -12,7 +12,7 @@
 
             <div class="service_contain_text">
 
-                <h1 class="implants_treatment">Pediatric Dentistry Treatment</h1>
+                <h1 class="implants_treatment">Child Dentistry Treatment</h1>
                 <p>
                 Pediatric dentistry is a specialized branch of dentistry focused on the oral health of infants, children, and teenagers. It involves preventive and therapeutic dental care to ensure proper growth and development of teeth and gums. Pediatric dentists are trained to handle children’s unique dental needs, making treatments comfortable and stress-free.
 
@@ -28,7 +28,7 @@
 <section class="section_color my-5">
     <div class="container">
         <h4 class="root_step text-center mt-5">
-        Pediatric Dentistry Surgery
+        Child Dentistry Surgery
         </h4>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">

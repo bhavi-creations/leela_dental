@@ -63,7 +63,7 @@ $result = $stmt->get_result();
       <a href="blogs.php?service=Clips Braces"><button class="redirect_blog_srivice">Clips or Braces</button></a>
       <a href="blogs.php?service=Crowns Bridges"><button class="redirect_blog_srivice">Crowns & Bridges</button></a>
       <a href="blogs.php?service=Gum Surgery"><button class="redirect_blog_srivice"> Gum Surgery</button></a>
-      <a href="blogs.php?service=Pediatric Dentistry"><button class="redirect_blog_srivice">Pediatric Dentistry  </button></a>
+      <a href="blogs.php?service=Child Dentistry"><button class="redirect_blog_srivice">Child Dentistry  </button></a>
       <a href="blogs.php?service=Maxillofacial Surgery"><button class="redirect_blog_srivice">Maxillofacial Surgery</button></a>
       <a href="blogs.php?service=Laser Treatment"><button class="redirect_blog_srivice">Laser Treatment</button></a>
       <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>

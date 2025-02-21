@@ -254,7 +254,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="pediatric_dentist.php"> Pediatric Dentist</a>
+                                                <a href="pediatric_dentist.php"> Child Dentistry </a>
                                             </h3>
 
                                             <a class="read-more" href="pediatric_dentist.php">Know More</a>

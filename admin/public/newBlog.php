@@ -73,7 +73,7 @@
                                                 <option value="Clips Braces" <?php echo ($service == 'Clips Braces') ? 'selected' : ''; ?>> Clips Braces</option>
                                                 <option value="Crowns Bridges" <?php echo ($service == 'Crowns Bridges') ? 'selected' : ''; ?>>Crowns & Bridges</option>
                                                 <option value="Gum Surgery" <?php echo ($service == 'Gum Surgery') ? 'selected' : ''; ?>>Gum Surgery</option>
-                                                <option value="Pediatric Dentistry" <?php echo ($service == 'Pediatric Dentistry') ? 'selected' : ''; ?>>Pediatric Dentistry</option>
+                                                <option value="Child Dentistry" <?php echo ($service == 'Child Dentistry') ? 'selected' : ''; ?>>Child Dentistry</option>
                                                 <option value="Maxillofacial Surgery" <?php echo ($service == 'Maxillofacial Surgery') ? 'selected' : ''; ?>>Maxillofacial Surgery</option>
                                                 <option value="Laser Treatment" <?php echo ($service == 'Laser Treatment') ? 'selected' : ''; ?>>Laser Treatment</option>
                                                 <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>

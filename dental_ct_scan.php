@@ -55,7 +55,7 @@
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
                                 <!-- A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy. -->
-                                A dental scanner provides a detailed digital impression of your teeth, ensuring accuracy in diagnosis and treatment. At Krishna Dental Cure, Rajahmundry, we use advanced 3D intraoral scanning technology to replace traditional impressions, offering a comfortable, quick, and highly precise solution for various dental procedures.
+                                A dental scanner provides a detailed digital impression of your teeth, ensuring accuracy in diagnosis and treatment. At leela Dental Cure, kakinada, we use advanced 3D intraoral scanning technology to replace traditional impressions, offering a comfortable, quick, and highly precise solution for various dental procedures.
 
 
                             </p>

@@ -80,7 +80,7 @@ $conn->close();
                                                 <option value="Clips Braces" <?php echo ($service == 'Clips Braces') ? 'selected' : ''; ?>> Clips Braces</option>
                                                 <option value="Crowns Bridges" <?php echo ($service == 'Crowns Bridges') ? 'selected' : ''; ?>>Crowns & Bridges</option>
                                                 <option value="Gum Surgery" <?php echo ($service == 'Gum Surgery') ? 'selected' : ''; ?>>Gum Surgery</option>
-                                                <option value="Pediatric Dentistry" <?php echo ($service == 'Pediatric Dentistry') ? 'selected' : ''; ?>>Pediatric Dentistry</option>
+                                                <option value="Child Dentistry" <?php echo ($service == 'Child Dentistry') ? 'selected' : ''; ?>>Child Dentistry</option>
                                                 <option value="Maxillofacial Surgery" <?php echo ($service == 'Maxillofacial Surgery') ? 'selected' : ''; ?>>Maxillofacial Surgery</option>
                                                 <option value="Laser Treatment" <?php echo ($service == 'Laser Treatment') ? 'selected' : ''; ?>>Laser Treatment</option>
                                                 <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
@@ -88,19 +88,7 @@ $conn->close();
                                                 <option value="Composite Filler" <?php echo ($service == 'Composite Filler') ? 'selected' : ''; ?>> Composite Filler</option>
                                                 <option value="Teeth Jewellery" <?php echo ($service == 'Teeth Jewellery') ? 'selected' : ''; ?>>Teeth Jewellery</option>
 
-                                                <!-- <option value="Dentures" <?php echo ($service == 'Dentures') ? 'selected' : ''; ?>>Dentures  </option>
-                                                <option value="Smile Designing" <?php echo ($service == 'Smile Designing') ? 'selected' : ''; ?>>Smile Designing</option>
-                                                <option value="Full Mouth Rehabilitation Treatment" <?php echo ($service == 'Full Mouth Rehabilitation Treatment') ? 'selected' : ''; ?>>Full Mouth Rehabilitation Treatment</option>
-                                               -->
-                                                <!-- <option value="Laser Gum" <?php echo ($service == 'Laser Gum') ? 'selected' : ''; ?>>Laser & Gum</option>
-                                                <option value="Tooth Extraction" <?php echo ($service == 'Tooth Extraction') ? 'selected' : ''; ?>>Tooth Extraction</option>
-                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
-                                                <option value="Gum Depigment" <?php echo ($service == 'Gum Depigment') ? 'selected' : ''; ?>>Gum Depigment</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
-                                                <option value="Laser Gum Surgery" <?php echo ($service == 'Laser Gum Surgery') ? 'selected' : ''; ?>>Laser Gum Surgery</option>
-                                                <option value="Mouth Ulcers" <?php echo ($service == 'Mouth Ulcers') ? 'selected' : ''; ?>>Mouth Ulcers</option>
-                                                <option value="Precancerous Lesion" <?php echo ($service == 'Precancerous Lesion') ? 'selected' : ''; ?>>Precancerous Lesion</option>
-                                                <option value="Laser Crown Lengthening" <?php echo ($service == 'Laser Crown Lengthening') ? 'selected' : ''; ?>>Laser Crown Lengthening</option> -->
+                                             
 
 
 

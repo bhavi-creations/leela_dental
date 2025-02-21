@@ -22,7 +22,7 @@
 
                         <div class="about-img service_image">
                         <!-- <img src="assets/images/services2/ct_scan.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;" > -->
-                        <img src="assets/images/services2/x-ray.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
+                        <img src="assets/images/services2/x_ray.png" alt="" class="img-fluid" style="width:300px; height: 300px; border-radius:8px;">
 
                         </div>
 

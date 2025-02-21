@@ -139,7 +139,7 @@
                     <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
                     <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                     <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
-                    <li><a class="dropdown-item" href="pediatric_dentist.php">Pediatric Dentist </a></li>
+                    <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry </a></li>
 
                     <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                     <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
@@ -187,7 +187,7 @@
   <!-- Include Bootstrap JS (with Popper) -->
 
   <section class="d-lg-none">
-  <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
+   <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
     <div class="container">
       <a class="navbar-brand" href="index.php">
         <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img" />
@@ -221,6 +221,10 @@
                   <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
                   <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
                   <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                  <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry </a></li>
+ 
+                  <!-- <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li> -->
+
                   <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                   <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
                 </ul>
