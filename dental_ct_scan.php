@@ -55,13 +55,15 @@
                         <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
                             <p>
                                 <!-- A Dental CT Scan (Cone Beam Computed Tomography – CBCT) is a state-of-the-art imaging technology that provides detailed 3D views of the teeth, jawbones, nerves, and surrounding structures. Unlike traditional X-rays, which offer only two-dimensional images, CBCT scans allow dentists to examine complex anatomical details with high accuracy. -->
-                                A dental scanner provides a detailed digital impression of your teeth, ensuring accuracy in diagnosis and treatment. At leela Dental Cure, kakinada, we use advanced 3D intraoral scanning technology to replace traditional impressions, offering a comfortable, quick, and highly precise solution for various dental procedures.
+                                Dental scanner equipment is an advanced imaging technology used in modern dentistry to capture precise digital impressions of a patient’s oral structures. It replaces traditional impression materials, offering a more accurate, efficient, and comfortable experience for both dentists and patients.
+
 
 
                             </p>
                             <p>
-                            Unlike traditional molds, a dental scanner captures high-resolution 3D images in seconds, improving treatment planning for braces, crowns, and implants. This painless, mess-free process ensures better-fitting restorations and enhances patient comfort, making procedures like aligners, veneers, and bite analysis more efficient and accurate.
-                            </p>
+                            There are different types of dental scanners, including intraoral scanners, desktop scanners, and CBCT (Cone Beam Computed Tomography) scanners. Intraoral scanners are handheld devices that scan the inside of the mouth, while desktop scanners are used in dental labs to digitize physical impressions. CBCT scanners provide detailed 3D imaging of teeth, bones, and soft tissues, essential for implant planning and orthodontics.
+
+</p>
                         </div>
 
                     </div>
