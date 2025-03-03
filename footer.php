@@ -256,10 +256,10 @@
  <!-- whats app  -->
 
 
- <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
+ <!-- <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
      target="_blank">
      <i class="fa-brands fa-whatsapp"></i>
- </a>
+ </a> -->
  <!-- Back To Top End -->
  </div>
 
@@ -315,41 +315,6 @@
 
 
 
-
- <!-- 
- <li class="dropdown">
-                  <a href="services.php">Services</a>
-                  <ul class="sub-menu">
-                    <!-- Dental Services -->
- <!-- <li class="dropdown">
-                      <a href="#">Dental Services</a>
-                      <ul class="sub-sub-menu">
-                        <li><a href="implants.php">Implants</a></li>
-                        <li><a href="rootcanal.php">Root Canal</a></li>
-                        <li><a href="tooth_aligners.php">Tooth Aligners</a></li>
-                        <li><a href="bridges.php">Bridges</a></li>
-                        <li><a href="gum_surgery.php">Gum Surgery</a></li>
-                        <li><a href="maxillofacial_surger.php">Maxillofacial Surgey </a></li>
-                        <li><a href="lasers.php">Laser Treatment</a></li>
-
-                      </ul>
-                    </li> -->
-
- <!-- Cosmetic Services -->
- <!-- <li class="dropdown">
-                      <a href="#">Cosmetic Services</a>
-                      <ul class="sub-sub-menu">
-                        <li><a href="teeth_whitening.php">Teeth Whitening</a></li>
-                        <li><a href="veeners.php">Veneers</a></li>
-                        <li><a href="composit_filler.php">Composit Filler</a></li>
-                        <li><a href="teeth_jewellery.php">Teeth Jewellery</a></li>
-
-                      </ul>
-                    </li>
-                  </ul>
-                </li> -->
-
- <!-- <li class="dropdown">
                   <a href="equipment.php">Equipment</a>
                   <ul class="sub-menu">
                     <li><a href="dental_ct_scan.php">Dental CT-Scan</a></li>

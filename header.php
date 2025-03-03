@@ -64,7 +64,7 @@
         4500sq.ft &nbsp; | &nbsp;
         15 years of experience &nbsp; | &nbsp;
         7 Dental Chairs &nbsp; | &nbsp;
-        Advanced  Equipment &nbsp; | &nbsp;
+        Advanced Equipment &nbsp; | &nbsp;
         EHS Available&nbsp; | &nbsp;
         NABH &nbsp;Accreditation
       </marquee>
@@ -187,86 +187,86 @@
   <!-- Include Bootstrap JS (with Popper) -->
 
   <section class="d-lg-none">
-   <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
-    <div class="container">
-      <a class="navbar-brand" href="index.php">
-        <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img" />
-      </a>
+    <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img" />
+        </a>
 
-      <!-- Toggle Button -->
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+        <!-- Toggle Button -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" href="index.php">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
-          </li>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.php">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.php">About</a>
+            </li>
 
-          <!-- Services Dropdown -->
-          <li class="nav-item dropdown" id="servicesDropdown">
-            <a class="nav-link" href="services.php" onclick="toggleSubMenu(event, 'servicesSubmenu')">Services</a>
-            <ul class="dropdown-menu" id="servicesSubmenu" style="display: none;">
-              <li class="dropdown-submenu">
-                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'dentalTreatmentSubmenu')">Dental Treatment</a>
-                <ul class="dropdown-menu" id="dentalTreatmentSubmenu" style="display: none;">
-                  <li><a class="dropdown-item" href="implants.php">Implants</a></li>
-                  <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
-                  <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
-                  <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
-                  <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
-                  <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
-                  <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry </a></li>
- 
-                  <!-- <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li> -->
+            <!-- Services Dropdown -->
+            <li class="nav-item dropdown" id="servicesDropdown">
+              <a class="nav-link" href="services.php" onclick="toggleSubMenu(event, 'servicesSubmenu')">Services</a>
+              <ul class="dropdown-menu" id="servicesSubmenu" style="display: none;">
+                <li class="dropdown-submenu">
+                  <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'dentalTreatmentSubmenu')">Dental Treatment</a>
+                  <ul class="dropdown-menu" id="dentalTreatmentSubmenu" style="display: none;">
+                    <li><a class="dropdown-item" href="implants.php">Implants</a></li>
+                    <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
+                    <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+                    <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
+                    <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
+                    <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+                    <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry </a></li>
 
-                  <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
-                  <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
-                </ul>
-              </li>
-              <li class="dropdown-submenu">
-                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'cosmeticTreatmentSubmenu')">Cosmetic Treatment</a>
-                <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
-                  <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
-                  <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
-                  <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
-                  <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
+                    <!-- <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li> -->
 
-          <!-- Equipment Dropdown -->
-          <li class="nav-item dropdown" id="equipmentDropdown">
-            <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
-            <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
-              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner </a></li>
-              <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
-              <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
-            </ul>
-          </li>
+                    <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
+                    <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown-submenu">
+                  <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'cosmeticTreatmentSubmenu')">Cosmetic Treatment</a>
+                  <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
+                    <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
+                    <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
+                    <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
+                    <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
 
-          <li class="nav-item">
-            <a class="nav-link" href="blogs.php">Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact</a>
-          </li>
+            <!-- Equipment Dropdown -->
+            <li class="nav-item dropdown" id="equipmentDropdown">
+              <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
+              <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
+                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner </a></li>
+                <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+                <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
+              </ul>
+            </li>
 
-          <!-- Make Appointment Button -->
-          <li class="nav-item">
-            <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
-          </li>
-        </ul>
+            <li class="nav-item">
+              <a class="nav-link" href="blogs.php">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.php">Contact</a>
+            </li>
+
+            <!-- Make Appointment Button -->
+            <li class="nav-item">
+              <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
-</section>
+    </nav>
+  </section>
 
 
   <!-- Bootstrap JavaScript (Ensure This is Included) -->
@@ -304,22 +304,348 @@
     });
   </script>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-  // Toggle submenus when clicked
-  function toggleSubMenu(event, submenuId) {
-    event.preventDefault(); // Prevent the default link action (redirect)
-    const submenu = document.getElementById(submenuId);
-    if (submenu.style.display === "none" || submenu.style.display === "") {
-      submenu.style.display = "block";
-    } else {
-      submenu.style.display = "none";
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Toggle submenus when clicked
+      function toggleSubMenu(event, submenuId) {
+        event.preventDefault(); // Prevent the default link action (redirect)
+        const submenu = document.getElementById(submenuId);
+        if (submenu.style.display === "none" || submenu.style.display === "") {
+          submenu.style.display = "block";
+        } else {
+          submenu.style.display = "none";
+        }
+      }
+
+      // Add click event to each "Services" and "Equipment" submenu
+      window.toggleSubMenu = toggleSubMenu;
+    });
+  </script>
+
+
+
+
+
+  <style>
+    .chat-container {
+      width: 350px;
+      background: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      position: fixed;
+      bottom: 80px;
+      right: 20px;
+      display: none;
+      z-index: 99999;
     }
-  }
 
-  // Add click event to each "Services" and "Equipment" submenu
-  window.toggleSubMenu = toggleSubMenu;
-});
+    .chat-box {
+      height: 400px;
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+    }
 
-</script>
+    .chat-box div {
+      margin: 5px 0;
+      padding: 10px;
+      border-radius: 10px;
+      max-width: 80%;
+    }
 
+    .bot-message {
+      background: #e0e0e0;
+      align-self: flex-start;
+    }
+
+    .user-message {
+      background: #4caf50;
+      color: white;
+      align-self: flex-end;
+    }
+
+    .chat-input {
+      display: flex;
+      padding: 10px;
+      border-top: 1px solid #ddd;
+    }
+
+    .chat-input input {
+      flex: 1;
+      padding: 8px;
+      border: none;
+      border-radius: 5px;
+      outline: none;
+    }
+
+    .chat-input button {
+      padding: 8px 12px;
+      border: none;
+      background: #4caf50;
+      color: white;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    .whatsapp-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #25D366;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 10px;
+      cursor: pointer;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    .whatsapp-btn img {
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+
+    .chat-icon {
+      z-index: 9999;
+      position: fixed;
+      bottom: 110px;
+      right: 20px;
+      background: #4caf50;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .chat-icon img {
+      width: 40px;
+      height: 40px;
+    }
+  </style>
+
+  <div class="chat-icon" id="chat-icon">
+    <img src="assets/images/brand/2.png" alt="Chat Icon">
+  </div>
+
+  <div class="chat-container" id="chat-container">
+    <div class="chat-box" id="chat-box">
+      <div class="bot-message">👋 Welcome! Type "hai" to see available dental services.</div>
+    </div>
+    <div class="chat-input">
+      <input type="text" id="user-input" placeholder="Type your message..." />
+      <button id="send-btn">Send</button>
+    </div>
+    <!-- WhatsApp Button -->
+    <a href="https://wa.me/919493782298? " target="_blank" class="whatsapp-btn">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo"> Continue with WhatsApp
+    </a>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      let chatBox = document.getElementById("chat-box");
+      let userInput = document.getElementById("user-input");
+      let sendButton = document.getElementById("send-btn");
+      let chatIcon = document.getElementById("chat-icon");
+      let chatContainer = document.getElementById("chat-container");
+
+      chatIcon.addEventListener("click", function() {
+        chatContainer.style.display = chatContainer.style.display === "none" ? "block" : "none";
+      });
+
+      function addBotMessage(message) {
+        let botMessage = document.createElement("div");
+        botMessage.className = "bot-message";
+        botMessage.innerHTML = message;
+        chatBox.appendChild(botMessage);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function addUserMessage(message) {
+        let userMessage = document.createElement("div");
+        userMessage.className = "user-message";
+        userMessage.textContent = message;
+        chatBox.appendChild(userMessage);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function showMainDropdown() {
+        let dropdownContainer = document.createElement("div");
+        dropdownContainer.className = "bot-message";
+
+        let selectCategory = document.createElement("select");
+        selectCategory.innerHTML = `
+                <option value="" disabled selected>Select a category</option>
+                <option value="Cosmetic  Treatments">🦷 Cosmetic  Treatments</option>
+                <option value="Dental  Treatments">🦷 Dental  Treatments</option>
+            `;
+
+        selectCategory.addEventListener("change", function() {
+          let userChoice = selectCategory.options[selectCategory.selectedIndex].text;
+          addUserMessage(userChoice);
+
+          dropdownContainer.remove(); // Remove the first dropdown
+          showSubServices(selectCategory.value);
+        });
+
+        dropdownContainer.appendChild(selectCategory);
+        chatBox.appendChild(dropdownContainer);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function showSubServices(category) {
+        let dropdownContainer = document.createElement("div");
+        dropdownContainer.className = "bot-message";
+
+        let selectService = document.createElement("select");
+
+        if (category === "Cosmetic  Treatments") {
+          selectService.innerHTML = `
+                    <option value="" disabled selected>Select a cosmetic service</option>
+                     <option value="Teeth Whitening">🦷 Teeth Whitening</option>
+                      <option value="Veneers">🦷 Veneers</option>
+                       <option value="Composite filling">🦷 Composite filling</option>
+                       <option value="Teeth Jewellery">🦷 Teeth Jewellery</option>`;
+
+        } else if (category === "Dental  Treatments") {
+          selectService.innerHTML = `
+                    <option value="" disabled selected>Select a dental service</option>
+                    <option value="implant ">🦷 implant </option>
+                    <option value="Root canal">🦷 Root canal </option>
+                    <option value="Tooth aligners">🦷 Tooth aligners</option>
+                    <option value="Clips or Braces">🦷 Clips or Braces</option>
+                    <option value="Crowns & Bridges">🦷 Crowns & Bridges</option>
+                    <option value="Gum surgery">🦷 Gum surgery</option>
+                    <option value="Child Dentistry">🦷 Child Dentistry</option>
+
+                    <option value="Maxillofacial surgery">🦷 Maxillofacial surgery</option>
+                    <option value="Dental laser">🦷 Dental laser</option>
+                `;
+        }
+
+        selectService.addEventListener("change", function() {
+          let userChoice = selectService.options[selectService.selectedIndex].text;
+          addUserMessage(userChoice);
+
+          const serviceResponses = {
+            "Teeth Whitening": "🦷 Brighten your smile with professional teeth whitening for radiant confidence!.<br><br> any information  Call 📞 +91-9493782298.",
+            "Veneers": "🦷 Enhance your smile with custom-made, natural-looking dental veneers!.<br><br> any information  Call  📞 +91-9493782298.",
+            "Composite filling": "🦷 Restore decayed or damaged teeth with durable, tooth-colored composite fillings!.<br><br> any information  Call 📞 +91-9493782298.",
+            "Teeth Jewellery": "🦷 Enhance your smile with stylish, sparkling teeth jewellery! .<br><br> any information  Call 📞 +91-9493782298.",
+            "implants": "🦷 Dental implants are permanent, natural-looking replacements for missing teeth. 🦷.<br><br> any information  Call 📞 +91-9493782298.",
+            "Root Canal": "🦷 A root canal saves infected teeth by removing damaged pulp and sealing them. 🦷<br><br> any information  Call 📞 +91-9493782298.",
+            "Tooth aligners": "🦷Tooth aligners straighten teeth discreetly with clear, removable trays.<br><br> any information  Call 📞 +91-9493782298.",
+            "Clips or Braces": "🦷Braces straighten teeth using brackets and wires for alignment. <br><br> any information  Call 📞 +91-9493782298.",
+            "Crowns & Bridges": "🦷 Crowns and bridges restore damaged or missing teeth for better functio.<br><br> any information  Call 📞 +91-9493782298.",
+            "Gum surgery": "🦷 Gum surgery treats infections, reshapes gums, and improves oral health. <br><br> any information  Call 📞 +91-9493782298.",
+            "Child Dentistry": "🦷 Child dentistry ensures kids' oral health with gentle, specialized care.  <br><br> any information  Call 📞 +91-9493782298.",
+            "Maxillofacial surgery": "🦷 Maxillofacial surgery treats facial trauma, jaw disorders, and oral diseases. <br><br> any information  Call 📞 +91-9493782298.",
+            "Dental laser": "🦷 Dental laser offers painless, precise treatments for gum disease, cavities, and whitening. <br><br> any information  Call 📞 +91-9493782298.",
+
+
+          };
+
+          setTimeout(() => {
+            addBotMessage(serviceResponses[selectService.value] || "I don't have information on that.");
+          }, 1000);
+
+          dropdownContainer.remove();
+        });
+
+        dropdownContainer.appendChild(selectService);
+        chatBox.appendChild(dropdownContainer);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function sendMessage() {
+        let input = userInput.value.toLowerCase().trim();
+        if (!input) return;
+
+        addUserMessage(input);
+        userInput.value = "";
+
+        setTimeout(() => {
+          if (input === "hai") {
+            showMainDropdown();
+          } else {
+            addBotMessage("I'm not sure how to respond to that. Try asking something else! 🤖");
+          }
+        }, 1000);
+      }
+
+      sendButton.addEventListener("click", sendMessage);
+      userInput.addEventListener("keypress", function(event) {
+        if (event.key === "Enter") sendMessage();
+      });
+    });
+  </script>
+
+
+
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      let chatBox = document.getElementById("chat-box");
+      let userInput = document.getElementById("user-input");
+      let sendButton = document.getElementById("send-btn");
+      let chatIcon = document.getElementById("chat-icon");
+      let chatContainer = document.getElementById("chat-container");
+
+      chatIcon.addEventListener("click", function(event) {
+        chatContainer.style.display = "block";
+        event.stopPropagation(); // Prevents event from bubbling up
+      });
+
+      document.addEventListener("click", function(event) {
+        if (!chatContainer.contains(event.target) && event.target !== chatIcon) {
+          chatContainer.style.display = "none";
+        }
+      });
+
+      function addBotMessage(message) {
+        let botMessage = document.createElement("div");
+        botMessage.className = "bot-message";
+        botMessage.textContent = message;
+        chatBox.appendChild(botMessage);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function addUserMessage(message) {
+        let userMessage = document.createElement("div");
+        userMessage.className = "user-message";
+        userMessage.textContent = message;
+        chatBox.appendChild(userMessage);
+        chatBox.scrollTop = chatBox.scrollHeight;
+      }
+
+      function sendMessage() {
+        let input = userInput.value.toLowerCase().trim();
+        if (!input) return;
+
+        addUserMessage(input);
+        userInput.value = "";
+
+        setTimeout(() => {
+          if (input === "hai") {
+            addBotMessage("Here are the available dental services:");
+          } else {
+            addBotMessage("I'm not sure how to respond to that. Try asking something else! 🤖");
+          }
+        }, 1000);
+      }
+
+      sendButton.addEventListener("click", sendMessage);
+      userInput.addEventListener("keypress", function(event) {
+        if (event.key === "Enter") sendMessage();
+      });
+    });
+  </script>
