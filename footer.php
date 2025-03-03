@@ -315,10 +315,4 @@
 
 
 
-                  <a href="equipment.php">Equipment</a>
-                  <ul class="sub-menu">
-                    <li><a href="dental_ct_scan.php">Dental CT-Scan</a></li>
-                    <li><a href="ray.php">3D X-Ray</a></li>
-                    <li><a href="lasers.php">Laser</a></li>
-                  </ul>
-                </li>  -->
+                 
