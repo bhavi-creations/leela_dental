@@ -38,7 +38,7 @@
           <div class="col-lg-5 col-md-5">
             <div class="features-text">
               <p>
-                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With 15 years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
               </p>
               <h3 class="name">
                 Dr.K.V.Krishnam Raju<span>Founder</span>
