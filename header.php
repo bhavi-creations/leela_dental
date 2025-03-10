@@ -430,10 +430,17 @@
       width: 40px;
       height: 40px;
     }
+
+    .chat-icon i {
+      color: white;
+      font-size: 40px;
+    }
   </style>
 
   <div class="chat-icon" id="chat-icon">
-    <img src="assets/images/brand/2.png" alt="Chat Icon">
+    <!-- <img src="assets/images/brand/2.png" alt="Chat Icon"> -->
+    <i class="fa-brands fa-whatsapp"></i>
+
   </div>
 
   <div class="chat-container" id="chat-container">
