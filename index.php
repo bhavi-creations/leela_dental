@@ -528,41 +528,7 @@
 
 
 <!-- slider script  -->
-<script>
-  var swiper = new Swiper(".custom-slide-content", {
-    slidesPerView: 3,
-    spaceBetween: 25,
-    loop: true,
-    centerslide: 'true',
-    fade: 'true',
-    grabCursor: 'true',
-    pagination: {
-      el: ".custom-swiper-pagination",
-      clickable: true,
-      dynamicBullets: true,
-    },
-    autoplay: {
-      delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
-      disableOnInteraction: false, // Keeps autoplay active even after manual swiping
-    },
-    navigation: {
-      nextEl: ".swiper-button-next.custom-swiper-navBtn",
-      prevEl: ".swiper-button-prev.custom-swiper-navBtn",
-    },
 
-    breakpoints: {
-      0: {
-        slidesPerView: 1,
-      },
-      520: {
-        slidesPerView: 2,
-      },
-      950: {
-        slidesPerView: 3,
-      },
-    },
-  });
-</script>
 
 
 <!-- slider script end  -->
@@ -798,7 +764,7 @@
 
             <!--  Appointment Img Start -->
             <div class="appointment-img">
-              <img src="assets/images/appointment-img.png" alt="" />
+              <img src="assets/images/services/appointment.png" alt="" style="border-radius: 4px;" />
             </div>
             <!--  Appointment Img End -->
           </div>
@@ -975,6 +941,104 @@
     </div>
   </section>
   <!--  Result Area End -->
+
+
+
+ 
+
+   
+   <section class="my-5 treatment_section mx-3   ">
+    <div class="container">
+      <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2;">Our Equipment</h1>
+      <div class="row mt-1 g-5">
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/equipment_1.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/equipment_2.png" alt="" class="img-fluid">
+
+        </div>
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/equipment_3.png" alt="" class="img-fluid">
+
+        </div>
+      </div>
+    </div>
+  </section>  
+
+
+   <!-- <section class="my-5  ">
+    <div class="container">
+      <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2">Our Treatment</h1>
+      <div class="row mt-1 g-5">
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/treatment.JPG" alt="">
+        </div>
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/treatment1.JPG" alt="">
+
+        </div>
+        <div class="col-md-4 col-12">
+          <img src="assets/images/services/equipment6.png" alt="">
+
+        </div>
+      </div>
+    </div>
+  </section>  -->
+
+
+  <section class="found1">
+    <div class="container" >
+      <h1 class=" intro1 text-center" style="font-size: 36px; font-weight: 900; color:#d853a2;">Our Works </h1>
+      <div class="custom-slide-container swiper">
+        <div class="custom-slide-content   ">
+          <div class="custom-card-wrapper swiper-wrapper py-5">
+
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+            <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment3.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+
 
   <!--  Testimonial Area Start -->
   <div class="section testimonial-area section-padding">
@@ -1241,6 +1305,42 @@
 
 
 
+
+  <script>
+  var swiper = new Swiper(".custom-slide-content", {
+    slidesPerView: 3,
+    spaceBetween: 25,
+    loop: true,
+    centerslide: 'true',
+    fade: 'true',
+    grabCursor: 'true',
+    pagination: {
+      el: ".custom-swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+    },
+    autoplay: {
+      delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+      disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+    },
+    navigation: {
+      nextEl: ".swiper-button-next.custom-swiper-navBtn",
+      prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+    },
+
+    breakpoints: {
+      0: {
+        slidesPerView: 1,
+      },
+      520: {
+        slidesPerView: 2,
+      },
+      950: {
+        slidesPerView: 3,
+      },
+    },
+  });
+</script>
 
 
 

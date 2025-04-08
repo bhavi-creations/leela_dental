@@ -11366,12 +11366,15 @@ leeela dental @media (max-width:768px) {
   }
 }
 
+/* @media (min-width:375px) and (max-width:768px) {
+  .treatment_section{
+    margin: 0px 100px !important;
+  }
+} */
 
 
 
-
-
-
+/* auto single image slider  */
 
 
 
