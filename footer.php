@@ -198,7 +198,7 @@
      <!-- Footer Widget Area End -->
 
      <!-- Footer Copyright Area Start -->
-     <div class="footer-area-bottom theme-bg  footer_content">
+     <div class="footer-area-bottom theme-bg  footer_content    ">
          <div class="container">
              <div class="row ">
 
