@@ -203,321 +203,49 @@
       <!-- Team Content Wrapper Start -->
       <div class="team-content-wrapper">
         <div class="team-content-wrapper">
+          
           <div class="custom-slide-container swiper">
-            <div class="custom-slide-content   ">
-              <div class="custom-card-wrapper swiper-wrapper py-5">
+        <div class="custom-slide-content   ">
+          <div class="custom-card-wrapper swiper-wrapper py-5">
 
-                <div class="custom-card custom_card_bg_three swiper-slide">
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/krishnam.png" alt="" />
-                      </div>
-                      <!-- Team Img End -->
+            <div class="custom-card custom_card_bg_three swiper-slide">
 
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr.K.V.Krishnam Raju
-                        </h3>
-                        <h5 class="designation">Teeth Denture & implants specialist</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-
-                </div>
-
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
-                      </div>
-                      <!-- Team Img End -->
-
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr.Y.Sunanda
-
-                        </h3>
-                        <h5 class="designation">ROOT Canal specialist</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/team-2.jpg" alt="" />
-                      </div>
-                      <!-- Team Img End -->
-
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr.Masapu Anupama
-                        </h3>
-                        <h5 class="designation">Gums &Surgery specialist</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/team-3.jpg" alt="" />
-                      </div>
-                      <!-- Team Img End -->
-
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr. CH.KIran
-                        </h3>
-                        <h5 class="designation">clips specialist</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-
-                      <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
-                      </div>
-
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr.Ganesh
-                        </h3>
-                        <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
-                      </div>
-                      <!-- Team Img End -->
-
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          Dr Sahithi MDS
-                        </h3>
-                        <h5 class="designation">CLIPS SPECIALIST</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
-
-                  <div>
-                    <div class="team-item">
-                      <!-- Team Img Start -->
-                      <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
-                      </div>
-                      <!-- Team Img End -->
-
-                      <!-- Team Content Start -->
-                      <div class="team-content text-center my-3 py-3">
-                        <!-- <ul class="social">
-                          <li>
-                            <a href="#"><i class="ri-facebook-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-twitter-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-linkedin-fill"></i></a>
-                          </li>
-                          <li>
-                            <a href="#"><i class="ri-instagram-fill"></i></a>
-                          </li>
-                        </ul> -->
-                        <h3 class="name">
-                          DR.HARINI
-                        </h3>
-                        <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
-                        <div class="">
-                          <!-- <ul>
-                            <li>
-                              <i class="ri-mail-unread-fill"></i>
-                              <span>info@example.com</span>
-                            </li>
-                            <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
-                          </ul> -->
-                        </div>
-                      </div>
-                      <!-- Team Content End -->
-                    </div>
-                  </div>
-                </div>
-              </div>
+            <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
             </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment3.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+            <!-- <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div> -->
+            <div class="custom-card custom_card_bg_three swiper-slide">
+
+              <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+            </div>
+
           </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+      </div>
         </div>
       </div>
       <!-- Team Content Wrapper End -->
@@ -986,7 +714,7 @@
     </div>
   </section>  -->
 
-
+<!-- 
   <section class="found1">
     <div class="container" >
       <h1 class=" intro1 text-center" style="font-size: 36px; font-weight: 900; color:#d853a2;">Our Works </h1>
@@ -1035,7 +763,7 @@
 
     </div>
 
-  </section>
+  </section> -->
 
 
 
@@ -1048,7 +776,7 @@
           <div class="col-lg-10">
             <!--  Testimonial Title Start -->
             <div class="section-title result-title text-center">
-              <h3 class="sub-title">Our Clients Review</h3>
+              <h3 class="sub-title">Our Clients Reviews</h3>
               <h2 class="title">Real Review From Our Real Customer</h2>
             </div>
             <!--  Testimonial Title End -->
