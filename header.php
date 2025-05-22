@@ -7,8 +7,13 @@
   <title>leela dental hospital </title>
   <link rel="stylesheet" href="assets/images/logo.png">
   <meta name="robots" content="noindex, follow" />
-  <meta name="description" content="" />
+
+
+  <meta name="description" content="Leela Super Speciality Dental Hospital in Kakinada offers advanced, painless dental treatments including implants, braces, root canals, smile designing, and more. Trusted care with expert dentists and modern technology. Book your appointment today" />
+  <meta name="title" content="Leela Super Speciality Dental Hospital – Best Dental Clinic in Kakinada | Implants, Braces & More ">
+
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/brand/logo.png" />
   <!-- <link rel="shortcut" type="image/x-icon" href="assets/images/brand/logo.png" /> -->
@@ -56,7 +61,7 @@
 
 
   <!-- slider code  -->
-   
+
 
 </head>
 
