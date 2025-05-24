@@ -14,6 +14,40 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
+  <meta name="keywords" content=" Best dental implants in Kakinada
+
+Affordable dental implants in Kakinada
+
+Top dental clinic in Kakinada
+
+Best Invisalign hospital in Kakinada
+
+Clear aligners treatment Kakinada
+
+Best root canal treatment in Kakinada
+
+Pain-free root canal specialist Kakinada
+
+Best dental hospital in Kakinada
+
+Best dentist in Kakinada
+
+Emergency dental care in Kakinada
+
+Pediatric dentist in Kakinada
+
+Cosmetic dentistry Kakinada
+
+Teeth whitening services Kakinada
+
+Orthodontist in Kakinada
+
+Dental crowns and bridges Kakinada
+
+Dental hospital under EHS scheme in Kakinada
+
+EHS dental treatment in Kakinada ">
+
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/brand/logo.png" />
   <!-- <link rel="shortcut" type="image/x-icon" href="assets/images/brand/logo.png" /> -->
@@ -61,6 +95,49 @@
 
 
   <!-- slider code  -->
+
+  <link rel="canonical" href="https://leeladentalhospital.com/" />
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Leela Dental Hospital",
+      "url": "https://leeladentalhospital.com/",
+      "logo": "https://leeladentalhospital.com/assets/images/logo.png",
+      "image": "https://leeladentalhospital.com/assets/images/clinic-front.jpg",
+      "description": "Leela Dental Hospital in Kakinada offers advanced dental care including implants, Invisalign, root canals, cosmetic dentistry, and accepts EHS scheme patients.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D.NO: 2-18-9/1, opposite to old SP Office Road, Near RMC Ground, Madhavnagar",
+        "addressLocality": "Kakinada",
+        "addressRegion": "Andhra Pradesh",
+        "postalCode": "533003",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 16.9752998,
+        "longitude": 82.2406115
+      },
+      "hasMap": "https://maps.google.com/?q=16.9752998,82.2406115",
+      "openingHours": "Mo-Sa 09:00-20:00",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "‪+91-9493782298‬",
+        "contactType": "Customer Service",
+        "areaServed": "IN",
+        "availableLanguage": ["English", "Telugu"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/LeelaDentalHospital",
+        "https://www.instagram.com/LeelaDentalHospital"
+      ]
+    }
+    </script>
+
+
+    <!-- google-site-verification: google734f9bcd2f348c14.html -->
 
 
 </head>
