@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Home page -->
+  <url>
+    <loc>https://leeladentalhospital.com/</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About page -->
+  <url>
+    <loc>https://leeladentalhospital.com/about</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Services page -->
+  <url>
+    <loc>https://leeladentalhospital.com/services</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Individual service pages -->
+  <url>
+    <loc>https://leeladentalhospital.com/dental-implants</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://leeladentalhospital.com/invisalign</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://leeladentalhospital.com/root-canal-treatment</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact page -->
+  <url>
+    <loc>https://leeladentalhospital.com/contact</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Blog or News if exists -->
+  <url>
+    <loc>https://leeladentalhospital.com/blog</loc>
+    <lastmod>2025-05-24</lastmod>
+    <priority>0.65</priority>
+  </url>
+
+</urlset>
