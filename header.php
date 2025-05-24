@@ -48,6 +48,13 @@ Dental hospital under EHS scheme in Kakinada
 
 EHS dental treatment in Kakinada ">
 
+
+<meta name="google-site-verification" content="google-site-verification" />
+
+
+
+
+
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/brand/logo.png" />
   <!-- <link rel="shortcut" type="image/x-icon" href="assets/images/brand/logo.png" /> -->
@@ -136,8 +143,10 @@ EHS dental treatment in Kakinada ">
     }
     </script>
 
+ 
 
-    <!-- google-site-verification: google734f9bcd2f348c14.html -->
+
+ 
 
 
 </head>
