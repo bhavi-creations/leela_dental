@@ -11379,6 +11379,20 @@ leeela dental @media (max-width:768px) {
 
 
 
+/* Smooth Collapse */
+.smooth-collapse,
+.smooth-submenu {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+}
+
+.smooth-collapse.open,
+.smooth-submenu.open {
+  max-height: 2000px; /* Adjust according to your content */
+}
+
+
 
 
 

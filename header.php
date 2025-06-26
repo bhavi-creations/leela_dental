@@ -49,8 +49,8 @@ Dental hospital under EHS scheme in Kakinada
 EHS dental treatment in Kakinada ">
 
 
-<!-- <meta name="google-site-verification" content="google-site-verification" /> -->
-<meta name="google-site-verification" content="t7ySW-EqFGz5YunG8k9a2PTggl1_OErUaqEurMNpCIc" />
+  <!-- <meta name="google-site-verification" content="google-site-verification" /> -->
+  <meta name="google-site-verification" content="t7ySW-EqFGz5YunG8k9a2PTggl1_OErUaqEurMNpCIc"   />
 
 
 
@@ -103,7 +103,7 @@ EHS dental treatment in Kakinada ">
 
   <!-- slider code  -->
 
-  <link rel="canonical" href="https://leeladentalhospital.com/" />
+  <link rel="canonical" href="https://leeladentalhospital.com/"   />
 
   <script type="application/ld+json">
     {
@@ -141,12 +141,12 @@ EHS dental treatment in Kakinada ">
         "https://www.instagram.com/LeelaDentalHospital"
       ]
     }
-    </script>
-
- 
+  </script>
 
 
- 
+
+
+
 
 
 </head>
@@ -281,7 +281,6 @@ EHS dental treatment in Kakinada ">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
   <!-- Include Bootstrap JS (with Popper) -->
-
   <section class="d-lg-none">
     <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
       <div class="container">
@@ -289,23 +288,19 @@ EHS dental treatment in Kakinada ">
           <img src="assets/images/brand/logo_navbar.png" alt="Logo" class="img-fluid nav_mini_img" />
         </a>
 
-        <!-- Toggle Button -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <!-- Custom Toggle Button -->
+        <button class="navbar-toggler custom-toggle-btn" type="button" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <!-- Custom Toggle Menu -->
+        <div class="custom-collapse collapse-navbar" style="display: none;">
           <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link active" href="index.php">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.php">About</a>
-            </li>
+            <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
             <!-- Services Dropdown -->
-            <li class="nav-item dropdown" id="servicesDropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link" href="services.php" onclick="toggleSubMenu(event, 'servicesSubmenu')">Services</a>
               <ul class="dropdown-menu" id="servicesSubmenu" style="display: none;">
                 <li class="dropdown-submenu">
@@ -315,16 +310,14 @@ EHS dental treatment in Kakinada ">
                     <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
                     <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
                     <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
-                    <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
+                    <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges</a></li>
                     <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
-                    <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry </a></li>
-
-                    <!-- <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li> -->
-
+                    <li><a class="dropdown-item" href="pediatric_dentist.php">Child Dentistry</a></li>
                     <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                     <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
                   </ul>
                 </li>
+
                 <li class="dropdown-submenu">
                   <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'cosmeticTreatmentSubmenu')">Cosmetic Treatment</a>
                   <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
@@ -338,25 +331,21 @@ EHS dental treatment in Kakinada ">
             </li>
 
             <!-- Equipment Dropdown -->
-            <li class="nav-item dropdown" id="equipmentDropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
               <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
-                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner </a></li>
+                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner</a></li>
                 <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
                 <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
               </ul>
             </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="blogs.php">Blog</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact</a>
-            </li>
+            <li class="nav-item"><a class="nav-link" href="blogs.php">Blog</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 
-            <!-- Make Appointment Button -->
+            <!-- Appointment Button -->
             <li class="nav-item">
-              <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+              <a class="btn btn-primary nav-btn w-100 mt-3" href="appointment.php">Make Appointment</a>
             </li>
           </ul>
         </div>
@@ -364,13 +353,38 @@ EHS dental treatment in Kakinada ">
     </nav>
   </section>
 
+  <!-- JavaScript -->
+  <script>
+    // Toggle main menu
+    document.addEventListener("DOMContentLoaded", function() {
+      const toggleBtn = document.querySelector(".custom-toggle-btn");
+      const menu = document.querySelector(".collapse-navbar");
+
+      toggleBtn.addEventListener("click", function() {
+        const isOpen = menu.style.display === "block";
+        menu.style.display = isOpen ? "none" : "block";
+        this.setAttribute("aria-expanded", !isOpen);
+      });
+    });
+
+    // Toggle submenu
+    function toggleSubMenu(event, submenuId) {
+      event.preventDefault();
+      const submenu = document.getElementById(submenuId);
+      if (submenu) {
+        submenu.style.display = submenu.style.display === "block" ? "none" : "block";
+      }
+    }
+  </script>
+
+
 
   <!-- Bootstrap JavaScript (Ensure This is Included) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 
 
-  <script>
+  <!-- <script>
     document.querySelectorAll('.dropdown-submenu > a').forEach(item => {
       item.addEventListener('click', function(e) {
         e.preventDefault();
@@ -381,7 +395,7 @@ EHS dental treatment in Kakinada ">
         }
       });
     });
-  </script>
+  </script> -->
 
 
 
