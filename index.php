@@ -203,49 +203,49 @@
       <!-- Team Content Wrapper Start -->
       <div class="team-content-wrapper">
         <div class="team-content-wrapper">
-          
+
           <div class="custom-slide-container swiper">
-        <div class="custom-slide-content   ">
-          <div class="custom-card-wrapper swiper-wrapper py-5">
+            <div class="custom-slide-content   ">
+              <div class="custom-card-wrapper swiper-wrapper py-5">
 
-            <div class="custom-card custom_card_bg_three swiper-slide">
+                <div class="custom-card custom_card_bg_three swiper-slide">
 
-            <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-            </div>
-            <div class="custom-card custom_card_bg_three swiper-slide">
+                  <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                </div>
+                <div class="custom-card custom_card_bg_three swiper-slide">
 
-              <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-            </div>
-            <div class="custom-card custom_card_bg_three swiper-slide">
+                  <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                </div>
+                <div class="custom-card custom_card_bg_three swiper-slide">
 
-              <img src="assets/images/services/equipment.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
-            </div>
-            <div class="custom-card custom_card_bg_three swiper-slide">
+                  <img src="assets/images/services/equipment.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                </div>
+                <div class="custom-card custom_card_bg_three swiper-slide">
 
-              <img src="assets/images/services/equipment3.png"alt="Garuda  Trades" class="img-fluid custom-card-img ">
-            </div>
-            <!-- <div class="custom-card custom_card_bg_three swiper-slide">
+                  <img src="assets/images/services/equipment3.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                </div>
+                <!-- <div class="custom-card custom_card_bg_three swiper-slide">
 
               <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
             </div> -->
-            <div class="custom-card custom_card_bg_three swiper-slide">
+                <div class="custom-card custom_card_bg_three swiper-slide">
 
-              <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                </div>
+
+              </div>
             </div>
 
+
+
+
+
+
+
+
+
+
           </div>
-        </div>
-
-
-
-
-
-
-
-
-
-
-      </div>
         </div>
       </div>
       <!-- Team Content Wrapper End -->
@@ -672,10 +672,10 @@
 
 
 
- 
 
-   
-   <section class="my-5 treatment_section mx-3   ">
+
+
+  <section class="my-5 treatment_section mx-3   ">
     <div class="container">
       <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2;">Our Equipment</h1>
       <div class="row mt-1 g-5">
@@ -692,10 +692,10 @@
         </div>
       </div>
     </div>
-  </section>  
+  </section>
 
 
-   <!-- <section class="my-5  ">
+  <!-- <section class="my-5  ">
     <div class="container">
       <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2">Our Treatment</h1>
       <div class="row mt-1 g-5">
@@ -714,7 +714,7 @@
     </div>
   </section>  -->
 
-<!-- 
+  <!-- 
   <section class="found1">
     <div class="container" >
       <h1 class=" intro1 text-center" style="font-size: 36px; font-weight: 900; color:#d853a2;">Our Works </h1>
@@ -1035,40 +1035,239 @@
 
 
   <script>
-  var swiper = new Swiper(".custom-slide-content", {
-    slidesPerView: 3,
-    spaceBetween: 25,
-    loop: true,
-    centerslide: 'true',
-    fade: 'true',
-    grabCursor: 'true',
-    pagination: {
-      el: ".custom-swiper-pagination",
-      clickable: true,
-      dynamicBullets: true,
-    },
-    autoplay: {
-      delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
-      disableOnInteraction: false, // Keeps autoplay active even after manual swiping
-    },
-    navigation: {
-      nextEl: ".swiper-button-next.custom-swiper-navBtn",
-      prevEl: ".swiper-button-prev.custom-swiper-navBtn",
-    },
+    var swiper = new Swiper(".custom-slide-content", {
+      slidesPerView: 3,
+      spaceBetween: 25,
+      loop: true,
+      centerslide: 'true',
+      fade: 'true',
+      grabCursor: 'true',
+      pagination: {
+        el: ".custom-swiper-pagination",
+        clickable: true,
+        dynamicBullets: true,
+      },
+      autoplay: {
+        delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+        disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+      },
+      navigation: {
+        nextEl: ".swiper-button-next.custom-swiper-navBtn",
+        prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+      },
 
-    breakpoints: {
-      0: {
-        slidesPerView: 1,
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+        },
+        520: {
+          slidesPerView: 2,
+        },
+        950: {
+          slidesPerView: 3,
+        },
       },
-      520: {
-        slidesPerView: 2,
-      },
-      950: {
-        slidesPerView: 3,
-      },
-    },
-  });
-</script>
+    });
+  </script>
+
+
+
+
+  <section>
+    <div class="container">
+
+      <h1 class="text-center">Frequently Ask Question (FAQ)</h1>
+      <div class="row">
+        <div class="col-12 col-md-6">
+          <div class="accordion">
+            <!-- Accordion 1 -->
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">What services are available at Leela Dental Hospital, Kakinada?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof </p>
+              </div>
+            </div>
+            <!-- Accordion 2 -->
+
+
+
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">What is the cost of a dental implant in Kakinada?
+
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs                </p>
+              </div>
+            </div>
+
+
+
+
+           
+
+
+
+            <!-- Accordion 3 -->
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">Do you provide dental implants in Kakinada?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration </p>
+              </div>
+            </div>
+
+            <!-- Accordion 4 -->
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">What makes Leela Dental Hospital different from other clinics in Kakinada?
+
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments
+
+                </p>
+              </div>
+            </div>
+            <!-- Accordion 5 -->
+            <!-- <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">Can cancer be prevented?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Not all cancers are preventable, but up to 30-50% of cases can be avoided through healthy lifestyle choices, regular screenings, vaccinations (like HPV), and avoiding carcinogens such as tobacco and processed foods
+                </p>
+              </div> 
+            </div>-->
+
+          </div>
+
+        </div>
+        <div class="col-12 col-md-6">
+
+
+          <div class="accordion">
+            <!-- Accordion 1 -->
+           
+            <!-- Accordion 2 -->
+            <div class="faq_section">
+
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">Is root canal treatment painful?
+
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort                </p>
+              </div>
+            </div>
+
+
+
+            <div class="faq_section">
+
+<div class="accordion-header" onclick="toggleAccordion(this)">
+  <h2 class="faq_heading_section"> Is Leela Dental Hospital the best dental clinic in Kakinada?
+  </h2>
+  <h2 class="accordion-icon">+</h2>
+</div>
+<div class="accordion-content">
+  <p>
+    Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results </p>
+</div>
+</div>
+
+
+            <!-- Accordion 3 -->
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">Do you treat children at Leela Dental Hospital?
+
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids                </p>
+              </div>
+            </div>
+            <!-- Accordion 4 -->
+            <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section">How do I book an appointment at Leela Dental Hospital?</h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability                </p>
+              </div>
+            </div>
+            <!-- Accordion 5 -->
+            <!-- <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section"> Can cancer be cured if detected early?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Yes, many types of cancer can be effectively treated or even cured if detected at an early stage. Regular screenings, awareness of symptoms, and early intervention improve survival rates significantly
+                </p>
+              </div>
+            </div> -->
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+  <script>
+    function toggleAccordion(header) {
+      const content = header.nextElementSibling;
+      const icon = header.querySelector(".accordion-icon");
+
+      content.classList.toggle("open");
+      icon.classList.toggle("rotate");
+
+      icon.textContent = content.classList.contains("open") ? "−" : "+";
+    }
+  </script>
+
+
+
+
+
+
+
+
+
+
 
 
 

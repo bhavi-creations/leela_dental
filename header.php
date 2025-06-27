@@ -143,6 +143,82 @@ EHS dental treatment in Kakinada ">
     }
   </script>
 
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services are available at Leela Dental Hospital, Kakinada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Leela Dental Hospital the best dental clinic in Kakinada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide dental implants in Kakinada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Leela Dental Hospital different from other clinics in Kakinada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the cost of a dental implant in Kakinada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is root canal treatment painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you treat children at Leela Dental Hospital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book an appointment at Leela Dental Hospital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability."
+      }
+    }
+  ]
+}
+</script>
+
+
+
+
 
 
 
@@ -239,6 +315,28 @@ EHS dental treatment in Kakinada ">
 
                     <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
                     <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
                   </ul>
                 </li>
                 <li class="dropdown-submenu">
