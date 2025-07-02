@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+# Block sensitive or backend folders (optional, based on CMS)
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /thank-you/
+Disallow: /terms-and-conditions
+Disallow: /privacy-policy
+# Allow important AJAX files
+Allow: /wp-admin/admin-ajax.php
+# Sitemap location
+Sitemap: https://leeladentalhospital.com/sitemap.xml

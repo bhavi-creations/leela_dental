@@ -1105,14 +1105,14 @@
               </div>
               <div class="accordion-content">
                 <p>
-                The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs                </p>
+                  The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs </p>
               </div>
             </div>
 
 
 
 
-           
+
 
 
 
@@ -1166,7 +1166,7 @@
 
           <div class="accordion">
             <!-- Accordion 1 -->
-           
+
             <!-- Accordion 2 -->
             <div class="faq_section">
 
@@ -1178,7 +1178,7 @@
               </div>
               <div class="accordion-content">
                 <p>
-                No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort                </p>
+                  No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort </p>
               </div>
             </div>
 
@@ -1186,16 +1186,16 @@
 
             <div class="faq_section">
 
-<div class="accordion-header" onclick="toggleAccordion(this)">
-  <h2 class="faq_heading_section"> Is Leela Dental Hospital the best dental clinic in Kakinada?
-  </h2>
-  <h2 class="accordion-icon">+</h2>
-</div>
-<div class="accordion-content">
-  <p>
-    Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results </p>
-</div>
-</div>
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section"> Is Leela Dental Hospital the best dental clinic in Kakinada?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results </p>
+              </div>
+            </div>
 
 
             <!-- Accordion 3 -->
@@ -1208,7 +1208,7 @@
               </div>
               <div class="accordion-content">
                 <p>
-                Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids                </p>
+                  Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids </p>
               </div>
             </div>
             <!-- Accordion 4 -->
@@ -1219,7 +1219,7 @@
               </div>
               <div class="accordion-content">
                 <p>
-                You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability                </p>
+                  You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability </p>
               </div>
             </div>
             <!-- Accordion 5 -->
@@ -1259,7 +1259,7 @@
     }
   </script>
 
-
+      
 
 
 

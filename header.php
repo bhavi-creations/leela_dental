@@ -105,43 +105,7 @@ EHS dental treatment in Kakinada ">
 
   <link rel="canonical" href="https://leeladentalhospital.com/"   />
 
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Dentist",
-      "name": "Leela Dental Hospital",
-      "url": "https://leeladentalhospital.com/",
-      "logo": "https://leeladentalhospital.com/assets/images/logo.png",
-      "image": "https://leeladentalhospital.com/assets/images/clinic-front.jpg",
-      "description": "Leela Dental Hospital in Kakinada offers advanced dental care including implants, Invisalign, root canals, cosmetic dentistry, and accepts EHS scheme patients.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "D.NO: 2-18-9/1, opposite to old SP Office Road, Near RMC Ground, Madhavnagar",
-        "addressLocality": "Kakinada",
-        "addressRegion": "Andhra Pradesh",
-        "postalCode": "533003",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 16.9752998,
-        "longitude": 82.2406115
-      },
-      "hasMap": "https://maps.google.com/?q=16.9752998,82.2406115",
-      "openingHours": "Mo-Sa 09:00-20:00",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "‪+91-9493782298‬",
-        "contactType": "Customer Service",
-        "areaServed": "IN",
-        "availableLanguage": ["English", "Telugu"]
-      },
-      "sameAs": [
-        "https://www.facebook.com/LeelaDentalHospital",
-        "https://www.instagram.com/LeelaDentalHospital"
-      ]
-    }
-  </script>
+
 
   <script type="application/ld+json">
 {
@@ -217,6 +181,51 @@ EHS dental treatment in Kakinada ">
 </script>
 
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "name": "Leela Dental Hospital",
+  "url": "https://leeladentalhospital.com/",
+  "logo": "https://leeladentalhospital.com/assets/images/logo.png",
+  "image": "https://leeladentalhospital.com/assets/images/clinic-front.jpg",
+  "description": "Leela Dental Hospital in Kakinada offers advanced dental care including implants, Invisalign, root canals, cosmetic dentistry, and accepts EHS scheme patients.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "D.NO: 2-18-9/1, opposite to old SP Office Road, Near RMC Ground, Madhavnagar",
+    "addressLocality": "Kakinada",
+    "addressRegion": "Andhra Pradesh",
+    "postalCode": "533003",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 16.9752998,
+    "longitude": 82.2406115
+  },
+  "hasMap": "https://maps.google.com/?q=16.9752998,82.2406115",
+  "openingHours": "Mo-Sa 09:00-20:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9493782298",
+    "contactType": "Customer Service",
+    "areaServed": "IN",
+    "availableLanguage": ["English", "Telugu"]
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. K.V. Krishnam Raju",
+    "jobTitle": "Teeth Denture & Implants Specialist",
+    "sameAs": "https://g.co/kgs/Mqgb81V"
+  },
+  "sameAs": [
+    "https://www.facebook.com/LeelaDentalHospital",
+    "https://www.instagram.com/LeelaDentalHospital",
+    "https://g.co/kgs/Mqgb81V"
+  ]
+}
+</script>
 
 
 
