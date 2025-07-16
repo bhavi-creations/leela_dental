@@ -34,7 +34,8 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/ct_scan.png" class="img-fluid" alt="" />
+                                    <img src="assets/images/services/intra_oral_scanner.png" class="img-fluid" alt="" />
+                                        <!-- <img src="assets/images/services/ct_scan.png" class="img-fluid" alt="" /> -->
                                     </div>
                                     <!-- Service Img End -->
 
@@ -56,7 +57,8 @@
                                 <div class="service-item">
                                     <!-- Service Img Start -->
                                     <div class="service-img">
-                                        <img src="assets/images/services/x_ray.png" class="img-fluid" alt="" />
+                                        <img src="assets/images/services/cbct_image.png" class="img-fluid" alt="" />
+                                        <!-- <img src="assets/images/services/x_ray.png" class="img-fluid" alt="" /> -->
                                     </div>
                                     <!-- Service Img End -->
 
@@ -65,7 +67,8 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="ray.php"> 3D X-ray</a>
+                                                <!-- <a href="ray.php"> 3D X-ray</a> -->
+                                                <a href="ray.php"> Dental CT-Scan (CBCT)</a>
                                             </h3>
                                             <a class="read-more" href="ray.php">Know More</a>
                                         </div>
@@ -78,7 +81,9 @@
                                 <div class="service-item">
                                 
                                     <div class="service-img">
-                                        <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" />
+                                        <!-- <img src="assets/images/services/sterlization.png" class="img-fluid" alt="" /> -->
+                                        <img src="assets/images/services/laser_equipment.png" class="img-fluid" alt="" />
+                                    
                                     </div>
                                    
                                     <div class="service-content text-center">

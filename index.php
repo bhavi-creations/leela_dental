@@ -5,7 +5,7 @@
 
 <section>
 
-  <img src="assets/images/slider/Leela.jpg" alt="" class="img-fluid">
+  <img src="assets/images/slider/Leela.png" alt="" class="img-fluid">
 </section>
 <!-- Slider Section End -->
 
@@ -31,14 +31,14 @@
                 Comprehensive Dental Care for a Healthy Smile</p>
               <p>Advanced Technology & Expert Dental Specialists</p>
               <p>Painless & Affordable Treatments for All Ages</p>
-              <p>Your Trusted Destination for Quality Dental Services,</p>
+              <p>Your Trusted Destination for Quality Dental Services</p>
 
             </div>
           </div>
           <div class="col-lg-5 col-md-5">
             <div class="features-text">
               <p>
-                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With 15 years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With 16 years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
               </p>
               <h3 class="name">
                 Dr.K.V.Krishnam Raju<span>Founder</span>
@@ -57,7 +57,8 @@
             <div class="features-item">
               <div class="features-item-wrapper">
                 <i class="flaticon-health-check"></i>
-                <h4 class="title">Medical Advices & Check Ups</h4>
+                <h4 class="title">Medical Advice &  Check-Ups  </h4>
+                <!-- <h4 class="title">Medical Advices & Check Ups   </h4> -->
               </div>
             </div>
           </div>
@@ -122,7 +123,7 @@
           <!-- About Text Start -->
           <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
             <h2 class="title">
-              Welcome to Leela Dental Hopsital
+              Welcome to Leela Dental Hospital
             </h2>
             <p>
               At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
@@ -152,13 +153,14 @@
               </a>
 
               <p>
-                Teeth Denture & implants specialist
+              Oral & maxillofacial prosthodontist & implantologist 
               </p>
             </div>
             <div class="research-content">
               <h4 class="title">Biography</h4>
               <p>
-                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in general and cosmetic dentistry. With 15 years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
+                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in Oral & maxillofacial prosthodontist & implantologist 
+                . With 16 years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, he focus on creating comfortable, long-term solutions for every individual. </p>
             </div>
           </div>
           <!-- Research Content End -->

@@ -26,9 +26,11 @@
                                      <i class="ri-mail-unread-fill"></i> leeladentalcare123@gmail.com
                                  </li>
                                  <li>
-                                     <i class="ri-map-pin-add-line "></i>
+                                    
 
-                                     D.NO: 2-18-9/1, opposite to old SP Office Road Near RMC Ground Madhavnagar,Kakinada-533003
+                                     <a href="https://maps.app.goo.gl/3FXDP2nqPGM5Q6FL6" target="_blank" >
+
+                                     <i class="ri-map-pin-add-line "></i>  D.NO: 2-18-9/1, opposite to old SP Office Road Near RMC Ground Madhavnagar,Kakinada-533003 </a>
 
 
                                  </li>
