@@ -44,7 +44,7 @@
                                         <i class="flaticon-surgery-room"></i>
                                         <div class="service-icon-wrapper">
                                             <h3 class="title">
-                                                <a href="dental_ct_scan.php"> Dental Scanner</a>
+                                                <a href="dental_ct_scan.php"> Intraoral scanner</a>
                                             </h3>
                                             <a class="read-more" href="dental_ct_scan.php">Know More</a>
                                         </div>
