@@ -36,7 +36,8 @@
             <div class="about-wrapper">
                 <div class="container implants_content ">
                     <h1 class="text-center">
-                        Dental Scanner Equipment</h1>
+
+                        Intraoral scanner Equipment</h1>
                     <p class="text-center"> Advanced Imaging for Precise Diagnosis
                         Revolutionizing Treatment Planning with 3D Imaging Technology </p>
                 </div>
@@ -61,9 +62,9 @@
 
                             </p>
                             <p>
-                            There are different types of dental scanners, including intraoral scanners, desktop scanners, and CBCT (Cone Beam Computed Tomography) scanners. Intraoral scanners are handheld devices that scan the inside of the mouth, while desktop scanners are used in dental labs to digitize physical impressions. CBCT scanners provide detailed 3D imaging of teeth, bones, and soft tissues, essential for implant planning and orthodontics.
+                                There are different types of dental scanners, including intraoral scanners, desktop scanners, and CBCT (Cone Beam Computed Tomography) scanners. Intraoral scanners are handheld devices that scan the inside of the mouth, while desktop scanners are used in dental labs to digitize physical impressions. CBCT scanners provide detailed 3D imaging of teeth, bones, and soft tissues, essential for implant planning and orthodontics.
 
-</p>
+                            </p>
                         </div>
 
                     </div>

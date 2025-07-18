@@ -11,7 +11,7 @@
         <div class="container">
             <div class="about-wrapper">
             <div class="container ">
-        <h1 class="text-center ">3D X-Ray Equipment</h1>
+        <h1 class="text-center ">Dental CT-Scan (CBCT) Equipment</h1>
         <p class="text-center">Gain accurate, detailed views of your teeth, jaw, and surrounding structures with state-of-the-art 3D X-ray technology.
 
 </p>
