@@ -107,49 +107,49 @@ EHS dental treatment in Kakinada ">
 
 
   <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Dentist",
-  "name": "Leela Dental Hospital",
-  "url": "https://leeladentalhospital.com/",
-  "logo": "https://leeladentalhospital.com/assets/images/logo.png",
-  "image": "https://leeladentalhospital.com/assets/images/clinic-front.jpg",
-  "description": "Leela Dental Hospital in Kakinada offers advanced dental care including implants, Invisalign, root canals, cosmetic dentistry, and accepts EHS scheme patients.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "D.NO: 2-18-9/1, opposite to old SP Office Road, Near RMC Ground, Madhavnagar",
-    "addressLocality": "Kakinada",
-    "addressRegion": "Andhra Pradesh",
-    "postalCode": "533003",
-    "addressCountry": "IN"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 16.9752998,
-    "longitude": 82.2406115
-  },
-  "hasMap": "https://maps.google.com/?q=16.9752998,82.2406115",
-  "openingHours": "Mo-Sa 09:00-20:00",
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91-9493782298",
-    "contactType": "Customer Service",
-    "areaServed": "IN",
-    "availableLanguage": ["English", "Telugu"]
-  },
-  "founder": {
-    "@type": "Person",
-    "name": "Dr. K.V. Krishnam Raju",
-    "jobTitle": "Teeth Denture & Implants Specialist",
-    "sameAs": "https://g.co/kgs/Mqgb81V"
-  },
-  "sameAs": [
-    "https://www.facebook.com/LeelaDentalHospital",
-    "https://www.instagram.com/LeelaDentalHospital",
-    "https://g.co/kgs/Mqgb81V"
-  ]
-}
-</script>
+    {
+      "@context": "https://schema.org",
+      "@type": "Dentist",
+      "name": "Leela Dental Hospital",
+      "url": "https://leeladentalhospital.com/",
+      "logo": "https://leeladentalhospital.com/assets/images/logo.png",
+      "image": "https://leeladentalhospital.com/assets/images/clinic-front.jpg",
+      "description": "Leela Dental Hospital in Kakinada offers advanced dental care including implants, Invisalign, root canals, cosmetic dentistry, and accepts EHS scheme patients.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "D.NO: 2-18-9/1, opposite to old SP Office Road, Near RMC Ground, Madhavnagar",
+        "addressLocality": "Kakinada",
+        "addressRegion": "Andhra Pradesh",
+        "postalCode": "533003",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 16.9752998,
+        "longitude": 82.2406115
+      },
+      "hasMap": "https://maps.google.com/?q=16.9752998,82.2406115",
+      "openingHours": "Mo-Sa 09:00-20:00",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-9493782298",
+        "contactType": "Customer Service",
+        "areaServed": "IN",
+        "availableLanguage": ["English", "Telugu"]
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Dr. K.V. Krishnam Raju",
+        "jobTitle": "Teeth Denture & Implants Specialist",
+        "sameAs": "https://g.co/kgs/Mqgb81V"
+      },
+      "sameAs": [
+        "https://www.facebook.com/LeelaDentalHospital",
+        "https://www.instagram.com/LeelaDentalHospital",
+        "https://g.co/kgs/Mqgb81V"
+      ]
+    }
+  </script>
 
 
 
@@ -160,81 +160,80 @@ EHS dental treatment in Kakinada ">
 
 
   <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
     {
-      "@type": "Question",
-      "name": "What services are available at Leela Dental Hospital, Kakinada?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is Leela Dental Hospital the best dental clinic in Kakinada?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you provide dental implants in Kakinada?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What makes Leela Dental Hospital different from other clinics in Kakinada?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the cost of a dental implant in Kakinada?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is root canal treatment painful?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you treat children at Leela Dental Hospital?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I book an appointment at Leela Dental Hospital?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability."
-      }
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+          "@type": "Question",
+          "name": "What services are available at Leela Dental Hospital, Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Leela Dental Hospital the best dental clinic in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide dental implants in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes Leela Dental Hospital different from other clinics in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the cost of a dental implant in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is root canal treatment painful?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you treat children at Leela Dental Hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book an appointment at Leela Dental Hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability."
+          }
+        }
+      ]
     }
-  ]
-}
-</script>
+  </script>
 
 
 
-<!-- <script type="application/ld+json">
+  <!-- <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Dentist",
@@ -397,7 +396,7 @@ EHS dental treatment in Kakinada ">
 
 
 
-                    
+
                   </ul>
                 </li>
                 <li class="dropdown-submenu">
@@ -429,6 +428,14 @@ EHS dental treatment in Kakinada ">
             </li>
             <li class="nav-item">
               <a class="  app_bg text text-center" href="appointment.php">Make Appointment</a>
+            </li>
+
+
+
+
+            <li class="nav-item">
+              <a class="nav-link  text-white" href="award.php
+              ">Award</a>
             </li>
           </ul>
         </div>
@@ -502,10 +509,17 @@ EHS dental treatment in Kakinada ">
             <li class="nav-item"><a class="nav-link" href="blogs.php">Blog</a></li>
             <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 
+
+
+            <li class="nav-item"><a class="nav-link" href="award.php">Award</a></li>
+
             <!-- Appointment Button -->
             <li class="nav-item">
               <a class="btn btn-primary nav-btn w-100 mt-3" href="appointment.php">Make Appointment</a>
             </li>
+
+
+          
           </ul>
         </div>
       </div>
