@@ -168,7 +168,7 @@
         <div class="col-lg-6 col-md-6">
           <!-- Research Img Start -->
           <div class="research-img">
-            <img src="assets/images/research.png" alt="" />
+            <img src="assets/images/krishnam_raju.png" alt="" />
           </div>
           <!-- Research Img End -->
         </div>

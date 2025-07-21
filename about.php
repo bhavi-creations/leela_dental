@@ -68,7 +68,7 @@
         <div class="col-lg-6 col-md-6">
           <!-- Research Img Start -->
           <div class="research-img">
-            <img src="assets/images/research.png" alt="" />
+            <img src="assets/images/krishnam_raju.png" alt="" />
           </div>
           <!-- Research Img End -->
         </div>
@@ -214,7 +214,7 @@
                     <div class="team-item">
                       <!-- Team Img Start -->
                       <div class="team-img">
-                        <img src="assets/images/team/team-2.jpg" alt="" />
+                        <img src="assets/images/services/equipment7.png" alt="" />
                       </div>
                       <!-- Team Img End -->
 
@@ -237,7 +237,10 @@
                         <h3 class="name">
                           Dr.Masapu Anupama
                         </h3>
-                        <h5 class="designation">Gums &Surgery specialist</h5>
+                       
+
+                        <h5 class="designation"> MDS PERIODONTOLOGY AND IMPLANTOLOGY</h5>
+                        <!-- <h5 class="designation">Gums &Surgery specialist</h5> -->
                         <div class="">
                           <!-- <ul>
                              <li>
@@ -279,7 +282,7 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          Dr. CH.KIran
+                          Dr. CH.Kiran
                         </h3>
                         <h5 class="designation">clips specialist</h5>
                         <div class="">
@@ -302,7 +305,7 @@
                     <div class="team-item">
 
                       <div class="team-img">
-                        <img src="assets/images/team/team-1.jpg" alt="" />
+                        <img src="assets/images/services/equipment8.png" alt="" />
                       </div>
 
                       <div class="team-content text-center my-3 py-3">
@@ -322,8 +325,9 @@
                          </ul> -->
                         <h3 class="name">
                           Dr.Ganesh
-                        </h3>
-                        <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5>
+                        </h3> 
+                        <h5 class="designation">Oral & Maxillofacial Surgeon</h5>
+                        <!-- <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5> -->
                         <div class="">
                           <!-- <ul>
                              <li>

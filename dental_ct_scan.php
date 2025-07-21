@@ -1,6 +1,6 @@
 <?php include "./header.php"; ?>
 
-<img src="assets/img/sliders_images/intraoral_scanner.png" class="img-fluid " alt="">
+<img src="assets/img/sliders_images/intraoral_scanner.png " class="img-fluid " alt="">
 
 
 
