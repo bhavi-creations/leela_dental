@@ -261,7 +261,7 @@
                     <div class="team-item">
                       <!-- Team Img Start -->
                       <div class="team-img">
-                        <img src="assets/images/team/team-3.jpg" alt="" />
+                        <img src="assets/images/team/team-2.jpg" alt="" />
                       </div>
                       <!-- Team Img End -->
 
