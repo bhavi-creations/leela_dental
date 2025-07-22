@@ -22,7 +22,7 @@
         <div class="col-lg-6 col-md-6">
           <!-- About Text Start -->
           <div class="about-text">
-            <h2 class="title">Fully Dedicated to Your  Dental Health.</h2>
+            <h2 class="title">Fully Dedicated to Your Dental Health.</h2>
             <p>
               Leela Dental Hospital is dedicated to providing exceptional dental care with a focus on patient comfort and advanced treatment solutions. Our experienced team of dental specialists ensures personalized care, using state-of-the-art technology for accurate diagnoses and effective treatments.
 
@@ -50,16 +50,17 @@
           <div class="research-content-wrapper">
             <div class="section-title research-title">
               <!-- <h3 class="sub-title">Top Research</h3> -->
-              <h2 class="title">Dr.K.V.Krishnam Raju </h2>
+              <h2 class="title">Dr.K.V.Krishnam Raju  </h2>
               <p>
                 <!-- Teeth Denture & implants specialist -->
-                Oral & maxillofacial prosthodontist & implantologist 
+                Oral & Maxillofacial Prosthodontist & Implantologist
+                
               </p>
             </div>
             <div class="research-content">
               <h4 class="title">Biography</h4>
               <p>
-                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in Oral & maxillofacial prosthodontist & implantologist 
+                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in Oral & maxillofacial prosthodontist & implantologist
                 . With 16 years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, they focus on creating comfortable, long-term solutions for every individual. </p>
             </div>
           </div>
@@ -138,12 +139,13 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          Dr.K.V.Krishnam Raju
+                          Dr.K.V.Krishnam Raju MDS
                         </h3>
                         <!-- <h5 class="designation">Teeth Denture & implants specialist</h5> -->
-                        <h5 class="designation">  Oral & maxillofacial prosthodontist & implantologist </h5>
+                        <h5 class="designation">        Oral & Maxillofacial Prosthodontist & Implantologist
+                        </h5>
 
-                      
+
 
                         <!-- <div class="team-info"> -->
                         <div class="">
@@ -191,7 +193,7 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          Dr.Y.Sunanda
+                          Dr.Y.Sunanda MDS
                         </h3>
                         <h5 class="designation">ROOT Canal specialist</h5>
                         <div class="">
@@ -237,9 +239,9 @@
                         <h3 class="name">
                           Dr.Masapu Anupama
                         </h3>
-                       
 
-                        <h5 class="designation"> MDS PERIODONTOLOGY AND IMPLANTOLOGY</h5>
+
+                        <h5 class="designation"> MDS PERIODONTOLOGY AND IMPLANTOLOGY  </h5>
                         <!-- <h5 class="designation">Gums &Surgery specialist</h5> -->
                         <div class="">
                           <!-- <ul>
@@ -261,7 +263,7 @@
                     <div class="team-item">
                       <!-- Team Img Start -->
                       <div class="team-img">
-                        <img src="assets/images/team/team-2.jpg" alt="" />
+                        <img src="assets/images/services/equipment10.png" alt="" />
                       </div>
                       <!-- Team Img End -->
 
@@ -282,9 +284,11 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          Dr. CH.Kiran
+                          Dr. CH.Kiran MDS
                         </h3>
-                        <h5 class="designation">clips specialist</h5>
+                        <!-- <h5 class="designation">clips specialist</h5> -->
+                        <h5 class="designation">( orthodontics and dentofacial orthopaedics)
+                          Metal and ceramic braces specialist</h5>
                         <div class="">
                           <!-- <ul>
                              <li>
@@ -299,6 +303,73 @@
                     </div>
                   </div>
                 </div>
+
+
+
+
+
+
+
+                <div class="custom-card custom_card_bg_three swiper-slide">
+
+                  <div>
+                    <div class="team-item">
+                      <!-- Team Img Start -->
+                      <div class="team-img">
+                        <img src="assets/images/services/equipment9.png" alt="" />
+                      </div>
+                      <!-- Team Img End -->
+
+                      <!-- Team Content Start -->
+                      <div class="team-content text-center my-3 py-3">
+                        <!-- <ul class="social">
+         <li>
+           <a href="#"><i class="ri-facebook-fill"></i></a>
+         </li>
+         <li>
+           <a href="#"><i class="ri-twitter-fill"></i></a>
+         </li>
+         <li>
+           <a href="#"><i class="ri-linkedin-fill"></i></a>
+         </li>
+         <li>
+           <a href="#"><i class="ri-instagram-fill"></i></a>
+         </li>
+       </ul> -->
+                        <h3 class="name">
+                          Dr.Deepika MDS
+                        </h3>
+                        <h5 class="designation">clips specialist</h5>
+                        <div class="">
+                          <!-- <ul>
+           <li>
+             <i class="ri-mail-unread-fill"></i>
+             <span>info@example.com</span>
+           </li>
+           <li><i class="ri-phone-fill"></i> +123 4567 7899</li>
+         </ul> -->
+                        </div>
+                      </div>
+                      <!-- Team Content End -->
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <div class="custom-card custom_card_bg_three swiper-slide">
 
                   <div>
@@ -324,8 +395,8 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          Dr.Ganesh
-                        </h3> 
+                          Dr.Ganesh MDS
+                        </h3>
                         <h5 class="designation">Oral & Maxillofacial Surgeon</h5>
                         <!-- <h5 class="designation">Jaws,Facial Surgeries & Wisdom Teeth Specialist</h5> -->
                         <div class="">
@@ -372,7 +443,10 @@
                         <h3 class="name">
                           Dr Sahithi MDS
                         </h3>
-                        <h5 class="designation">CLIPS SPECIALIST</h5>
+                        <h5 class="designation">( Orthodontics And Dentofacial Orthopaedics)
+                          Metal And Ceramic Braces Specialist 
+                          Clear Aligner specialist
+                        </h5>
                         <div class="">
                           <!-- <ul>
                              <li>
@@ -416,9 +490,10 @@
                            </li>
                          </ul> -->
                         <h3 class="name">
-                          DR.HARINI
-                        </h3>
-                        <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5>
+                          DR.Harini  MDS
+                        </h3> 
+                        <h5 class="designation">Oral Medicine and Radiology 
+                        </h5>
                         <div class="">
                           <!-- <ul>
                              <li>
@@ -469,9 +544,10 @@
         </li>
       </ul> -->
                         <h3 class="name">
-                          DR.prudhvi
+                          Dr Prudhvi MDS
+
                         </h3>
-                        <!-- <h5 class="designation">ORAL MEDICINE AND RADIOLOGY</h5> -->
+                        <h5 class="designation">Specialist in children teeth</h5>
                         <div class="">
                           <!-- <ul>
           <li>
