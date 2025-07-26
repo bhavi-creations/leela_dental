@@ -11,7 +11,37 @@
 
 
 
+<section>
+  <div class="container py-5">
+    <div class="features-content">
+      <div class="row">
+        <div class="col-lg-7 col-md-7">
+          <div class="features-title ">
+            <h2 class="title_content">
+              LEELA DENTAL HOSPITAL
+            </h2>
+            <p>
+              Comprehensive Dental Care for a Healthy Smile</p>
+            <p>Advanced Technology & Expert Dental Specialists</p>
+            <p>Painless & Affordable Treatments for All Ages</p>
+            <p>Your Trusted Destination for Quality Dental Services</p>
 
+          </div>
+        </div>
+        <div class="col-lg-5 col-md-5">
+          <div class="features-text">
+            <p>
+              At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With 16 years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
+            </p>
+            <h3 class="name">
+              Dr.K.V.Krishnam Raju<span>Founder</span>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
@@ -22,55 +52,69 @@
 
       <div class="features-content">
         <div class="row">
-          <div class="col-lg-7 col-md-7">
-            <div class="features-title ">
-              <h2 class="title_content">
-                LEELA DENTAL HOSPITAL
-              </h2>
-              <p>
-                Comprehensive Dental Care for a Healthy Smile</p>
-              <p>Advanced Technology & Expert Dental Specialists</p>
-              <p>Painless & Affordable Treatments for All Ages</p>
-              <p>Your Trusted Destination for Quality Dental Services</p>
+          <div class="unic-features-content">
+            <div class="row align-items-center">
 
+              <!-- Image Auto Slider -->
+              <div class="col-12 col-md-7">
+                <div id="unic-awardSlider" class="unic-slider-container">
+                  <img src="assets\images\awards\1.png" class="unic-slider-image img-fluid" alt="Award 1">
+                  <img src="assets\images\awards\3.png" class="unic-slider-image img-fluid" alt="Award 2">
+                  <!-- <img src="assets\images\services\4.png" class="unic-slider-image" alt="Award 3"> -->
+                </div>
+              </div>
+
+              <!-- Text Paragraphs -->
+              <div class="col-12 col-md-5">
+                <div class="unic-features-text">
+                  <!-- <p><strong>Honored by Former CM K. Rosaiah:</strong> Our hospital received a prestigious award from the late Shri K. Rosaiah Garu, recognizing our contribution to dental healthcare and community service across the state.</p> -->
+                  <!-- 
+                  <p class="award-highlight">
+                    Leela Dental Hospital was proudly awarded by Ex-Chief Minister K. Rosaiah Garu and Collector Krithika Shukla, IAS
+                  </p> -->
+
+                  <!-- <p class="award-highlight">
+                    Dr. Krishnam Raju Garu, of Leela Superspeciality Dental Hospital, was honored with an award presented by the former Chief Minister, Sri Konijeti Rosaiah. He also received another distinguished award from the District Collector, Smt. Krithika Shukla, I.A.S.
+                  </p> -->
+
+                  <p class="award-highlight">
+                  Dr. Krishnam Raju Garu, of Leela Superspeciality Dental Hospital, was honored with an award presented by the former Chief Minister, Sri Konijeti Rosaiah. He also received another  award from the District Collector, Smt. Krithika Shukla, I.A.S.
+                  </p>
+
+                  <!-- <p>
+                    Leela Dental Hospital was proudly awarded by Ex-Chief Minister K. Rosaiah Garu and Collector Krithika Shukla, IAS
+                  </p> -->
+                  <!-- <p><strong>District Collector Award:</strong> We were acknowledged by the District Collector for our consistent efforts in providing quality dental services during public health drives and awareness campaigns.</p> -->
+                </div>
+              </div>
             </div>
           </div>
-          <div class="col-lg-5 col-md-5">
-            <div class="features-text">
-              <p>
-                At Leela dental hospital , our journey of excellence in dental care began with the vision and dedication of our founder, Dr.K.V.Krishnam Raju . With 16 years of experience and a passion for improving oral health, Dr.K.V.Krishnam Raju has been at the forefront of modern dentistry, ensuring that every patient receives the highest standard of care.
-              </p>
-              <h3 class="name">
-                Dr.K.V.Krishnam Raju<span>Founder</span>
-              </h3>
-            </div>
-          </div>
+
         </div>
-      </div>
-      <!-- Features Content End -->
+        <!-- Features Content End -->
 
-      <!-- Features Icon Wrapper Start -->
-      <div class="features-icon-wrapper">
-        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 justify-content-around">
-          <!-- Features Item Start -->
-          <div class="col">
-            <div class="features-item">
-              <div class="features-item-wrapper">
-                <i class="flaticon-health-check"></i>
-                <h4 class="title">Medical Advice &  Check-Ups  </h4>
-                <!-- <h4 class="title">Medical Advices & Check Ups   </h4> -->
+        <!-- Features Icon Wrapper Start -->
+        <div class="features-icon-wrapper">
+          <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 justify-content-around">
+            <!-- Features Item Start -->
+            <div class="col">
+              <div class="features-item">
+                <div class="features-item-wrapper">
+                  <i class="flaticon-health-check"></i>
+                  <h4 class="title">Medical Advice & Check-Ups </h4>
+                  <!-- <h4 class="title">Medical Advices & Check Ups   </h4> -->
+                </div>
               </div>
             </div>
-          </div>
-          <div class="col">
-            <div class="features-item">
-              <div class="features-item-wrapper">
-                <i class="flaticon-medicine"></i>
-                <h4 class="title">Trusted Dental Treatment</h4>
+            <div class="col">
+              <div class="features-item">
+                <div class="features-item-wrapper">
+                  <i class="flaticon-medicine"></i>
+                  <h4 class="title">Trusted Dental Treatment</h4>
+                </div>
               </div>
             </div>
-          </div>
-          <!-- <div class="col">
+            <!-- <div class="col">
             <div class="features-item">
               <div class="features-item-wrapper">
                 <i class="flaticon-ambulance"></i>
@@ -78,445 +122,447 @@
               </div>
             </div>
           </div> -->
-          <div class="col">
-            <div class="features-item">
-              <div class="features-item-wrapper">
-                <i class="flaticon-doctor"></i>
-                <h4 class="title">Only Qualified Doctors</h4>
+            <div class="col">
+              <div class="features-item">
+                <div class="features-item-wrapper">
+                  <i class="flaticon-doctor"></i>
+                  <h4 class="title">Only Qualified Doctors</h4>
+                </div>
               </div>
             </div>
-          </div>
-          <div class="col">
-            <div class="features-item">
-              <div class="features-item-wrapper">
-                <i class="flaticon-microscope"></i>
-                <h4 class="title">
-                  Medical <br />
-                  Research
-                </h4>
+            <div class="col">
+              <div class="features-item">
+                <div class="features-item-wrapper">
+                  <i class="flaticon-microscope"></i>
+                  <h4 class="title">
+                    Medical <br />
+                    Research
+                  </h4>
+                </div>
               </div>
             </div>
+            <!-- Features Item End -->
           </div>
-          <!-- Features Item End -->
         </div>
+        <!-- Features Icon Wrapper End -->
       </div>
-      <!-- Features Icon Wrapper End -->
     </div>
   </div>
-</div>
-<!-- Features Section End -->
 
-<!-- About Section End -->
-<div class="section about-area section-padding">
-  <div class="container">
-    <div class="about-wrapper">
-      <!-- About Content Start -->
-      <div class="row align-items-center">
-        <div class="col-lg-6 col-md-6">
-          <!-- About Img Start -->
-          <div class="about-img">
-            <img src="assets/images/team/hospital.png" alt="" class="img-fluid" />
+
+  <!-- Features Section End -->
+
+  <!-- About Section End -->
+  <div class="section about-area section-padding">
+    <div class="container">
+      <div class="about-wrapper">
+        <!-- About Content Start -->
+        <div class="row align-items-center">
+          <div class="col-lg-6 col-md-6">
+            <!-- About Img Start -->
+            <div class="about-img">
+              <img src="assets/images/team/hospital.png" alt="" class="img-fluid" />
+            </div>
+            <!-- About Img End -->
           </div>
-          <!-- About Img End -->
-        </div>
-        <div class="col-lg-6 col-md-6">
-          <!-- About Text Start -->
-          <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
-            <h2 class="title">
-              Welcome to Leela Dental Hospital
-            </h2>
-            <p>
-              At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
-            </p>
-          </div>
-          <!-- About Text End -->
-        </div>
-      </div>
-      <!-- About Content End -->
-    </div>
-  </div>
-</div>
-<!-- About Section End -->
-
-<!-- Research Section Start -->
-<div class="section research-area section-padding-02">
-  <div class="container">
-    <div class="research-wrapper">
-      <div class="row">
-        <div class="col-lg-6 col-md-6">
-          <!-- Research Content Start -->
-          <div class="research-content-wrapper">
-            <div class="section-title research-title">
-              <!-- <h3 class="sub-title">Top Research</h3> -->
-              <h2 class="title">Dr.K.V.Krishnam Raju</h2>
-
-              </a>
-
+          <div class="col-lg-6 col-md-6">
+            <!-- About Text Start -->
+            <div class="about-text" data-animation="fadeInUp" data-delay="0.9s">
+              <h2 class="title">
+                Welcome to Leela Dental Hospital
+              </h2>
               <p>
-              Oral & maxillofacial prosthodontist & implantologist 
+                At Leela Dental Hospital , we are committed to providing comprehensive, high-quality, and affordable dental care to patients of all ages. Our state-of-the-art facility is equipped with advanced technology and a team of skilled professionals dedicated to delivering the best dental treatments in a comfortable and friendly environment.
               </p>
             </div>
-            <div class="research-content">
-              <h4 class="title">Biography</h4>
-              <p>
-                Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in Oral & maxillofacial prosthodontist & implantologist 
-                . With 16 years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, he focus on creating comfortable, long-term solutions for every individual. </p>
-            </div>
+            <!-- About Text End -->
           </div>
-          <!-- Research Content End -->
         </div>
-        <div class="col-lg-6 col-md-6">
-          <!-- Research Img Start -->
-          <div class="research-img">
-            <img src="assets/images/krishnam_raju.png" alt="" />
-          </div>
-          <!-- Research Img End -->
-        </div>
+        <!-- About Content End -->
       </div>
     </div>
   </div>
+  <!-- About Section End -->
 
-  <img class="shape d-none d-md-block" src="assets/images/r-shape.png" alt="" />
-</div>
-<!-- Research Section End -->
-
-<!-- Team Section Start -->
-<div class="section team-area section-padding">
-  <div class="container">
-    <div class="team-wrapper">
-      <!-- Team Title Start -->
-      <div class="team-title-wrapper">
+  <!-- Research Section Start -->
+  <div class="section research-area section-padding-02">
+    <div class="container">
+      <div class="research-wrapper">
         <div class="row">
-          <div class="col-lg-8 col-md-8 col-sm-8">
-            <div class="section-title">
-              <h3 class="sub-title">Medical & General Care!</h3>
-              <h2 class="title">Meet Our Doctors</h2>
+          <div class="col-lg-6 col-md-6">
+            <!-- Research Content Start -->
+            <div class="research-content-wrapper">
+              <div class="section-title research-title">
+                <!-- <h3 class="sub-title">Top Research</h3> -->
+                <h2 class="title">Dr.K.V.Krishnam Raju</h2>
+
+                </a>
+
+                <p>
+                  Oral & maxillofacial prosthodontist & implantologist
+                </p>
+              </div>
+              <div class="research-content">
+                <h4 class="title">Biography</h4>
+                <p>
+                  Dr.K.V.Krishnam Raju is a highly skilled dental professional with expertise in Oral & maxillofacial prosthodontist & implantologist
+                  . With 16 years of experience, Dr.K.V.Krishnam Raju is dedicated to providing personalized care, using the latest techniques and technologies to ensure optimal oral health. Passionate about patient education, he focus on creating comfortable, long-term solutions for every individual. </p>
+              </div>
             </div>
+            <!-- Research Content End -->
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-4 align-self-end">
-            <div class="team-btn">
-              <a class="btn" href="about.php">All Doctors</a>
+          <div class="col-lg-6 col-md-6">
+            <!-- Research Img Start -->
+            <div class="research-img">
+              <img src="assets/images/krishnam_raju.png" alt="" />
             </div>
+            <!-- Research Img End -->
           </div>
         </div>
       </div>
-      <!-- Team Title End -->
+    </div>
 
-      <!-- Team Content Wrapper Start -->
-      <div class="team-content-wrapper">
+    <img class="shape d-none d-md-block" src="assets/images/r-shape.png" alt="" />
+  </div>
+  <!-- Research Section End -->
+
+  <!-- Team Section Start -->
+  <div class="section team-area section-padding">
+    <div class="container">
+      <div class="team-wrapper">
+        <!-- Team Title Start -->
+        <div class="team-title-wrapper">
+          <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-8">
+              <div class="section-title">
+                <h3 class="sub-title">Medical & General Care!</h3>
+                <h2 class="title">Meet Our Doctors</h2>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 align-self-end">
+              <div class="team-btn">
+                <a class="btn" href="about.php">All Doctors</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Team Title End -->
+
+        <!-- Team Content Wrapper Start -->
         <div class="team-content-wrapper">
+          <div class="team-content-wrapper">
 
-          <div class="custom-slide-container swiper">
-            <div class="custom-slide-content   ">
-              <div class="custom-card-wrapper swiper-wrapper py-5">
+            <div class="custom-slide-container swiper">
+              <div class="custom-slide-content   ">
+                <div class="custom-card-wrapper swiper-wrapper py-5">
 
-                <div class="custom-card custom_card_bg_three swiper-slide">
+                  <div class="custom-card custom_card_bg_three swiper-slide">
 
-                  <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
+                    <img src="assets/images/services/equipment2.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  </div>
+                  <div class="custom-card custom_card_bg_three swiper-slide">
 
-                  <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
+                    <img src="assets/images/services/equipment1.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  </div>
+                  <div class="custom-card custom_card_bg_three swiper-slide">
 
-                  <img src="assets/images/services/equipment.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-                </div>
-                <div class="custom-card custom_card_bg_three swiper-slide">
+                    <img src="assets/images/services/equipment.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  </div>
+                  <div class="custom-card custom_card_bg_three swiper-slide">
 
-                  <img src="assets/images/services/equipment3.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-                </div>
-                <!-- <div class="custom-card custom_card_bg_three swiper-slide">
+                    <img src="assets/images/services/equipment3.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  </div>
+                  <!-- <div class="custom-card custom_card_bg_three swiper-slide">
 
               <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
             </div> -->
-                <div class="custom-card custom_card_bg_three swiper-slide">
+                  <div class="custom-card custom_card_bg_three swiper-slide">
 
-                  <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                    <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
+                  </div>
+
                 </div>
+              </div>
 
+
+
+
+
+
+
+
+
+
+            </div>
+          </div>
+        </div>
+        <!-- Team Content Wrapper End -->
+      </div>
+    </div>
+  </div>
+  <!-- Team Section End -->
+
+
+  <!-- slider script  -->
+
+
+
+  <!-- slider script end  -->
+
+  <!-- Service Section Start -->
+  <div class="section service-area section-padding">
+    <img class="shape d-none d-md-block" src="assets/images/12.png" alt="" />
+    <div class="container">
+      <!-- Service Wrapper Start -->
+      <div class="service-wrapper">
+        <div class="row justify-content-center">
+          <!-- Section Title Start -->
+          <div class="col-lg-8">
+            <div class="section-title text-center">
+
+              <h2 class="title"> Dental Services</h2>
+            </div>
+          </div>
+          <!-- Section Title End -->
+        </div>
+
+        <!-- Service Content Wrapper Start -->
+        <div class="service-content-wrapper">
+          <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/4.png" alt="" class="img-fluid" />
+                </div>
+                <!-- Service Img End -->
+
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="implants.php">Implants</a>
+                    </h3>
+
+                    <a class="read-more" href="implants.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/1.png" class="img-fluid" alt="" />
+                </div>
+                <!-- Service Img End -->
+
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="rootcanal.php">Rootcanal</a>
+                    </h3>
+                    <a class="read-more" href="rootcanal.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/aligers.png" alt="" />
+                </div>
+                <!-- Service Img End -->
+
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="tooth_aligners.php"> Tooth Aligners</a>
+                    </h3>
+                    <a class="read-more" href="tooth_aligners.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/clip.png" alt="" />
+                </div>
+                <!-- Service Img End -->
+
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="clips_braces.php"> Clips or Braces</a>
+                    </h3>
+                    <a class="read-more" href="clips_braces.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
               </div>
             </div>
 
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/3.png" class="img-fluid" alt="" />
+                </div>
+                <!-- Service Img End -->
 
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="bridges.php">Crowns & Bridges </a>
+                    </h3>
+                    <a class="read-more" href="bridges.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
+                </div>
+                <!-- Service Img End -->
 
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="gum_surgery.php"> Gum surgery</a>
+                    </h3>
 
+                    <a class="read-more" href="gum_surgery.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
+                </div>
+                <!-- Service Img End -->
 
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="maxillofacial_surgery.php">Maxillofacial surgery</a>
+                    </h3>
 
+                    <a class="read-more" href="maxillofacial_surgery.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+              <div class="service-item">
+                <!-- Service Img Start -->
+                <div class="service-img">
+                  <img src="assets/images/services/2.png" class="img-fluid" alt="" />
+                </div>
+                <!-- Service Img End -->
 
-
-
-
+                <!-- Service Content Start -->
+                <div class="service-content text-center">
+                  <i class="flaticon-surgery-room"></i>
+                  <div class="service-icon-wrapper">
+                    <h3 class="title">
+                      <a href="lasers.php"> Laser Treatment</a>
+                    </h3>
+                    <a class="read-more" href="lasers.php">Know More</a>
+                  </div>
+                </div>
+                <!-- Service Content End -->
+              </div>
+            </div>
           </div>
         </div>
+        <!-- Service Content Wrapper End -->
+
+        <!-- Service Button start -->
+        <div class="row justify-content-center">
+          <div class="service-btn text-center">
+            <a class="btn" href="services.php">View All Services</a>
+          </div>
+        </div>
+        <!-- Service Button End -->
       </div>
-      <!-- Team Content Wrapper End -->
+      <!-- Service Wrapper End -->
     </div>
   </div>
-</div>
-<!-- Team Section End -->
+  <!-- Service Section End -->
 
-
-<!-- slider script  -->
-
-
-
-<!-- slider script end  -->
-
-<!-- Service Section Start -->
-<div class="section service-area section-padding">
-  <img class="shape d-none d-md-block" src="assets/images/12.png" alt="" />
-  <div class="container">
-    <!-- Service Wrapper Start -->
-    <div class="service-wrapper">
-      <div class="row justify-content-center">
-        <!-- Section Title Start -->
-        <div class="col-lg-8">
-          <div class="section-title text-center">
-
-            <h2 class="title"> Dental Services</h2>
-          </div>
-        </div>
-        <!-- Section Title End -->
-      </div>
-
-      <!-- Service Content Wrapper Start -->
-      <div class="service-content-wrapper">
+  <!--  Appointment Section Start -->
+  <div class="section appointment-area py-5">
+    <div class="container">
+      <!--  Appointment Wrapper Start -->
+      <div class="appointment-wrapper">
         <div class="row">
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/4.png" alt="" class="img-fluid" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="implants.php">Implants</a>
-                  </h3>
-
-                  <a class="read-more" href="implants.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/1.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="rootcanal.php">Rootcanal</a>
-                  </h3>
-                  <a class="read-more" href="rootcanal.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/aligers.png" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="tooth_aligners.php"> Tooth Aligners</a>
-                  </h3>
-                  <a class="read-more" href="tooth_aligners.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/clip.png" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="clips_braces.php"> Clips or Braces</a>
-                  </h3>
-                  <a class="read-more" href="clips_braces.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/3.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="bridges.php">Crowns & Bridges </a>
-                  </h3>
-                  <a class="read-more" href="bridges.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/gum.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="gum_surgery.php"> Gum surgery</a>
-                  </h3>
-
-                  <a class="read-more" href="gum_surgery.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/maxillo.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="maxillofacial_surgery.php">Maxillofacial surgery</a>
-                  </h3>
-
-                  <a class="read-more" href="maxillofacial_surgery.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="service-item">
-              <!-- Service Img Start -->
-              <div class="service-img">
-                <img src="assets/images/services/2.png" class="img-fluid" alt="" />
-              </div>
-              <!-- Service Img End -->
-
-              <!-- Service Content Start -->
-              <div class="service-content text-center">
-                <i class="flaticon-surgery-room"></i>
-                <div class="service-icon-wrapper">
-                  <h3 class="title">
-                    <a href="lasers.php"> Laser Treatment</a>
-                  </h3>
-                  <a class="read-more" href="lasers.php">Know More</a>
-                </div>
-              </div>
-              <!-- Service Content End -->
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Service Content Wrapper End -->
-
-      <!-- Service Button start -->
-      <div class="row justify-content-center">
-        <div class="service-btn text-center">
-          <a class="btn" href="services.php">View All Services</a>
-        </div>
-      </div>
-      <!-- Service Button End -->
-    </div>
-    <!-- Service Wrapper End -->
-  </div>
-</div>
-<!-- Service Section End -->
-
-<!--  Appointment Section Start -->
-<div class="section appointment-area py-5">
-  <div class="container">
-    <!--  Appointment Wrapper Start -->
-    <div class="appointment-wrapper">
-      <div class="row">
-        <div class="col-lg-5 col-md-5">
-          <div class="appointment-content">
-            <!--  Appointment Title Start -->
-            <div class="section-title appointment-main-title">
-              <h3 class="sub-title">Appointment</h3>
-              <h2 class="title">Make An Appointment</h2>
-              <!-- <p>
+          <div class="col-lg-5 col-md-5">
+            <div class="appointment-content">
+              <!--  Appointment Title Start -->
+              <div class="section-title appointment-main-title">
+                <h3 class="sub-title">Appointment</h3>
+                <h2 class="title">Make An Appointment</h2>
+                <!-- <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing egestas
                 Phasellus rutrum ante a tortor efficitur, quis tempor
                 tellus. Nunc pulvinar elit vitae sagittis tristique.
               </p> -->
-            </div>
-            <!--  Appointment Title End -->
+              </div>
+              <!--  Appointment Title End -->
 
-            <!--  Appointment Img Start -->
-            <div class="appointment-img">
-              <img src="assets/images/services/appointment.png" alt="" style="border-radius: 4px;" />
+              <!--  Appointment Img Start -->
+              <div class="appointment-img">
+                <img src="assets/images/services/appointment.png" alt="" style="border-radius: 4px;" />
+              </div>
+              <!--  Appointment Img End -->
             </div>
-            <!--  Appointment Img End -->
           </div>
-        </div>
-        <div class="col-lg-7 col-md-7">
-          <!--  Appointment Form Wrapper Start -->
-          <div class="appointment-form-wrapper">
-            <!--  Appointment Title Wrapper Start -->
-            <div class="appointment-title-wrapper">
-              <div class="appointment-title">
-                <h3 class="title">Book An Appointment</h3>
-                <span>Please Call Us To Ensure</span>
-                <h3 class="contact_btn "><i class="ri-phone-fill"></i>+91-9493782298</h3>
+          <div class="col-lg-7 col-md-7">
+            <!--  Appointment Form Wrapper Start -->
+            <div class="appointment-form-wrapper">
+              <!--  Appointment Title Wrapper Start -->
+              <div class="appointment-title-wrapper">
+                <div class="appointment-title">
+                  <h3 class="title">Book An Appointment</h3>
+                  <span>Please Call Us To Ensure</span>
+                  <h3 class="contact_btn "><i class="ri-phone-fill"></i>+91-9493782298</h3>
+                </div>
+                <div class="appointment-icon">
+                  <i class="ri-phone-fill"></i>
+                </div>
               </div>
-              <div class="appointment-icon">
-                <i class="ri-phone-fill"></i>
-              </div>
-            </div>
-            <!--  Appointment Title Wrapper End -->
+              <!--  Appointment Title Wrapper End -->
 
-            <!--  Appointment Form Inner Start -->
-            <div class="appointment-form-inner">
+              <!--  Appointment Form Inner Start -->
+              <div class="appointment-form-inner">
 
 
 
@@ -525,7 +571,7 @@
 
 
 
-              <!-- <form id="contact-form" action="appointmentform.php" method="post">
+                <!-- <form id="contact-form" action="appointmentform.php" method="post">
                 <div class="row">
 
                   <div class="col-sm-6">
@@ -563,47 +609,47 @@
                 </div>
               </form> -->
 
-              <form action="appointmentform.php" method="post" role="form" class="php-email-form"
-                data-aos-delay="100">
-                <div class="row">
-                  <div class="col-sm-6">
-                    <div class="single-form">
-                      <input type="text" placeholder="Your Name" name="name" />
-                      <i class="flaticon-user"></i>
+                <form action="appointmentform.php" method="post" role="form" class="php-email-form"
+                  data-aos-delay="100">
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <div class="single-form">
+                        <input type="text" placeholder="Your Name" name="name" />
+                        <i class="flaticon-user"></i>
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="single-form">
+                        <input type="text" placeholder="Your Phone" name="number" />
+                        <i class="flaticon-phone-call"></i>
+                      </div>
+                    </div>
+
+
+                    <div class="col-lg-6">
+                      <div class="single-form">
+                        <label></label>
+                        <input type="date" name="date" placeholder="Date ">
+                      </div>
+                    </div>
+
+
+                    <div class="col-lg-6">
+                      <div class="single-form">
+                        <label> </label>
+                        <input type="text" name="message" id="message" placeholder="Write a message">
+                      </div>
+                    </div>
+
+
+                    <p class="form-message mt-3 alert-danger"></p>
+                    <div class="col-lg-12">
+                      <div class="single-form">
+                        <button class="btn" type="submit"> Make Appointment</button>
+                      </div>
                     </div>
                   </div>
-                  <div class="col-sm-6">
-                    <div class="single-form">
-                      <input type="text" placeholder="Your Phone" name="number" />
-                      <i class="flaticon-phone-call"></i>
-                    </div>
-                  </div>
-
-
-                  <div class="col-lg-6">
-                    <div class="single-form">
-                      <label></label>
-                      <input type="date" name="date" placeholder="Date ">
-                    </div>
-                  </div>
-
-
-                  <div class="col-lg-6">
-                    <div class="single-form">
-                      <label> </label>
-                      <input type="text" name="message" id="message" placeholder="Write a message">
-                    </div>
-                  </div>
-
-
-                  <p class="form-message mt-3 alert-danger"></p>
-                  <div class="col-lg-12">
-                    <div class="single-form">
-                      <button class="btn" type="submit"> Make Appointment</button>
-                    </div>
-                  </div>
-                </div>
-              </form>
+                </form>
 
 
 
@@ -613,91 +659,91 @@
 
 
 
+
+              </div>
+              <!--  Appointment Form Inner End -->
+            </div>
+            <!--  Appointment Form Wrapper End -->
+          </div>
+        </div>
+      </div>
+      <!--  Appointment Wrapper End -->
+    </div>
+    <img class="shape d-none d-md-block" src="assets/images/r-shape.png" alt="" />
+  </div>
+  <!--  Appointment Section End -->
+
+
+
+
+  <div class="section result-area section-padding-02 mt-3">
+    <div class="container">
+      <div class="result-wrapper">
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <!--  Result Title Start -->
+            <div class="section-title result-title text-center">
+              <h2 class="title">The Best Possible Results</h2>
 
             </div>
-            <!--  Appointment Form Inner End -->
-          </div>
-          <!--  Appointment Form Wrapper End -->
-        </div>
-      </div>
-    </div>
-    <!--  Appointment Wrapper End -->
-  </div>
-  <img class="shape d-none d-md-block" src="assets/images/r-shape.png" alt="" />
-</div>
-<!--  Appointment Section End -->
-
-
-
-
-<div class="section result-area section-padding-02 mt-3">
-  <div class="container">
-    <div class="result-wrapper">
-      <div class="row justify-content-center">
-        <div class="col-lg-10">
-          <!--  Result Title Start -->
-          <div class="section-title result-title text-center">
-            <h2 class="title">The Best Possible Results</h2>
-
-          </div>
-          <!--  Result Title End -->
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!--  Result Area Start -->
-  <section>
-    <div class="container">
-      <div class="row my-5">
-        <div class="col-lg-6 col-md-6 col-sm-6 ">
-          <img src="assets/img/before/1.png" class="img-fluid my-5" alt="">
-          <div class="result-content text-center">
-            <h2 class="title">Before</h2>
-            <p>
-              ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
-          </div>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-6">
-          <img src="assets/img/before/2.png" class="img-fluid my-5" alt="">
-
-          <div class="result-content text-center">
-            <h2 class="title">After</h2>
-            <p>
-              avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
+            <!--  Result Title End -->
           </div>
         </div>
       </div>
     </div>
-  </section>
-  <!--  Result Area End -->
 
+    <!--  Result Area Start -->
+    <section>
+      <div class="container">
+        <div class="row my-5">
+          <div class="col-lg-6 col-md-6 col-sm-6 ">
+            <img src="assets/img/before/1.png" class="img-fluid my-5" alt="">
+            <div class="result-content text-center">
+              <h2 class="title">Before</h2>
+              <p>
+                ensure your teeth are clean and free of cavities by visiting your dentist. Avoid consuming staining foods and drinks to achieve the best results. </p>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6">
+            <img src="assets/img/before/2.png" class="img-fluid my-5" alt="">
 
-
-
-
-
-  <section class="my-5 treatment_section mx-3   ">
-    <div class="container">
-      <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2;">Our Equipment</h1>
-      <div class="row mt-1 g-5">
-        <div class="col-md-4 col-12">
-          <img src="assets/images/services/equipment_1.png" alt="" class="img-fluid">
-        </div>
-        <div class="col-md-4 col-12">
-          <img src="assets/images/services/equipment_2.png" alt="" class="img-fluid">
-
-        </div>
-        <div class="col-md-4 col-12">
-          <img src="assets/images/services/equipment_3.png" alt="" class="img-fluid">
-
+            <div class="result-content text-center">
+              <h2 class="title">After</h2>
+              <p>
+                avoid dark-colored foods and drinks to prevent staining. Maintain good oral hygiene to keep your smile bright and long-lasting </p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
+    <!--  Result Area End -->
 
 
-  <!-- <section class="my-5  ">
+
+
+
+
+    <section class="my-5 treatment_section mx-3   ">
+      <div class="container">
+        <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2;">Our Equipment</h1>
+        <div class="row mt-1 g-5">
+          <div class="col-md-4 col-12">
+            <img src="assets/images/services/equipment11.png" alt="" class="img-fluid">
+          </div>
+          <div class="col-md-4 col-12">
+            <img src="assets/images/services/equipment12.png" alt="" class="img-fluid">
+
+          </div>
+          <div class="col-md-4 col-12">
+            <img src="assets/images/services/equipment13.png" alt="" class="img-fluid">
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- <section class="my-5  ">
     <div class="container">
       <h1 class="text-center" style="font-size: 36px; font-weight: 900; color:  #d853a2">Our Treatment</h1>
       <div class="row mt-1 g-5">
@@ -716,7 +762,7 @@
     </div>
   </section>  -->
 
-  <!-- 
+    <!-- 
   <section class="found1">
     <div class="container" >
       <h1 class=" intro1 text-center" style="font-size: 36px; font-weight: 900; color:#d853a2;">Our Works </h1>
@@ -770,120 +816,120 @@
 
 
 
-  <!--  Testimonial Area Start -->
-  <div class="section testimonial-area section-padding">
-    <div class="container">
-      <div class="testimonial-wrapper">
-        <div class="row justify-content-center">
-          <div class="col-lg-10">
-            <!--  Testimonial Title Start -->
-            <div class="section-title result-title text-center">
-              <h3 class="sub-title">Our Clients Reviews</h3>
-              <h2 class="title">Real Review From Our Real Customer</h2>
-            </div>
-            <!--  Testimonial Title End -->
-          </div>
-        </div>
-
-        <!--  Testimonial Content Wrapper Start -->
-        <div class="testimonial-content-wrapper">
-          <div class="row-wrapper testimonial-active dot-style">
-            <div class="custom-col">
-              <div class="single-testimonial">
-                <div class="testimonial-content d-flex align-items-center">
-                  <div class="testimonial-img">
-                    <img src="assets/images/testimonial-2.png" alt="" />
-                    <i class="flaticon-right-quotation-mark"></i>
-                  </div>
-                  <div class="testimonial-client">
-                    <h3 class="name">
-                      K.V.RAMESH</h3>
-                    <span>Dental patient</span>
-                  </div>
-                </div>
-                <div class="testimonial-text">
-                  <p>
-                    I visited Leela dental clinic for my dental procedure they guided me so well for the treatment plan procedure was stress free has been very helpful and responsible throughout the year and I strongly recommended this clinic
-                  </p>
-                </div>
+    <!--  Testimonial Area Start -->
+    <div class="section testimonial-area section-padding">
+      <div class="container">
+        <div class="testimonial-wrapper">
+          <div class="row justify-content-center">
+            <div class="col-lg-10">
+              <!--  Testimonial Title Start -->
+              <div class="section-title result-title text-center">
+                <h3 class="sub-title">Our Clients Reviews</h3>
+                <h2 class="title">Real Review From Our Real Customer</h2>
               </div>
-            </div>
-            <div class="custom-col">
-              <div class="single-testimonial">
-                <div class="testimonial-content d-flex align-items-center">
-                  <div class="testimonial-img">
-                    <img src="assets/images/testimonial-2.png" alt="" />
-                    <i class="flaticon-right-quotation-mark"></i>
-                  </div>
-                  <div class="testimonial-client">
-                    <h3 class="name">
-                      Srinu Koripuri</h3>
-                    <span>Dental patient</span>
-                  </div>
-                </div>
-                <div class="testimonial-text">
-                  <p>
-                    I am so grateful to have found Dr krishnam Raju and his wonderful staff.after struggling with various teeth issues for years ,i am convinced that that I am really looking better now receiving the very best,state of the art care that I have ever experienced anywhere.dr krishnam raju is amazing and he is the best dentist in kakinada
-
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="custom-col">
-              <div class="single-testimonial">
-                <div class="testimonial-content d-flex align-items-center">
-                  <div class="testimonial-img">
-                    <img src="assets/images/testimonial-2.png" alt="" />
-                    <i class="flaticon-right-quotation-mark"></i>
-                  </div>
-                  <div class="testimonial-client">
-                    <h3 class="name">
-                      Ravi Shankar</h3>
-                    <span>Dental patient</span>
-                  </div>
-                </div>
-                <div class="testimonial-text">
-                  <p>
-                    My mom got the root canal treatment recently here. Satisfied with the treatment and the overall process. Next steps at each visit are communicated clearly.
-
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="custom-col">
-              <div class="single-testimonial">
-                <div class="testimonial-content d-flex align-items-center">
-                  <div class="testimonial-img">
-                    <img src="assets/images/testimonial-2.png" alt="" />
-                    <i class="flaticon-right-quotation-mark"></i>
-                  </div>
-                  <div class="testimonial-client">
-                    <h3 class="name">
-                      murali gajula</h3>
-                    <span>Dental patient</span>
-                  </div>
-                </div>
-                <div class="testimonial-text">
-                  <p>
-                    Excellent treatment
-                    Wonderful equipment
-                    Many thanks to Dr.Bhavana for excellent treatment and care as well as nice guidance
-                    Reception staff were also supportive and helpful.nice manners.
-                  </p>
-                </div>
-              </div>
+              <!--  Testimonial Title End -->
             </div>
           </div>
+
+          <!--  Testimonial Content Wrapper Start -->
+          <div class="testimonial-content-wrapper">
+            <div class="row-wrapper testimonial-active dot-style">
+              <div class="custom-col">
+                <div class="single-testimonial">
+                  <div class="testimonial-content d-flex align-items-center">
+                    <div class="testimonial-img">
+                      <img src="assets/images/testimonial-2.png" alt="" />
+                      <i class="flaticon-right-quotation-mark"></i>
+                    </div>
+                    <div class="testimonial-client">
+                      <h3 class="name">
+                        K.V.RAMESH</h3>
+                      <span>Dental patient</span>
+                    </div>
+                  </div>
+                  <div class="testimonial-text">
+                    <p>
+                      I visited Leela dental clinic for my dental procedure they guided me so well for the treatment plan procedure was stress free has been very helpful and responsible throughout the year and I strongly recommended this clinic
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="custom-col">
+                <div class="single-testimonial">
+                  <div class="testimonial-content d-flex align-items-center">
+                    <div class="testimonial-img">
+                      <img src="assets/images/testimonial-2.png" alt="" />
+                      <i class="flaticon-right-quotation-mark"></i>
+                    </div>
+                    <div class="testimonial-client">
+                      <h3 class="name">
+                        Srinu Koripuri</h3>
+                      <span>Dental patient</span>
+                    </div>
+                  </div>
+                  <div class="testimonial-text">
+                    <p>
+                      I am so grateful to have found Dr krishnam Raju and his wonderful staff.after struggling with various teeth issues for years ,i am convinced that that I am really looking better now receiving the very best,state of the art care that I have ever experienced anywhere.dr krishnam raju is amazing and he is the best dentist in kakinada
+
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="custom-col">
+                <div class="single-testimonial">
+                  <div class="testimonial-content d-flex align-items-center">
+                    <div class="testimonial-img">
+                      <img src="assets/images/testimonial-2.png" alt="" />
+                      <i class="flaticon-right-quotation-mark"></i>
+                    </div>
+                    <div class="testimonial-client">
+                      <h3 class="name">
+                        Ravi Shankar</h3>
+                      <span>Dental patient</span>
+                    </div>
+                  </div>
+                  <div class="testimonial-text">
+                    <p>
+                      My mom got the root canal treatment recently here. Satisfied with the treatment and the overall process. Next steps at each visit are communicated clearly.
+
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="custom-col">
+                <div class="single-testimonial">
+                  <div class="testimonial-content d-flex align-items-center">
+                    <div class="testimonial-img">
+                      <img src="assets/images/testimonial-2.png" alt="" />
+                      <i class="flaticon-right-quotation-mark"></i>
+                    </div>
+                    <div class="testimonial-client">
+                      <h3 class="name">
+                        murali gajula</h3>
+                      <span>Dental patient</span>
+                    </div>
+                  </div>
+                  <div class="testimonial-text">
+                    <p>
+                      Excellent treatment
+                      Wonderful equipment
+                      Many thanks to Dr.Bhavana for excellent treatment and care as well as nice guidance
+                      Reception staff were also supportive and helpful.nice manners.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--  Testimonial Content Wrapper End -->
         </div>
-        <!--  Testimonial Content Wrapper End -->
       </div>
     </div>
-  </div>
-  <!--  Testimonial Area End -->
+    <!--  Testimonial Area End -->
 
-  <!--  Blog Area Start -->
-  <!-- <div class="section blog-area section-padding"> -->
-  <!-- <div class="container">
+    <!--  Blog Area Start -->
+    <!-- <div class="section blog-area section-padding"> -->
+    <!-- <div class="container">
    
     <div class="blog-wrapper">
       <div class="row justify-content-center">
@@ -1000,10 +1046,10 @@
    
   </div> 
 </div>-->
-  <!--  Blog Area End -->
+    <!--  Blog Area End -->
 
-  <!--  Subscribe Area Start -->
-  <!-- <div class="section subscribe-area">
+    <!--  Subscribe Area Start -->
+    <!-- <div class="section subscribe-area">
        <div class="container">
          <div class="subscribe-wrapper">
            <div class="row">
@@ -1030,124 +1076,124 @@
          </div>
        </div> 
      </div> -->
-  <!--  Subscribe Area End -->
+    <!--  Subscribe Area End -->
 
 
 
 
 
-  <script>
-    var swiper = new Swiper(".custom-slide-content", {
-      slidesPerView: 3,
-      spaceBetween: 25,
-      loop: true,
-      centerslide: 'true',
-      fade: 'true',
-      grabCursor: 'true',
-      pagination: {
-        el: ".custom-swiper-pagination",
-        clickable: true,
-        dynamicBullets: true,
-      },
-      autoplay: {
-        delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
-        disableOnInteraction: false, // Keeps autoplay active even after manual swiping
-      },
-      navigation: {
-        nextEl: ".swiper-button-next.custom-swiper-navBtn",
-        prevEl: ".swiper-button-prev.custom-swiper-navBtn",
-      },
-
-      breakpoints: {
-        0: {
-          slidesPerView: 1,
+    <script>
+      var swiper = new Swiper(".custom-slide-content", {
+        slidesPerView: 3,
+        spaceBetween: 25,
+        loop: true,
+        centerslide: 'true',
+        fade: 'true',
+        grabCursor: 'true',
+        pagination: {
+          el: ".custom-swiper-pagination",
+          clickable: true,
+          dynamicBullets: true,
         },
-        520: {
-          slidesPerView: 2,
+        autoplay: {
+          delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+          disableOnInteraction: false, // Keeps autoplay active even after manual swiping
         },
-        950: {
-          slidesPerView: 3,
+        navigation: {
+          nextEl: ".swiper-button-next.custom-swiper-navBtn",
+          prevEl: ".swiper-button-prev.custom-swiper-navBtn",
         },
-      },
-    });
-  </script>
+
+        breakpoints: {
+          0: {
+            slidesPerView: 1,
+          },
+          520: {
+            slidesPerView: 2,
+          },
+          950: {
+            slidesPerView: 3,
+          },
+        },
+      });
+    </script>
 
 
 
 
-  <section>
-    <div class="container">
+    <section>
+      <div class="container">
 
-      <h1 class="text-center">Frequently Ask Question (FAQ)</h1>
-      <div class="row">
-        <div class="col-12 col-md-6">
-          <div class="accordion">
-            <!-- Accordion 1 -->
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">What services are available at Leela Dental Hospital, Kakinada?
-                </h2>
-                <h2 class="accordion-icon">+</h2>
+        <h1 class="text-center">Frequently Ask Question (FAQ)</h1>
+        <div class="row">
+          <div class="col-12 col-md-6">
+            <div class="accordion">
+              <!-- Accordion 1 -->
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">What services are available at Leela Dental Hospital, Kakinada?
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof </p>
+                </div>
               </div>
-              <div class="accordion-content">
-                <p>
-                  We offer a complete range of dental treatments, including dental implants, root canals, crowns, bridges, teeth whitening, braces, pediatric dentistry, and smile designing — all under one roof </p>
+              <!-- Accordion 2 -->
+
+
+
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">What is the cost of a dental implant in Kakinada?
+
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs </p>
+                </div>
               </div>
-            </div>
-            <!-- Accordion 2 -->
 
 
 
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">What is the cost of a dental implant in Kakinada?
 
-                </h2>
-                <h2 class="accordion-icon">+</h2>
+
+
+
+
+              <!-- Accordion 3 -->
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">Do you provide dental implants in Kakinada?
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration </p>
+                </div>
               </div>
-              <div class="accordion-content">
-                <p>
-                  The cost of dental implants varies based on the number of teeth, bone condition, and implant type. At Leela Dental Hospital, we provide cost-effective plans tailored to your needs </p>
+
+              <!-- Accordion 4 -->
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">What makes Leela Dental Hospital different from other clinics in Kakinada?
+
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments
+
+                  </p>
+                </div>
               </div>
-            </div>
-
-
-
-
-
-
-
-
-            <!-- Accordion 3 -->
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">Do you provide dental implants in Kakinada?
-                </h2>
-                <h2 class="accordion-icon">+</h2>
-              </div>
-              <div class="accordion-content">
-                <p>
-                  Yes. We offer safe, affordable, and long-lasting dental implant solutions in Kakinada. Our implant specialists ensure natural aesthetics and functional restoration </p>
-              </div>
-            </div>
-
-            <!-- Accordion 4 -->
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">What makes Leela Dental Hospital different from other clinics in Kakinada?
-
-                </h2>
-                <h2 class="accordion-icon">+</h2>
-              </div>
-              <div class="accordion-content">
-                <p>
-                  We combine advanced dental technology, experienced specialists, and a patient-first approach. Our clinic is known for its hygienic environment, transparent pricing, and painless treatments
-
-                </p>
-              </div>
-            </div>
-            <!-- Accordion 5 -->
-            <!-- <div class="faq_section">
+              <!-- Accordion 5 -->
+              <!-- <div class="faq_section">
               <div class="accordion-header" onclick="toggleAccordion(this)">
                 <h2 class="faq_heading_section">Can cancer be prevented?
                 </h2>
@@ -1160,72 +1206,72 @@
               </div> 
             </div>-->
 
+            </div>
+
           </div>
-
-        </div>
-        <div class="col-12 col-md-6">
+          <div class="col-12 col-md-6">
 
 
-          <div class="accordion">
-            <!-- Accordion 1 -->
+            <div class="accordion">
+              <!-- Accordion 1 -->
 
-            <!-- Accordion 2 -->
-            <div class="faq_section">
+              <!-- Accordion 2 -->
+              <div class="faq_section">
 
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">Is root canal treatment painful?
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">Is root canal treatment painful?
 
-                </h2>
-                <h2 class="accordion-icon">+</h2>
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort </p>
+                </div>
               </div>
-              <div class="accordion-content">
-                <p>
-                  No. Root canal treatment at Leela Dental Hospital is done using modern, pain-free techniques. Local anesthesia ensures a comfortable experience with minimal discomfort </p>
-              </div>
-            </div>
 
 
 
-            <div class="faq_section">
+              <div class="faq_section">
 
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section"> Is Leela Dental Hospital the best dental clinic in Kakinada?
-                </h2>
-                <h2 class="accordion-icon">+</h2>
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section"> Is Leela Dental Hospital the best dental clinic in Kakinada?
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results </p>
+                </div>
               </div>
-              <div class="accordion-content">
-                <p>
-                  Leela Dental Hospital is one of the top-rated dental clinics in Kakinada, known for experienced dentists, modern equipment, and patient-centered care. Our focus is on comfort, quality, and lasting results </p>
-              </div>
-            </div>
 
 
-            <!-- Accordion 3 -->
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">Do you treat children at Leela Dental Hospital?
+              <!-- Accordion 3 -->
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">Do you treat children at Leela Dental Hospital?
 
-                </h2>
-                <h2 class="accordion-icon">+</h2>
+                  </h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids </p>
+                </div>
               </div>
-              <div class="accordion-content">
-                <p>
-                  Yes, we provide child-friendly dental care. From cavity fillings to preventive treatments, our team creates a comfortable and reassuring environment for kids </p>
+              <!-- Accordion 4 -->
+              <div class="faq_section">
+                <div class="accordion-header" onclick="toggleAccordion(this)">
+                  <h2 class="faq_heading_section">How do I book an appointment at Leela Dental Hospital?</h2>
+                  <h2 class="accordion-icon">+</h2>
+                </div>
+                <div class="accordion-content">
+                  <p>
+                    You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability </p>
+                </div>
               </div>
-            </div>
-            <!-- Accordion 4 -->
-            <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">How do I book an appointment at Leela Dental Hospital?</h2>
-                <h2 class="accordion-icon">+</h2>
-              </div>
-              <div class="accordion-content">
-                <p>
-                  You can book your appointment online through our website or call our clinic directly. Walk-ins are also welcome based on doctor availability </p>
-              </div>
-            </div>
-            <!-- Accordion 5 -->
-            <!-- <div class="faq_section">
+              <!-- Accordion 5 -->
+              <!-- <div class="faq_section">
               <div class="accordion-header" onclick="toggleAccordion(this)">
                 <h2 class="faq_heading_section"> Can cancer be cured if detected early?
                 </h2>
@@ -1238,30 +1284,49 @@
               </div>
             </div> -->
 
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
+
+
+
+
+
+    <script>
+      let unicCurrentIndex = 0;
+      const unicImages = document.querySelectorAll('.unic-slider-image');
+
+      function unicShowNextImage() {
+        unicImages[unicCurrentIndex].classList.remove('active');
+        unicCurrentIndex = (unicCurrentIndex + 1) % unicImages.length;
+        unicImages[unicCurrentIndex].classList.add('active');
+      }
+
+      // Start slider
+      if (unicImages.length > 0) {
+        unicImages[unicCurrentIndex].classList.add('active');
+        setInterval(unicShowNextImage, 4000); // every 3 seconds
+      }
+    </script>
 
 
 
 
 
 
-  <script>
-    function toggleAccordion(header) {
-      const content = header.nextElementSibling;
-      const icon = header.querySelector(".accordion-icon");
+    <script>
+      function toggleAccordion(header) {
+        const content = header.nextElementSibling;
+        const icon = header.querySelector(".accordion-icon");
 
-      content.classList.toggle("open");
-      icon.classList.toggle("rotate");
+        content.classList.toggle("open");
+        icon.classList.toggle("rotate");
 
-      icon.textContent = content.classList.contains("open") ? "−" : "+";
-    }
-  </script>
-
-      
+        icon.textContent = content.classList.contains("open") ? "−" : "+";
+      }
+    </script>
 
 
 
@@ -1273,4 +1338,6 @@
 
 
 
-  <?php include 'footer.php'; ?>
+
+
+    <?php include 'footer.php'; ?>

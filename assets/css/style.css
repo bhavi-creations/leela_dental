@@ -11456,4 +11456,56 @@ leeela dental @media (max-width:768px) {
 
 
 
+/* slider for awards  */
 
+.unic-slider-container {
+  position: relative;
+  /* width: 100%; */
+  height: 350px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.unic-slider-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.unic-slider-image.active {
+  opacity: 1;
+  z-index: 1;
+}
+
+.unic-features-text p {
+  margin-bottom: 15px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+
+
+@media (max-width:768px) {
+  .unic-features-text p{
+    margin-top: 20px !important;
+  }
+  
+}
+
+
+.award-highlight {
+  font-size: 20px;
+  font-weight: 600;
+  color: #b92a7e, ;
+  background: #e8f0fe;
+  padding: 15px 20px;
+  border-left: 5px solid #b92a7e;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin: 20px 0;
+  line-height: 1.6;
+}
