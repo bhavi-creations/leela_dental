@@ -94,7 +94,7 @@
         <!-- Features Content End -->
 
         <!-- Features Icon Wrapper Start -->
-        <div class="features-icon-wrapper">
+        <div class="features-icon-wrapper mb-5">
           <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 justify-content-around">
             <!-- Features Item Start -->
             <div class="col">
