@@ -415,8 +415,8 @@ EHS dental treatment in Kakinada ">
                 Equipment
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner</a></li>
-                <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+                <li><a class="dropdown-item" href="dental_ct_scan.php">intraoral scanner</a></li>
+                <li><a class="dropdown-item" href="ray.php">Dental CT-Scan (CBCT)</a></li>
                 <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
               </ul>
             </li>
@@ -500,8 +500,8 @@ EHS dental treatment in Kakinada ">
             <li class="nav-item dropdown">
               <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
               <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
-                <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner</a></li>
-                <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+                <li><a class="dropdown-item" href="dental_ct_scan.php">intraoral Scanner</a></li>
+                <li><a class="dropdown-item" href="ray.php">Dental CT-Scan (CBCT)</a></li>
                 <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
               </ul>
             </li>
