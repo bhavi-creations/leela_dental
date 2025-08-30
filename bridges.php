@@ -4,7 +4,6 @@
 
 <img src="assets/img/sliders_images/bridges.png" class="img-fluid service_img" alt="">
 
-    
 
 <section class="service_section my-5">
     <div class="container">

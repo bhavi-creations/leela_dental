@@ -272,10 +272,7 @@
 
                     <img src="assets/images/services/equipment3.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
                   </div>
-                  <!-- <div class="custom-card custom_card_bg_three swiper-slide">
-
-              <img src="assets/images/services/equipment6.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
-            </div> -->
+             
                   <div class="custom-card custom_card_bg_three swiper-slide">
 
                     <img src="assets/images/services/equipment5.png" alt="Garuda  Trades" class="img-fluid custom-card-img ">
